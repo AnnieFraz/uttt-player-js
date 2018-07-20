@@ -1,5 +1,8 @@
+"use strict";
+
 const MCTSNode = require('./mcts-node');
-const Move = require('./move')
+const Move = require('./move');
+const State = require('./state');
 
 class MCTS{
 
@@ -10,9 +13,8 @@ class MCTS{
     }
 
     makeNode(state){
-        console.log(state);
         if(!this.nodes.has(state.hash())){
-            let unexpandedPlays = this.legalMoves(state).slice(); //TODO: Make this
+            let unexpandedPlays = this.legalMoves(state).slice();
             let node = new MCTSNode(null, null, state, unexpandedPlays);
             this.nodes.set(state.hash(), node)
         }
@@ -31,8 +33,10 @@ class MCTS{
 
             let node = this.select(state);
             let winner = state.board.winner;
-
-            if (node.isLeaf() === false && winner === null) {
+            //Check this
+            console.log(node.state.board.winner);
+            if (node.isLeaf() === false && winner === undefined) {
+                console.log("aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa")
                 node = this.expand(node);
                 winner = this.simulate(node);
             }
@@ -50,21 +54,22 @@ class MCTS{
 
     bestMove(state){
         //Todo
+        //console.log(state);
         this.makeNode(state);
 
         if(this.nodes.get(state.hash()).isFullyExpanded() === false)
             throw new Error("Not enough information!");
 
-        let node = this.nodes.get(state.hash);
+        let node = this.nodes.get(state.hash());
         let allMoves = node.allMoves();
         let bestMove;
 
         let max = -Infinity;
         for(let move of allMoves) {
             let childNode = node.childNote(move);
-            let ratio = childNode.n_wins / childNode.n_plays;
+            let ratio = childNode.n_wins / childNode.n_moves;
             if(ratio > max){
-                bestMove = play;
+                bestMove = move;
                 max = ratio;
             }
         }
@@ -99,6 +104,7 @@ class MCTS{
     //Phase 2
     expand(node){
         //Todo
+        console.log("expand")
         let moves = node.unexpandedMoves();
         let index = Math.floor(Math.random() * moves.length);
         let move = moves[index];
@@ -116,13 +122,13 @@ class MCTS{
     simulate(node){
         //Todo
         let state = node.state;
-        let winner = this.game.winner(state);
+        let winner = state.board.winner;
 
         while(winner === null){
             let moves = this.legalPlays(state); //TODO: Utility function
             let move = moves[Math.floor(Math.random() * moves.length)];
             state = this.nextState(state, move); //TODO: Utility function
-            winner = this.winner(state); //TODO: Utility function
+            winner = state.board.winner; //TODO: Utility function
         }
     }
 
@@ -131,7 +137,7 @@ class MCTS{
     backpropogate(node, winner){
 
         while(node != null){
-            node.n_plays += 1;
+            node.n_moves += 1;
 
             if(node.state.isPlayer(-winner)){
                 node.n_wins += 1;
@@ -144,7 +150,18 @@ class MCTS{
 
     /** Utility functions to fill gaps in engine api **/
     nextState(state, move){
-        return state.board.addMyMove(move.getBoardCoords(),move.getCoords())
+        let newHistory = state.moveHistory.slice();
+        newHistory.push(move);
+        let newBoard;
+        if(state.player === 1){
+            newBoard = state.board.addMyMove(move.getBoardCoords(),move.getCoords());
+        }else{
+            newBoard = state.board.addOpponentMove(move.getBoardCoords(),move.getCoords());
+        }
+        
+        let newPlayer = -state.player;
+
+        return new State(newHistory, newBoard, newPlayer);
     }
 
     legalMoves(state){
