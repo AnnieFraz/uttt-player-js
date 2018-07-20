@@ -1,8 +1,11 @@
+"use strict";
+
 const UTTT = require('@socialgorithm/ultimate-ttt').default;
 const ME = require("@socialgorithm/ultimate-ttt/dist/model/constants").ME;
 const OPPONENT = require("@socialgorithm/ultimate-ttt/dist/model/constants").OPPONENT;
 const MCTS = require("./mcts");
 const State = require("./state");
+const Move = require('./move');
 
 class GameLogic {
     constructor(player, size = 3){
@@ -12,7 +15,7 @@ class GameLogic {
 
         this.size = size;
         this.player = player;
-        this.opponent = 1 - player;
+        this.opponent = -player;
 
         this.init();
     }
@@ -52,8 +55,10 @@ class GameLogic {
     }
 
     getMove(){
+        console.log(this.state);
         this.mcts.runSearch(this.state);
-        return this.mcts.bestMove();
+        console.log(this.state);
+        return this.mcts.bestMove(this.state);
     }
 }
 
