@@ -1,3 +1,5 @@
+"use strict";
+
 class MCTSNode{
 
     constructor(parent, move, state, unexpandedMoves){
@@ -5,7 +7,7 @@ class MCTSNode{
         this.state = state;
 
         //MonteCarlo
-        this.n_plays = 0;
+        this.n_moves = 0;
         this.n_wins = 0;
 
         //Tree
@@ -66,6 +68,9 @@ class MCTSNode{
 
     isFullyExpanded(){
         //TODO: Check this
+        //console.log("-----------------------------------------------");
+        //console.log(this);
+
         for(let child of this.children.values()){
             if(child.node === null)
                 return false;
@@ -83,7 +88,7 @@ class MCTSNode{
     }
 
     getUCB1(biasParam){
-        return (this.n_wins / this.n_plays) + Math.sqrt(biasParam * Math.log(this.parent.n_plays) / this.n_plays);
+        return (this.n_wins / this.n_moves) + Math.sqrt(biasParam * Math.log(this.parent.n_moves) / this.n_moves);
     }
 
 }
