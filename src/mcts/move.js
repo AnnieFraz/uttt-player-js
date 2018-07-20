@@ -1,3 +1,5 @@
+"use strict";
+
 class Move {
 
     constructor(row, col, subRow, subCol){
