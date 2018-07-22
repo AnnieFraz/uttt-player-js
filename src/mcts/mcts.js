@@ -14,8 +14,8 @@ class MCTS{
 
     makeNode(state){
         if(!this.nodes.has(state.hash())){
-            let unexpandedPlays = this.legalMoves(state).slice();
-            let node = new MCTSNode(null, null, state, unexpandedPlays);
+            let unexpandedMoves = state.legalMoves().slice();
+            let node = new MCTSNode(null, null, state, unexpandedMoves);
             this.nodes.set(state.hash(), node)
         }
     }
@@ -34,16 +34,14 @@ class MCTS{
             let node = this.select(state);
             let winner = state.board.winner;
             //Check this
-            console.log(node.state.board.winner);
             if (node.isLeaf() === false && winner === undefined) {
-                console.log("aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa")
                 node = this.expand(node);
                 winner = this.simulate(node);
             }
 
             this.backpropogate(node, winner);
 
-            if (winner === 0)
+            if (winner === -1)
                 draws++;
 
             totalSims++;
@@ -54,7 +52,6 @@ class MCTS{
 
     bestMove(state){
         //Todo
-        //console.log(state);
         this.makeNode(state);
 
         if(this.nodes.get(state.hash()).isFullyExpanded() === false)
@@ -82,6 +79,7 @@ class MCTS{
     select(state){
         //Todo
         let node = this.nodes.get(state.hash());
+
         while(node.isFullyExpanded() && !node.isLeaf()){
             let moves = node.allMoves();
             let bestMove;
@@ -103,15 +101,16 @@ class MCTS{
 
     //Phase 2
     expand(node){
-        //Todo
-        console.log("expand")
+
         let moves = node.unexpandedMoves();
         let index = Math.floor(Math.random() * moves.length);
         let move = moves[index];
 
-        let childState = this.nextState(node.state, move); //TODO: Make this work (Utility functions)
-        let childUnexpandedPlays = this.legalMoves(childState); //TODO: Make this work (Utility functions)
-        let childNode = node.expand(move, childState, childUnexpandedPlays);
+        let childState = node.state.nextState(move); //TODO: Make this work (Utility functions)
+        let childUnexpandedMoves = childState.legalMoves(); //TODO: Make this work (Utility functions)
+
+        let childNode = node.expand(move, childState, childUnexpandedMoves);
+
         this.nodes.set(childState.hash(), childNode);
 
         return childNode;
@@ -124,12 +123,14 @@ class MCTS{
         let state = node.state;
         let winner = state.board.winner;
 
-        while(winner === null){
-            let moves = this.legalPlays(state); //TODO: Utility function
+        while(winner === undefined){
+            let moves = state.legalMoves(); //TODO: Utility function
             let move = moves[Math.floor(Math.random() * moves.length)];
-            state = this.nextState(state, move); //TODO: Utility function
+            state = state.nextState(move); //TODO: Utility function
             winner = state.board.winner; //TODO: Utility function
         }
+
+        return winner;
     }
 
 
@@ -146,39 +147,6 @@ class MCTS{
             node = node.parent;
         }
     }
-
-
-    /** Utility functions to fill gaps in engine api **/
-    nextState(state, move){
-        let newHistory = state.moveHistory.slice();
-        newHistory.push(move);
-        let newBoard;
-        if(state.player === 1){
-            newBoard = state.board.addMyMove(move.getBoardCoords(),move.getCoords());
-        }else{
-            newBoard = state.board.addOpponentMove(move.getBoardCoords(),move.getCoords());
-        }
-        
-        let newPlayer = -state.player;
-
-        return new State(newHistory, newBoard, newPlayer);
-    }
-
-    legalMoves(state){
-        let validBoards = state.board.getValidBoards();
-        let moves = [];
-        for(let subCoords of validBoards){
-            let subBoard = state.board.board[subCoords[0]][subCoords[1]];
-            let validMoves = subBoard.getValidMoves();
-            for(let valMove of validMoves){
-                let move = new Move(subCoords[0], subCoords[1], valMove[0], valMove[1]);
-                moves.push(move)
-            }
-        }
-
-        return moves;
-    }
-
 }
 
 

@@ -25,7 +25,7 @@ class MCTSNode{
         //TODO: Check this
         let child = this.children.get(move.hash());
         if(child === undefined){
-            throw new Error("No such play!");
+            throw new Error("No such move!");
         }else if(child.node === null){
             throw new Error("Child is not expanded!");
         }
@@ -36,7 +36,7 @@ class MCTSNode{
     expand(move, childState, unexpandedMoves){
         //TODO: Check this
         if (!this.children.has(move.hash()))
-            throw new Error("No such play!");
+            throw new Error("No such move!");
 
         let childNode = new MCTSNode(this, move, childState, unexpandedMoves);
         this.children.set(move.hash(), {move: move, node: childNode})
@@ -68,8 +68,6 @@ class MCTSNode{
 
     isFullyExpanded(){
         //TODO: Check this
-        //console.log("-----------------------------------------------");
-        //console.log(this);
 
         for(let child of this.children.values()){
             if(child.node === null)

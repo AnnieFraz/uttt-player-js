@@ -15,7 +15,7 @@ class GameLogic {
 
         this.size = size;
         this.player = player;
-        this.opponent = -player;
+        this.opponent = 1 - player;
 
         this.init();
     }
@@ -31,6 +31,7 @@ class GameLogic {
     addOpponentMove(board, move) {
         try {
             this.game = this.game.addOpponentMove(board, move);
+            this.state = this.state.nextState(new Move(board[0], board[1], move[0], move[1]))
         } catch (e) {
             console.error('-------------------------------');
             console.error("\n"+'AddOpponentMove: Game probably already over when adding', board, move, e);
@@ -44,6 +45,7 @@ class GameLogic {
     addMove(board, move){
         try {
             this.game = this.game.addMyMove(board, move);
+            this.state = this.state.nextState(new Move(board[0], board[1], move[0], move[1]))
         } catch (e) {
             console.error('-------------------------------');
             console.error("\n"+'AddMyMove: Game probably already over when adding', board, move, e);
@@ -55,10 +57,8 @@ class GameLogic {
     }
 
     getMove(){
-        console.log(this.state);
-        this.mcts.runSearch(this.state);
-        console.log(this.state);
-        return this.mcts.bestMove(this.state);
+        this.mcts.runSearch(this.state, 1);
+        return this.mcts.bestMove(this.state); //Returns move object
     }
 }
 
