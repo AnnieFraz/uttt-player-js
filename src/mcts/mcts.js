@@ -20,14 +20,14 @@ class MCTS{
         }
     }
 
-    runSearch(state, timeout = 3){
+    runSearch(state, timeout = 10){
         //Todo
         this.makeNode(state);
 
         let draws = 0;
         let totalSims = 0;
 
-        let end = Date.now() + timeout * 1000;
+        let end = Date.now() + timeout;
 
         while(Date.now() < end) {
 
@@ -50,17 +50,20 @@ class MCTS{
         return{runtime: timeout, simulations: totalSims, draws: draws};
     }
 
-    bestMove(state){
-        //Todo
+    bestMove(state, policy = "robust"){
         this.makeNode(state);
 
         if(this.nodes.get(state.hash()).isFullyExpanded() === false)
-            throw new Error("Not enough information!");
+            this.runSearch(state, 1000);
+
+        if(this.nodes.get(state.hash()).isFullyExpanded() === false)
+            throw("Still not working!");
 
         let node = this.nodes.get(state.hash());
         let allMoves = node.allMoves();
         let bestMove;
 
+        /*
         let max = -Infinity;
         for(let move of allMoves) {
             let childNode = node.childNote(move);
@@ -69,7 +72,33 @@ class MCTS{
                 bestMove = move;
                 max = ratio;
             }
+        } */
+
+        // Most visits (robust child)
+        if (policy === "robust") {
+            let max = -Infinity;
+            for (let move of allMoves) {
+                let childNode = node.childNode(move);
+                if (childNode.n_moves > max) {
+                    bestMove = move;
+                    max = childNode.n_moves;
+                }
+            }
         }
+
+        // Highest winrate (max child)
+        else if (policy === "max") {
+            let max = -Infinity;
+            for (let move of allMoves) {
+                let childNode = node.childNode(move);
+                let ratio = childNode.n_wins / childNode.n_moves;
+                if (ratio > max) {
+                    bestMove = move;
+                    max = ratio
+                }
+            }
+        }
+
 
 
         return bestMove;
@@ -86,14 +115,14 @@ class MCTS{
             let bestUCB1 = -Infinity;
 
             for(let move of moves){
-                let childUCB1 = node.childNote(move).getUCB1(this.UCB1ExploreParam);
+                let childUCB1 = node.childNode(move).getUCB1(this.UCB1ExploreParam);
                 if(childUCB1 > bestUCB1){
                     bestMove = move;
                     bestUCB1 = childUCB1;
                 }
             }
 
-            node = node.childNote(bestMove);
+            node = node.childNode(bestMove);
         }
 
         return node;
@@ -106,8 +135,8 @@ class MCTS{
         let index = Math.floor(Math.random() * moves.length);
         let move = moves[index];
 
-        let childState = node.state.nextState(move); //TODO: Make this work (Utility functions)
-        let childUnexpandedMoves = childState.legalMoves(); //TODO: Make this work (Utility functions)
+        let childState = node.state.nextState(move);
+        let childUnexpandedMoves = childState.legalMoves();
 
         let childNode = node.expand(move, childState, childUnexpandedMoves);
 
@@ -124,10 +153,10 @@ class MCTS{
         let winner = state.board.winner;
 
         while(winner === undefined){
-            let moves = state.legalMoves(); //TODO: Utility function
+            let moves = state.legalMoves();
             let move = moves[Math.floor(Math.random() * moves.length)];
-            state = state.nextState(move); //TODO: Utility function
-            winner = state.board.winner; //TODO: Utility function
+            state = state.nextState(move);
+            winner = state.board.winner;
         }
 
         return winner;
