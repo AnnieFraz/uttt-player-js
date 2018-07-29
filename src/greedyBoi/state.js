@@ -5,9 +5,9 @@ const getCloseablePositions = require("./utils");
 
 class State{
 
-    constructor(moveHistory, board, player){
+    constructor(moveHistory, game, player){
         this.moveHistory = moveHistory;
-        this.board = board;
+        this.game = game;
         this.player = player;
     }
 
@@ -22,16 +22,16 @@ class State{
     /** Utility functions to fill gaps in engine api **/
     nextState(move){
 
-        if(this.board.isFinished())
+        if(this.game.isFinished())
                 return this;
 
         let newHistory = this.moveHistory.slice();
         newHistory.push(move);
         let newBoard;
         if(this.player === 1){
-            newBoard = this.board.addMyMove(move.getBoardCoords(),move.getCoords());
+            newBoard = this.game.addMyMove(move.getBoardCoords(),move.getCoords());
         }else if(this.player === 0){
-            newBoard = this.board.addOpponentMove(move.getBoardCoords(),move.getCoords());
+            newBoard = this.game.addOpponentMove(move.getBoardCoords(),move.getCoords());
         }
 
         let newPlayer = 1 - this.player;
@@ -40,13 +40,13 @@ class State{
     }
 
     legalMoves(){
-        let validBoards = this.board.getValidBoards();
+        let validBoards = this.game.getValidBoards();
         let moves = [];
         for(let subCoords of validBoards){
-            let subBoard = this.board.board[subCoords[0]][subCoords[1]];
+            let subBoard = this.game.board[subCoords[0]][subCoords[1]];
             let validMoves = subBoard.getValidMoves();
             for(let valMove of validMoves){
-                let move = new Move(subCoords[0], subCoords[1], valMove[0], valMove[1]);
+                let move = new Move(subCoords[0], subCoords[1], valMove[0], valMove[1], 0);
                 moves.push(move)
             }
         }
@@ -55,10 +55,10 @@ class State{
 
     myWinningMoves(){
 
-        let validBoards = this.board.getValidBoards();
+        let validBoards = this.game.getValidBoards();
         for(let subBoardCoords of validBoards){
 
-            let subBoard = this.board.board[subBoardCoords[0]][subBoardCoords[1]];
+            let subBoard = this.game.board[subBoardCoords[0]][subBoardCoords[1]];
             let myWinningPositions = getCloseablePositions(subBoard.board, this.player);
         
             if (myWinningPositions.length > 0) {
@@ -72,10 +72,10 @@ class State{
 
     opponentWinningMoves(){
 
-        let validBoards = this.board.getValidBoards();
+        let validBoards = this.game.getValidBoards();
         for(let subBoardCoords of validBoards){
 
-            let subBoard = this.board.board[subBoardCoords[0]][subBoardCoords[1]];
+            let subBoard = this.game.board[subBoardCoords[0]][subBoardCoords[1]];
             let opponentWinningMoves = getCloseablePositions(subBoard.board, 1- this.player);
             
             if (opponentWinningMoves.length > 0) {

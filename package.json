@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "description": "Initial UTTT Player for the algorithm competition",
-  "main": "player.js",
+  "main": "player-mcts.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

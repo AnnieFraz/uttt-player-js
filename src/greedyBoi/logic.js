@@ -4,6 +4,7 @@ const OPPONENT = require("@socialgorithm/ultimate-ttt/dist/model/constants").OPP
 const getCloseablePositions = require("./utils");
 const GreedyBoi = require("./greedyBoi");
 const State = require("./state");
+const Move = require("./move");
 
 class GameLogic {
     constructor(player, size = 3){
@@ -29,6 +30,7 @@ class GameLogic {
     addOpponentMove(board, move) {
         try {
             this.game = this.game.addOpponentMove(board, move);
+            this.state = this.state.nextState(new Move(board[0], board[1], move[0], move[1]))
         } catch (e) {
             console.error('-------------------------------');
             console.error("\n"+'AddOpponentMove: Game probably already over when adding', board, move, e);
@@ -42,6 +44,7 @@ class GameLogic {
     addMove(board, move){
         try {
             this.game = this.game.addMyMove(board, move);
+            this.state = this.state.nextState(new Move(board[0], board[1], move[0], move[1]))
         } catch (e) {
             console.error('-------------------------------');
             console.error("\n"+'AddMyMove: Game probably already over when adding', board, move, e);

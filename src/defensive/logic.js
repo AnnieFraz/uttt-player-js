@@ -57,7 +57,6 @@ class GameLogic {
          */
         const weightedMoves = validBoards.map((boardCoords) => {
             const board = this.game.board[boardCoords[0]][boardCoords[1]].board;
-
             const opponentWinningPositions = getCloseablePositions(board, this.opponent);
             if (opponentWinningPositions.length > 0) {
                 return {

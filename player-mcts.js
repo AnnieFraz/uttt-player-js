@@ -1,6 +1,6 @@
 const readline = require('readline');
-// Random player implementation
-const GameLogic = require('./src/defensive/logic');
+// Random playerMcts implementation
+const GameLogic = require('./src/mcts/logic');
 
 /**
  * Random client implementation of the UTTT Game
@@ -12,7 +12,7 @@ function input() {
     output: process.stdout
   });
 
-  // Load player's code
+  // Load playerMcts's code
   let player = new GameLogic(1);
 
   rl.on('line', function (input) {
@@ -65,7 +65,7 @@ function writeMove(move) {
   write(move.hash());
 }
 
-function player() {
+function playerMcts() {
   input();
 }
 
@@ -75,4 +75,4 @@ function write(output) {
   }
 }
 
-player();
+playerMcts();

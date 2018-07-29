@@ -2,11 +2,12 @@
 
 class Move {
 
-    constructor(row, col, subRow, subCol){
+    constructor(row, col, subRow, subCol, score){
         this.row = row;
         this.col = col;
         this.subRow = subRow;
         this.subCol = subCol;
+        this.score = score;
     }
 
     hash(){

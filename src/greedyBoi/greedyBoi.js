@@ -1,111 +1,111 @@
-const getCloseablePositionsBigBoi = require("./utils");
-const getCloseablePositionsSmallBoi = require("./utils");
+const getCloseablePositions = require("./utils");
+const getCloseablePositionsBigBoard = require("./utils-bigBoard");
+const Node = require("./node");
+const Move = require("./move");
+
+const centerBoard = [1,1];
+const cornerBoards = [[0,0],[0,2],[2,0],[2,2]];
 
 class GreedyBoi{
     
     constructor(game){
         this.game = game;
+        this.nodes = new Map();
     }
 
-    evalSubBoard(state, subBoard){
-
-
-        let scoreMatrix = [[25,10,25],
-                           [10,50,10],
-                           [25,10,25]]
-
-        let myWinningBigBois = getCloseablePositionsBigBoi(state.board.board, state.player);
-
-        let enemyWinningBigBois = getCloseablePositionsBigBoi(state.board.board, 1-state.player);
-        
-        if(myWinningBigBois.length > 0){
-            for(boi of myWinningBigBois){
-                scoreMatrix[boi[0]][boi[1]] -= 100;
-            }
+    makeNode(state){
+        if(!this.nodes.has(state.hash())){
+            let unexpandedMoves = state.legalMoves().slice();
+            let node = new Node(null, null, state, unexpandedMoves);
+            this.nodes.set(state.hash(), node)
         }
-
-        if(enemyWinningBigBois.length > 0){
-            for(boi of enemyWinningBigBois){
-                scoreMatrix[boi[0]][boi[1]] -= 1000;
-            }
-         }
-
-        for(let smallBoiPos of getCloseablePositionsSmallBoi(subBoard.board,state.player)){
-            scoreMatrix[boi[0]][boi[1]] += 1000;
-        }
-
-        for(let smallBoiPos of getCloseablePositionsSmallBoi(subBoard.board,1-state.player)){
-            scoreMatrix[boi[0]][boi[1]] -= 1000;
-        }
-
-        return scoreMatrix;  
     }
-  
-    bestMove(state){
 
-        let bestBoi;
-        let maxScore;
-        let bestScoreMatrix;
+    minMax(state, depthLimit){
 
-        let validBoards = state.board.getValidBoards();
-        if(validBoards <= 1){
-            bestBoi = validBoards;
-            bestScoreMatrix = this.evalSubBoard(state, state.board.board[validBoards[0]][validBoards[1]]);
+        let depth = 0;
+        this.makeNode(state);
 
-        }else{
-            for(let subBoardCoords of validBoards){
-                let subBoard = subBoardCoords[0][1];
-    
-                let scoreMatrix = this.evalSubBoard(state, subBoard);
-    
-                if(Math.max(scoreMatrix) > maxScore){
-                    let maxScore = Math.max(scoreMatrix);
-                    let bestBoi = subBoardCoords;
-                    let bestScoreMatrix = scoreMatrix;
-                }
-            }
+        while(depth < depthLimit){
+
+
+
         }
 
-        let bestScore;
-        let bestMove;
-
-        for(let i = 0; i < scoreMatrix.length; i++){
-            for(let j = 0; j < scoreMatrix[i].length; j++){
-                if(scoreMatrix[i][j] > bestScore){
-                    bestScore = scoreMatrix[i][j];
-                    bestMove = [i,j];
-                }
-            }
-        }
-
-        return new Move(bestBoi[0], bestBoi[1], bestMove[0], bestMove[1]);
-
-
-        //One of yus implement this shet
-        for(move of moves){
-            findBestMove();
-        }
-        //It's disgustang
         return move;
     }
+  
+    bestMove(state, depthLimit){
 
-    legalMoves(){
+        let legalMoves = state.legalMoves();
+        let index = Math.floor(Math.random() * legalMoves.length);
+        let bestMove = legalMoves[index];
 
 
-        return moves;
+        for(let i = 0; i < legalMoves.length; i++){
+            legalMoves[i] = this.evalMove(state, legalMoves[i]);
+        }
+
+        for(let move of legalMoves){
+            if(move.score > bestMove.score){
+                bestMove = move;
+            }
+        }
+
+        return bestMove;
     }
 
-    evalMove(move){
+    evalMove(state, move){
 
-        //Check sequence
-        //Check importance
-        //Check next board
-        //Apply weighting to cells
-        //Decide
+        let nextState = state.nextState(move);
 
+        if(nextState.game.winner === state.player){
+            move.score = Infinity;
+            return move;
+        }
 
+        if(nextState.game.board[move.row][move.col].isFinished()){
+            if(move.getBoardCoords() === centerBoard){
+                move.score += 10;
+            }else if (cornerBoards.includes(move.getBoardCoords())){
+                move.score +=3;
+            }else{
+                move.score +=5;
+            }
+        }
+
+        let myOldWinningPositions = getCloseablePositions(state.game.board[move.subRow][move.subCol].board, state.player);
+        let myNewWinningPositions = getCloseablePositions(nextState.game.board[move.subRow][move.subCol].board, state.player);
+
+        if(myNewWinningPositions.length > myOldWinningPositions.length){
+            move.score += 2;
+        }
+
+        let opponentOldWinningPositions = getCloseablePositions(nextState.game.board[move.subRow][move.subCol].board, state.player);
+        let opponentNewWinningPositions = getCloseablePositions(state.game.board[move.subRow][move.subCol].board, state.player);
+
+        if(opponentNewWinningPositions.length < opponentOldWinningPositions.length){
+            move.score += 1;
+        }
+
+        let myOldWinningPositionsBigBoard = getCloseablePositionsBigBoard(state.game.board[move.subRow][move.subCol].board, state.player);
+        let myNewWinningPositionsBigBoard = getCloseablePositionsBigBoard(nextState.game.board[move.subRow][move.subCol].board, state.player);
+
+        if(myNewWinningPositionsBigBoard.length > myOldWinningPositionsBigBoard.length){
+            move.score += 4;
+        }
+
+        let opponentOldWinningPositionsBigBoard = getCloseablePositionsBigBoard(nextState.game.board[move.subRow][move.subCol].board, state.player);
+        let opponentNewWinningPositionsBigBoard = getCloseablePositionsBigBoard(state.game.board[move.subRow][move.subCol].board, state.player);
+
+        if(opponentNewWinningPositionsBigBoard.length < opponentOldWinningPositionsBigBoard.length){
+            move.score += 3;
+        }
+
+        return move;
 
     }
+
 }
 
 module.exports = GreedyBoi;
