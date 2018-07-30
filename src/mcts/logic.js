@@ -57,8 +57,9 @@ class GameLogic {
     }
 
     getMove(){
-        this.mcts.runSearch(this.state, 10);
-        return this.mcts.bestMove(this.state); //Returns move object
+        let ret = this.mcts.runSearch(this.state, 10);
+        let move = this.mcts.bestMove(this.state);
+        return move;
     }
 }
 

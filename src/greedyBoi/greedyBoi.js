@@ -43,7 +43,10 @@ class GreedyBoi{
 
 
         for(let i = 0; i < legalMoves.length; i++){
+            let timeStart = Date.now();
             legalMoves[i] = this.evalMove(state, legalMoves[i]);
+            let timeFinish = Date.now();
+            console.log("Time taken: " + (timeFinish - timeStart));
         }
 
         for(let move of legalMoves){
@@ -99,7 +102,7 @@ class GreedyBoi{
         let opponentNewWinningPositionsBigBoard = getCloseablePositionsBigBoard(state.game.board[move.subRow][move.subCol].board, state.player);
 
         if(opponentNewWinningPositionsBigBoard.length < opponentOldWinningPositionsBigBoard.length){
-            move.score += 3;
+            move.score += 2;
         }
 
         return move;

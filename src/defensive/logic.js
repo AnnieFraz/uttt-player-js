@@ -57,7 +57,9 @@ class GameLogic {
          */
         const weightedMoves = validBoards.map((boardCoords) => {
             const board = this.game.board[boardCoords[0]][boardCoords[1]].board;
+
             const opponentWinningPositions = getCloseablePositions(board, this.opponent);
+
             if (opponentWinningPositions.length > 0) {
                 return {
                     board: boardCoords,
@@ -66,6 +68,7 @@ class GameLogic {
             }
 
             const myWinningPositions = getCloseablePositions(board, this.player);
+
             if (myWinningPositions.length > 0) {
                 return {
                     board: boardCoords,
@@ -81,7 +84,7 @@ class GameLogic {
 
         //fall back to the first available logic
         const board = this.game.board[validBoards[0][0]][validBoards[0][1]];
-
+        
         return {
             board: validBoards[0],
             move: this.findPosition(board)

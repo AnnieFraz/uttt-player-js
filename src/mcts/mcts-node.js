@@ -21,7 +21,7 @@ class MCTSNode{
     }
 
 
-    childNode(move){
+    childNote(move){
         //TODO: Check this
         let child = this.children.get(move.hash());
         if(child === undefined){

@@ -9,7 +9,7 @@ const _minorDiagonal = (board) => board.map((row, index) => row[row.length - 1 -
 function getWinningPosition(cells, playerNo) {
     let playerScore = 0;
     for (let i = 0; i < cells.length; ++i) {
-        playerScore += cells[i].player == playerNo;
+        playerScore += (cells[i].player == playerNo);
     }
 
     // It is a winning position if the last cell is empty
