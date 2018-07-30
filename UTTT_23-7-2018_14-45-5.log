@@ -1,0 +1,46 @@
+[14:45:05 server] init
+[14:45:05 server] move
+[14:45:07 player] 0,0;1,1
+[14:45:07 server] opponent 1,1;1,2
+[14:45:07 player] 1,2;2,1
+[14:45:07 server] opponent 2,1;0,0
+[14:45:07 player] 0,0;0,2
+[14:45:07 server] opponent 0,2;1,1
+[14:45:07 player] 1,1;2,2
+[14:45:07 server] opponent 2,2;0,2
+[14:45:07 player] 0,2;2,2
+[14:45:07 server] opponent 2,2;1,0
+[14:45:07 player] 1,0;2,0
+[14:45:07 server] opponent 2,0;1,2
+[14:45:07 player] 1,2;0,2
+[14:45:07 server] opponent 0,2;0,0
+[14:45:07 player] 0,0;2,0
+[14:45:07 server] opponent 2,0;2,0
+[14:45:07 player] 2,0;0,0
+[14:45:07 server] opponent 2,2;2,2
+[14:45:08 player] 2,2;1,2
+[14:45:08 server] opponent 1,2;1,0
+[14:45:08 player] 1,0;1,2
+[14:45:08 server] opponent 1,2;2,2
+[14:45:08 player] 2,2;1,1
+[14:45:08 server] opponent 1,1;2,0
+[14:45:08 player] 2,0;0,1
+[14:45:08 server] opponent 0,1;2,1
+[14:45:08 player] 2,1;0,1
+[14:45:08 server] opponent 0,1;0,1
+[14:45:08 player] 0,1;1,1
+[14:45:08 server] opponent 1,1;0,1
+[14:45:08 player] 0,1;0,0
+[14:45:08 server] opponent 1,0;0,2
+[14:45:08 player] 0,2;2,1
+[14:45:08 server] opponent 2,1;0,2
+[14:45:08 player] 0,2;2,0
+[14:45:08 server] opponent 2,0;2,2
+[14:45:09 player] 2,2;0,0
+[14:45:09 server] opponent 2,2;2,0
+[14:45:09 player] 2,0;2,1
+[14:45:09 server] opponent 2,1;2,1
+[14:45:09 player] 2,1;1,0
+[14:45:09 server] opponent 1,0;0,1
+[14:45:09 player] 0,1;2,2
+[14:45:09 server] init

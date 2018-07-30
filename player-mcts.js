@@ -1,5 +1,5 @@
 const readline = require('readline');
-// Random playerMcts implementation
+// Random player implementation
 const GameLogic = require('./src/mcts/logic');
 
 /**
@@ -12,7 +12,7 @@ function input() {
     output: process.stdout
   });
 
-  // Load playerMcts's code
+  // Load player's code
   let player = new GameLogic(1);
 
   rl.on('line', function (input) {
@@ -35,6 +35,7 @@ function input() {
         }
         break;
       case 'opponent':
+        //let time = Date.now();
         // the move will be in the format x,y;x,y
         // where the first pair are the board's coordinates
         // and the second one are the move's coordinates
@@ -51,13 +52,22 @@ function input() {
             moveCoords[1]
           ]
         );
+
         if (!player.game.isFinished()) {
             move = player.getMove();
+            //console.log(move);
           player.addMove(move.getBoardCoords(), move.getCoords());
           writeMove(move);
         }
+
+        //let time2 = Date.now() - time;
+        //console.log("Move end: " + time2);
         break;
     }
+    /*
+    if(player.game.isFinished()){
+      player.save();
+    }*/
   });
 }
 
@@ -65,7 +75,7 @@ function writeMove(move) {
   write(move.hash());
 }
 
-function playerMcts() {
+function player() {
   input();
 }
 
@@ -75,4 +85,4 @@ function write(output) {
   }
 }
 
-playerMcts();
+player();

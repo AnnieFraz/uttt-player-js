@@ -1,0 +1,5319 @@
+[14:11:18 server] init
+[14:11:18 server] move
+[14:11:20 player] 0,1;2,2
+[14:11:20 server] opponent 2,2;0,0
+[14:11:20 player] 0,0;2,2
+[14:11:20 server] opponent 2,2;2,2
+[14:11:20 player] 2,2;1,1
+[14:11:20 server] opponent 1,1;1,2
+[14:11:20 player] 1,2;1,0
+[14:11:20 server] opponent 1,0;0,0
+[14:11:20 player] 0,0;0,2
+[14:11:20 server] opponent 0,2;1,2
+[14:11:20 player] 1,2;2,0
+[14:11:20 server] opponent 2,0;2,0
+[14:11:20 player] 2,0;1,0
+[14:11:20 server] opponent 1,0;0,2
+[14:11:21 player] 0,2;2,0
+[14:11:21 server] opponent 2,0;1,1
+[14:11:21 player] 1,1;2,0
+[14:11:21 server] opponent 2,0;0,2
+[14:11:21 player] 0,2;0,2
+[14:11:21 server] opponent 0,2;0,1
+[14:11:21 player] 0,1;0,2
+[14:11:21 server] opponent 0,2;2,1
+[14:11:21 player] 2,1;0,0
+[14:11:21 server] opponent 0,0;0,0
+[14:11:21 player] 0,0;1,2
+[14:11:21 server] opponent 1,2;0,0
+[14:11:21 player] 0,2;1,1
+[14:11:21 server] opponent 1,1;1,0
+[14:11:21 player] 1,0;0,1
+[14:11:21 server] opponent 0,1;1,2
+[14:11:22 player] 1,2;0,1
+[14:11:22 server] opponent 0,1;0,1
+[14:11:22 player] 0,1;2,0
+[14:11:22 server] opponent 1,2;1,2
+[14:11:22 player] 1,2;0,2
+[14:11:22 server] opponent 1,0;2,2
+[14:11:22 player] 2,2;0,2
+[14:11:22 server] opponent 1,0;1,2
+[14:11:22 player] 1,2;1,1
+[14:11:22 server] opponent 1,1;0,1
+[14:11:22 player] 0,1;2,1
+[14:11:22 server] init
+[14:11:22 server] opponent 0,0;0,0
+[14:11:22 player] 0,0;0,1
+[14:11:22 server] opponent 0,1;0,0
+[14:11:22 player] 0,0;2,0
+[14:11:22 server] opponent 2,0;1,0
+[14:11:22 player] 1,0;0,0
+[14:11:22 server] opponent 0,0;2,1
+[14:11:23 player] 2,1;1,1
+[14:11:23 server] opponent 1,1;1,2
+[14:11:23 player] 1,2;1,2
+[14:11:23 server] opponent 1,2;1,1
+[14:11:23 player] 1,1;0,2
+[14:11:23 server] opponent 0,2;1,1
+[14:11:23 player] 1,1;2,1
+[14:11:23 server] opponent 2,1;0,2
+[14:11:23 player] 0,2;0,0
+[14:11:23 server] opponent 0,0;0,2
+[14:11:23 player] 0,2;1,2
+[14:11:23 server] opponent 1,2;0,0
+[14:11:23 player] 0,0;2,2
+[14:11:23 server] opponent 2,2;2,0
+[14:11:23 player] 2,0;1,1
+[14:11:23 server] opponent 1,1;1,1
+[14:11:23 player] 1,1;1,0
+[14:11:23 server] opponent 1,0;0,2
+[14:11:23 player] 0,2;2,1
+[14:11:23 server] opponent 2,1;2,2
+[14:11:24 player] 2,2;1,0
+[14:11:24 server] opponent 1,0;2,2
+[14:11:24 player] 2,2;1,2
+[14:11:24 server] opponent 1,2;2,2
+[14:11:24 player] 2,2;1,1
+[14:11:24 server] opponent 1,1;2,2
+[14:11:24 player] 1,0;1,2
+[14:11:24 server] opponent 0,0;1,2
+[14:11:24 player] 1,1;0,0
+[14:11:24 server] opponent 0,0;1,1
+[14:11:24 player] 1,1;0,1
+[14:11:24 server] opponent 0,1;2,0
+[14:11:24 player] 2,0;1,2
+[14:11:24 server] opponent 0,0;1,0
+[14:11:24 player] 1,0;2,0
+[14:11:24 server] opponent 2,0;2,1
+[14:11:24 player] 2,1;1,2
+[14:11:24 server] opponent 0,2;2,2
+[14:11:25 player] 0,1;1,0
+[14:11:25 server] opponent 1,0;1,1
+[14:11:25 player] 1,0;1,0
+[14:11:25 server] opponent 0,2;0,2
+[14:11:25 player] 0,2;2,0
+[14:11:25 server] opponent 2,0;2,0
+[14:11:25 player] 2,0;2,2
+[14:11:25 server] opponent 2,0;0,0
+[14:11:25 player] 0,2;1,0
+[14:11:25 server] opponent 0,1;1,2
+[14:11:25 player] 2,1;1,0
+[14:11:25 server] opponent 0,1;0,1
+[14:11:25 player] 0,1;0,2
+[14:11:25 server] opponent 0,1;2,2
+[14:11:25 player] 0,1;2,1
+[14:11:25 server] opponent 0,1;1,1
+[14:11:25 server] init
+[14:11:25 server] move
+[14:11:26 player] 1,1;2,1
+[14:11:26 server] opponent 2,1;2,2
+[14:11:27 player] 2,2;0,2
+[14:11:27 server] opponent 0,2;0,0
+[14:11:27 player] 0,0;0,0
+[14:11:27 server] opponent 0,0;1,0
+[14:11:27 player] 1,0;0,2
+[14:11:27 server] opponent 0,2;0,1
+[14:11:27 player] 0,1;2,0
+[14:11:27 server] opponent 2,0;2,0
+[14:11:27 player] 2,0;0,0
+[14:11:27 server] opponent 0,0;0,2
+[14:11:27 player] 0,2;0,2
+[14:11:27 server] opponent 0,2;2,1
+[14:11:27 player] 2,1;0,0
+[14:11:27 server] opponent 0,0;2,1
+[14:11:27 player] 2,1;0,1
+[14:11:27 server] opponent 0,1;1,1
+[14:11:27 player] 1,1;0,2
+[14:11:27 server] opponent 0,2;1,1
+[14:11:28 player] 1,1;2,0
+[14:11:28 server] opponent 2,0;1,1
+[14:11:28 player] 1,1;2,2
+[14:11:28 server] opponent 2,2;1,1
+[14:11:28 player] 2,0;0,2
+[14:11:28 server] opponent 0,0;2,0
+[14:11:28 player] 2,0;0,1
+[14:11:28 server] opponent 0,1;1,0
+[14:11:28 player] 1,0;1,1
+[14:11:28 server] opponent 0,0;1,2
+[14:11:28 player] 1,2;1,0
+[14:11:28 server] opponent 1,0;0,1
+[14:11:28 player] 0,1;1,2
+[14:11:28 server] opponent 1,2;2,2
+[14:11:28 player] 2,2;2,2
+[14:11:28 server] opponent 2,2;1,0
+[14:11:28 player] 1,0;2,0
+[14:11:28 server] opponent 0,0;2,2
+[14:11:29 player] 2,2;1,2
+[14:11:29 server] opponent 1,2;0,1
+[14:11:29 player] 0,1;0,1
+[14:11:29 server] opponent 0,1;2,1
+[14:11:29 player] 2,1;0,2
+[14:11:29 server] init
+[14:11:29 server] opponent 0,0;2,1
+[14:11:29 player] 2,1;1,0
+[14:11:29 server] opponent 1,0;2,0
+[14:11:29 player] 2,0;2,0
+[14:11:29 server] opponent 2,0;0,0
+[14:11:29 player] 0,0;0,1
+[14:11:29 server] opponent 0,1;1,2
+[14:11:29 player] 1,2;2,0
+[14:11:29 server] opponent 2,0;1,1
+[14:11:29 player] 1,1;2,2
+[14:11:29 server] opponent 2,2;2,1
+[14:11:29 player] 2,1;0,2
+[14:11:29 server] opponent 0,2;2,0
+[14:11:30 player] 2,0;2,2
+[14:11:30 server] opponent 2,2;1,0
+[14:11:30 player] 1,0;1,0
+[14:11:30 server] opponent 1,0;0,2
+[14:11:30 player] 0,2;1,2
+[14:11:30 server] opponent 1,2;0,0
+[14:11:30 player] 0,0;2,2
+[14:11:30 server] opponent 2,2;1,2
+[14:11:30 player] 1,2;2,2
+[14:11:30 server] opponent 2,2;1,1
+[14:11:30 player] 1,1;1,0
+[14:11:30 server] opponent 1,0;2,2
+[14:11:30 player] 1,0;2,1
+[14:11:30 server] opponent 2,1;2,2
+[14:11:30 player] 1,0;1,2
+[14:11:30 server] opponent 1,2;1,0
+[14:11:30 player] 1,0;1,1
+[14:11:30 server] opponent 1,1;2,1
+[14:11:30 player] 2,1;1,1
+[14:11:30 server] opponent 1,1;1,2
+[14:11:31 player] 1,2;2,1
+[14:11:31 server] opponent 2,1;1,2
+[14:11:31 player] 2,0;2,1
+[14:11:31 server] opponent 2,1;0,0
+[14:11:31 player] 0,0;2,0
+[14:11:31 server] opponent 0,0;0,2
+[14:11:31 player] 0,2;0,0
+[14:11:31 server] opponent 0,0;1,1
+[14:11:31 player] 1,1;0,1
+[14:11:31 server] opponent 0,1;2,0
+[14:11:31 player] 2,1;2,0
+[14:11:31 server] opponent 0,0;0,0
+[14:11:31 player] 0,0;1,0
+[14:11:31 server] opponent 0,0;1,2
+[14:11:31 player] 0,1;1,1
+[14:11:31 server] opponent 1,1;1,1
+[14:11:31 player] 1,1;2,0
+[14:11:31 server] opponent 1,1;0,2
+[14:11:32 player] 0,2;1,1
+[14:11:32 server] opponent 1,1;0,0
+[14:11:32 player] 0,2;1,0
+[14:11:32 server] opponent 0,1;2,1
+[14:11:32 player] 0,1;2,2
+[14:11:32 server] opponent 0,1;0,0
+[14:11:32 player] 0,1;1,0
+[14:11:32 server] opponent 0,1;0,2
+[14:11:32 player] 0,1;0,1
+[14:11:32 server] init
+[14:11:32 server] move
+[14:11:32 player] 0,0;0,0
+[14:11:32 server] opponent 0,0;2,0
+[14:11:32 player] 2,0;1,1
+[14:11:32 server] opponent 1,1;2,0
+[14:11:32 player] 2,0;1,2
+[14:11:32 server] opponent 1,2;1,2
+[14:11:32 player] 1,2;0,2
+[14:11:32 server] opponent 0,2;2,2
+[14:11:33 player] 2,2;0,1
+[14:11:33 server] opponent 0,1;1,2
+[14:11:33 player] 1,2;0,1
+[14:11:33 server] opponent 0,1;2,1
+[14:11:33 player] 2,1;1,0
+[14:11:33 server] opponent 1,0;2,1
+[14:11:33 player] 2,1;1,1
+[14:11:33 server] opponent 1,1;2,2
+[14:11:33 player] 2,2;1,1
+[14:11:33 server] opponent 1,1;1,0
+[14:11:33 player] 1,0;0,1
+[14:11:33 server] opponent 0,1;1,0
+[14:11:33 player] 1,0;1,0
+[14:11:33 server] opponent 1,0;1,1
+[14:11:33 player] 1,1;2,1
+[14:11:33 server] opponent 2,1;1,2
+[14:11:33 player] 1,2;0,0
+[14:11:33 server] opponent 0,0;2,2
+[14:11:34 player] 2,2;2,1
+[14:11:34 server] opponent 2,1;2,0
+[14:11:34 player] 2,0;1,0
+[14:11:34 server] opponent 1,0;1,2
+[14:11:34 player] 0,0;2,1
+[14:11:34 server] opponent 2,1;0,1
+[14:11:34 player] 0,1;1,1
+[14:11:34 server] opponent 1,1;1,1
+[14:11:34 player] 1,1;1,2
+[14:11:34 server] opponent 0,0;1,0
+[14:11:34 player] 1,0;2,0
+[14:11:34 server] opponent 0,0;0,1
+[14:11:34 player] 0,1;0,0
+[14:11:34 server] opponent 0,0;1,1
+[14:11:34 player] 1,1;0,0
+[14:11:34 server] opponent 0,0;1,2
+[14:11:34 player] 1,1;0,2
+[14:11:34 server] opponent 0,2;2,1
+[14:11:35 player] 2,1;2,2
+[14:11:35 server] opponent 2,1;0,2
+[14:11:35 player] 0,2;2,0
+[14:11:35 server] opponent 1,0;0,2
+[14:11:35 player] 0,2;0,2
+[14:11:35 server] opponent 0,2;0,0
+[14:11:35 player] 0,2;1,1
+[14:11:35 server] init
+[14:11:35 server] opponent 0,0;2,0
+[14:11:35 player] 2,0;2,1
+[14:11:35 server] opponent 2,1;0,1
+[14:11:35 player] 0,1;0,0
+[14:11:35 server] opponent 0,0;2,2
+[14:11:35 player] 2,2;1,1
+[14:11:35 server] opponent 1,1;0,0
+[14:11:35 player] 0,0;2,1
+[14:11:35 server] opponent 2,1;1,0
+[14:11:35 player] 1,0;1,2
+[14:11:35 server] opponent 1,2;1,0
+[14:11:36 player] 1,0;2,2
+[14:11:36 server] opponent 2,2;0,1
+[14:11:36 player] 0,1;1,2
+[14:11:36 server] opponent 1,2;2,0
+[14:11:36 player] 2,0;2,0
+[14:11:36 server] opponent 2,0;0,0
+[14:11:36 player] 0,0;1,2
+[14:11:36 server] opponent 1,2;1,1
+[14:11:36 player] 1,1;1,1
+[14:11:36 server] opponent 1,1;1,2
+[14:11:36 player] 1,2;1,2
+[14:11:36 server] opponent 1,2;2,2
+[14:11:36 player] 2,2;0,0
+[14:11:36 server] opponent 0,0;0,0
+[14:11:36 player] 0,0;1,0
+[14:11:36 server] opponent 1,0;2,1
+[14:11:36 player] 2,1;1,2
+[14:11:36 server] opponent 1,2;2,1
+[14:11:36 player] 2,1;0,0
+[14:11:36 server] opponent 0,0;0,1
+[14:11:37 player] 0,1;2,2
+[14:11:37 server] opponent 2,2;0,2
+[14:11:37 player] 0,2;0,0
+[14:11:37 server] opponent 0,0;0,2
+[14:11:37 player] 0,2;2,0
+[14:11:37 server] opponent 2,0;0,2
+[14:11:37 player] 0,2;1,0
+[14:11:37 server] opponent 1,0;1,1
+[14:11:37 player] 1,1;2,0
+[14:11:37 server] opponent 2,0;1,1
+[14:11:37 player] 1,1;0,2
+[14:11:37 server] opponent 0,1;2,1
+[14:11:37 player] 2,1;2,0
+[14:11:37 server] opponent 2,0;0,1
+[14:11:37 player] 0,1;0,2
+[14:11:37 server] opponent 1,0;0,2
+[14:11:37 player] 1,0;0,1
+[14:11:37 server] opponent 2,1;0,2
+[14:11:38 player] 1,0;2,0
+[14:11:38 server] opponent 1,0;1,0
+[14:11:38 player] 1,0;0,0
+[14:11:38 server] opponent 2,2;1,0
+[14:11:38 player] 2,2;2,2
+[14:11:38 server] opponent 2,1;2,2
+[14:11:38 player] 2,1;2,1
+[14:11:38 server] opponent 2,1;1,1
+[14:11:38 server] init
+[14:11:38 server] move
+[14:11:39 player] 2,0;0,0
+[14:11:39 server] opponent 0,0;1,1
+[14:11:39 player] 1,1;1,0
+[14:11:39 server] opponent 1,0;1,2
+[14:11:39 player] 1,2;0,2
+[14:11:39 server] opponent 0,2;1,0
+[14:11:39 player] 1,0;2,0
+[14:11:39 server] opponent 2,0;1,1
+[14:11:40 player] 1,1;0,2
+[14:11:40 server] opponent 0,2;0,1
+[14:11:40 player] 0,1;0,2
+[14:11:40 server] opponent 0,2;2,0
+[14:11:40 player] 2,0;0,2
+[14:11:40 server] opponent 0,2;2,2
+[14:11:40 player] 2,2;0,0
+[14:11:40 server] opponent 0,0;2,1
+[14:11:40 player] 2,1;0,0
+[14:11:40 server] opponent 0,0;0,0
+[14:11:40 player] 0,0;0,1
+[14:11:40 server] opponent 0,1;0,1
+[14:11:40 player] 0,1;2,0
+[14:11:40 server] opponent 2,0;2,2
+[14:11:40 player] 2,2;1,2
+[14:11:40 server] opponent 1,2;2,2
+[14:11:40 player] 2,2;0,2
+[14:11:40 server] opponent 0,2;2,1
+[14:11:40 player] 2,1;1,1
+[14:11:40 server] opponent 1,1;1,1
+[14:11:41 player] 1,1;1,2
+[14:11:41 server] opponent 1,2;1,1
+[14:11:41 player] 1,1;2,2
+[14:11:41 server] opponent 2,2;0,1
+[14:11:41 player] 0,1;1,1
+[14:11:41 server] opponent 0,0;2,0
+[14:11:41 player] 2,0;0,1
+[14:11:41 server] opponent 0,0;0,2
+[14:11:41 player] 1,2;0,0
+[14:11:41 server] opponent 1,0;1,1
+[14:11:41 player] 1,0;1,0
+[14:11:41 server] opponent 1,0;2,2
+[14:11:41 player] 2,2;2,2
+[14:11:41 server] opponent 2,1;2,2
+[14:11:41 player] 1,0;0,2
+[14:11:41 server] opponent 1,0;0,0
+[14:11:41 player] 1,2;0,1
+[14:11:41 server] opponent 2,1;0,1
+[14:11:42 player] 2,1;1,2
+[14:11:42 server] opponent 2,1;2,0
+[14:11:42 player] 2,1;2,1
+[14:11:42 server] opponent 2,1;1,0
+[14:11:42 player] 2,1;0,2
+[14:11:42 server] init
+[14:11:42 server] opponent 0,0;0,0
+[14:11:42 player] 0,0;1,1
+[14:11:42 server] opponent 1,1;1,0
+[14:11:42 player] 1,0;0,2
+[14:11:42 server] opponent 0,2;2,2
+[14:11:42 player] 2,2;2,1
+[14:11:42 server] opponent 2,1;2,2
+[14:11:42 player] 2,2;0,0
+[14:11:42 server] opponent 0,0;2,0
+[14:11:42 player] 2,0;1,2
+[14:11:42 server] opponent 1,2;0,2
+[14:11:42 player] 0,2;2,0
+[14:11:42 server] opponent 2,0;1,1
+[14:11:43 player] 1,1;2,1
+[14:11:43 server] opponent 2,1;0,1
+[14:11:43 player] 0,1;0,0
+[14:11:43 server] opponent 0,0;0,2
+[14:11:43 player] 0,2;0,0
+[14:11:43 server] opponent 0,0;1,2
+[14:11:43 player] 1,2;0,1
+[14:11:43 server] opponent 0,1;2,1
+[14:11:43 player] 2,1;0,0
+[14:11:43 server] opponent 0,0;2,2
+[14:11:43 player] 2,2;2,0
+[14:11:43 server] opponent 2,0;2,2
+[14:11:43 player] 2,2;2,2
+[14:11:43 server] opponent 1,1;2,2
+[14:11:43 player] 2,0;0,0
+[14:11:43 server] opponent 0,2;0,2
+[14:11:43 player] 0,2;1,2
+[14:11:43 server] opponent 1,2;2,2
+[14:11:44 player] 1,2;1,2
+[14:11:44 server] opponent 1,2;1,1
+[14:11:44 player] 1,1;0,2
+[14:11:44 server] opponent 0,2;1,1
+[14:11:44 player] 1,1;0,0
+[14:11:44 server] opponent 1,2;2,1
+[14:11:44 player] 2,1;1,2
+[14:11:44 server] opponent 1,2;0,0
+[14:11:44 player] 0,2;1,0
+[14:11:44 server] opponent 1,0;2,0
+[14:11:44 player] 2,0;2,0
+[14:11:44 server] opponent 2,0;2,1
+[14:11:44 player] 2,1;2,1
+[14:11:44 server] opponent 2,1;2,0
+[14:11:44 player] 2,0;0,1
+[14:11:44 server] opponent 0,1;1,0
+[14:11:44 player] 1,0;1,1
+[14:11:44 server] opponent 1,1;1,1
+[14:11:45 player] 1,1;1,2
+[14:11:45 server] opponent 2,1;0,2
+[14:11:45 player] 2,1;1,1
+[14:11:45 server] opponent 1,1;0,1
+[14:11:45 player] 0,1;2,0
+[14:11:45 server] opponent 2,0;1,0
+[14:11:45 player] 1,0;2,1
+[14:11:45 server] opponent 2,1;1,0
+[14:11:45 player] 1,0;0,1
+[14:11:45 server] opponent 0,1;0,1
+[14:11:45 player] 0,1;1,1
+[14:11:45 server] opponent 1,1;2,0
+[14:11:45 player] 2,0;0,2
+[14:11:45 server] opponent 0,1;2,2
+[14:11:45 player] 0,1;0,2
+[14:11:45 server] init
+[14:11:45 server] move
+[14:11:45 player] 0,0;0,1
+[14:11:45 server] opponent 0,1;0,2
+[14:11:46 player] 0,2;0,1
+[14:11:46 server] opponent 0,1;2,0
+[14:11:46 player] 2,0;1,0
+[14:11:46 server] opponent 1,0;1,2
+[14:11:46 player] 1,2;0,2
+[14:11:46 server] opponent 0,2;0,0
+[14:11:46 player] 0,0;0,0
+[14:11:46 server] opponent 0,0;1,2
+[14:11:46 player] 1,2;2,0
+[14:11:46 server] opponent 2,0;2,0
+[14:11:46 player] 2,0;1,2
+[14:11:46 server] opponent 1,2;1,1
+[14:11:46 player] 1,1;2,2
+[14:11:46 server] opponent 2,2;0,2
+[14:11:46 player] 0,2;0,2
+[14:11:46 server] opponent 0,2;2,1
+[14:11:46 player] 2,1;2,1
+[14:11:46 server] opponent 2,1;0,2
+[14:11:46 player] 0,2;2,0
+[14:11:46 server] opponent 2,0;1,1
+[14:11:47 player] 1,1;2,1
+[14:11:47 server] opponent 2,1;0,0
+[14:11:47 player] 0,0;0,2
+[14:11:47 server] opponent 0,2;2,2
+[14:11:47 player] 2,2;1,0
+[14:11:47 server] opponent 1,0;1,1
+[14:11:47 player] 1,1;2,0
+[14:11:47 server] opponent 2,0;0,1
+[14:11:47 player] 0,1;1,1
+[14:11:47 server] opponent 1,0;0,2
+[14:11:47 player] 0,2;1,1
+[14:11:47 server] opponent 2,1;2,2
+[14:11:47 player] 2,2;1,1
+[14:11:47 server] opponent 0,1;2,2
+[14:11:47 player] 2,2;1,2
+[14:11:47 server] init
+[14:11:47 server] opponent 0,0;1,2
+[14:11:47 player] 1,2;0,2
+[14:11:47 server] opponent 0,2;2,2
+[14:11:48 player] 2,2;0,0
+[14:11:48 server] opponent 0,0;1,0
+[14:11:48 player] 1,0;1,2
+[14:11:48 server] opponent 1,2;2,1
+[14:11:48 player] 2,1;0,1
+[14:11:48 server] opponent 0,1;1,0
+[14:11:48 player] 1,0;0,0
+[14:11:48 server] opponent 0,0;0,1
+[14:11:48 player] 0,1;1,2
+[14:11:48 server] opponent 1,2;2,0
+[14:11:48 player] 2,0;1,1
+[14:11:48 server] opponent 1,1;2,1
+[14:11:48 player] 2,1;1,1
+[14:11:48 server] opponent 1,1;1,2
+[14:11:48 player] 1,2;2,2
+[14:11:48 server] opponent 2,2;1,0
+[14:11:48 player] 1,0;2,1
+[14:11:48 server] opponent 2,1;2,0
+[14:11:49 player] 2,0;1,2
+[14:11:49 server] opponent 1,2;1,1
+[14:11:49 player] 1,1;0,1
+[14:11:49 server] opponent 0,1;0,0
+[14:11:49 player] 0,0;1,1
+[14:11:49 server] opponent 1,1;2,0
+[14:11:49 player] 2,0;1,0
+[14:11:49 server] opponent 1,0;1,0
+[14:11:49 player] 1,0;2,0
+[14:11:49 server] opponent 0,0;0,2
+[14:11:49 player] 0,2;1,1
+[14:11:49 server] opponent 1,1;0,0
+[14:11:49 player] 0,0;0,0
+[14:11:49 server] opponent 0,0;2,1
+[14:11:49 player] 2,1;2,1
+[14:11:49 server] opponent 0,0;2,0
+[14:11:49 player] 0,0;2,2
+[14:11:49 server] opponent 2,2;0,2
+[14:11:50 player] 0,2;1,0
+[14:11:50 server] opponent 1,0;2,2
+[14:11:50 player] 2,2;2,1
+[14:11:50 server] opponent 1,2;1,0
+[14:11:50 player] 1,0;0,1
+[14:11:50 server] opponent 0,1;2,2
+[14:11:50 player] 2,2;1,2
+[14:11:50 server] opponent 1,2;1,2
+[14:11:50 player] 0,1;2,0
+[14:11:50 server] opponent 0,1;0,1
+[14:11:50 player] 0,1;0,2
+[14:11:50 server] opponent 0,2;2,1
+[14:11:50 player] 0,1;1,1
+[14:11:50 server] opponent 1,1;0,2
+[14:11:50 player] 0,2;2,0
+[14:11:50 server] opponent 0,2;1,2
+[14:11:50 player] 0,2;0,2
+[14:11:50 server] init
+[14:11:50 server] move
+[14:11:52 player] 1,0;2,0
+[14:11:52 server] opponent 2,0;0,0
+[14:11:52 player] 0,0;2,0
+[14:11:52 server] opponent 2,0;2,1
+[14:11:52 player] 2,1;2,0
+[14:11:52 server] opponent 2,0;0,1
+[14:11:52 player] 0,1;1,2
+[14:11:52 server] opponent 1,2;0,0
+[14:11:52 player] 0,0;0,1
+[14:11:52 server] opponent 0,1;0,0
+[14:11:52 player] 0,0;1,1
+[14:11:52 server] opponent 1,1;1,0
+[14:11:52 player] 1,0;0,1
+[14:11:52 server] opponent 0,1;0,1
+[14:11:52 player] 0,1;0,2
+[14:11:52 server] opponent 0,2;1,2
+[14:11:52 player] 1,2;0,2
+[14:11:52 server] opponent 0,2;0,2
+[14:11:52 player] 0,2;2,2
+[14:11:53 server] opponent 2,2;1,0
+[14:11:53 player] 1,0;1,1
+[14:11:53 server] opponent 1,1;0,0
+[14:11:53 player] 0,0;2,1
+[14:11:53 server] opponent 2,1;2,1
+[14:11:53 player] 2,1;1,0
+[14:11:53 server] opponent 1,0;2,1
+[14:11:53 player] 2,1;0,0
+[14:11:53 server] opponent 1,0;0,0
+[14:11:53 player] 1,1;2,0
+[14:11:53 server] opponent 2,0;1,1
+[14:11:53 player] 1,1;1,1
+[14:11:53 server] opponent 1,1;0,1
+[14:11:53 player] 0,1;2,2
+[14:11:53 server] opponent 2,2;2,0
+[14:11:53 player] 1,1;0,2
+[14:11:53 server] init
+[14:11:53 server] opponent 0,0;2,0
+[14:11:53 player] 2,0;0,1
+[14:11:53 server] opponent 0,1;1,1
+[14:11:54 player] 1,1;1,0
+[14:11:54 server] opponent 1,0;0,0
+[14:11:54 player] 0,0;1,2
+[14:11:54 server] opponent 1,2;2,1
+[14:11:54 player] 2,1;0,2
+[14:11:54 server] opponent 0,2;1,1
+[14:11:54 player] 1,1;0,2
+[14:11:54 server] opponent 0,2;1,0
+[14:11:54 player] 1,0;1,0
+[14:11:54 server] opponent 1,0;2,0
+[14:11:54 player] 2,0;2,2
+[14:11:54 server] opponent 2,2;2,1
+[14:11:54 player] 2,1;2,1
+[14:11:54 server] opponent 2,1;2,0
+[14:11:54 player] 2,0;1,0
+[14:11:54 server] opponent 1,0;0,2
+[14:11:54 player] 0,2;1,2
+[14:11:54 server] opponent 1,2;2,2
+[14:11:55 player] 2,2;0,1
+[14:11:55 server] opponent 0,1;2,1
+[14:11:55 player] 2,1;2,2
+[14:11:55 server] opponent 2,2;2,0
+[14:11:55 player] 2,0;1,2
+[14:11:55 server] opponent 1,2;0,1
+[14:11:55 player] 0,1;0,1
+[14:11:55 server] opponent 0,1;0,2
+[14:11:55 player] 0,2;2,0
+[14:11:55 server] opponent 2,0;2,0
+[14:11:55 player] 2,0;1,1
+[14:11:55 server] opponent 1,1;2,0
+[14:11:55 player] 0,1;2,0
+[14:11:55 server] opponent 0,0;1,1
+[14:11:55 player] 1,1;2,2
+[14:11:55 server] opponent 2,2;1,2
+[14:11:55 player] 1,2;2,0
+[14:11:55 server] opponent 0,0;0,1
+[14:11:56 player] 0,1;1,2
+[14:11:56 server] opponent 1,2;0,0
+[14:11:56 player] 0,0;2,1
+[14:11:56 server] opponent 2,1;0,0
+[14:11:56 player] 0,0;0,2
+[14:11:56 server] opponent 0,2;2,2
+[14:11:56 player] 2,2;2,2
+[14:11:56 server] opponent 2,2;1,0
+[14:11:56 player] 1,0;0,1
+[14:11:56 server] opponent 0,1;2,2
+[14:11:56 player] 2,2;1,1
+[14:11:56 server] opponent 1,1;1,1
+[14:11:56 player] 1,1;1,2
+[14:11:56 server] opponent 1,2;1,1
+[14:11:56 player] 0,1;0,0
+[14:11:56 server] opponent 0,0;1,0
+[14:11:56 player] 1,0;1,1
+[14:11:56 server] opponent 0,0;0,0
+[14:11:57 player] 0,2;0,0
+[14:11:57 server] opponent 1,0;2,1
+[14:11:57 player] 2,1;1,0
+[14:11:57 server] opponent 1,0;2,2
+[14:11:57 player] 2,2;0,0
+[14:11:57 server] opponent 0,2;0,2
+[14:11:57 player] 0,2;2,1
+[14:11:57 server] opponent 2,1;1,1
+[14:11:57 player] 0,1;1,0
+[14:11:57 server] opponent 0,2;0,1
+[14:11:57 player] 2,1;1,2
+[14:11:57 server] init
+[14:11:57 server] move
+[14:11:57 player] 0,1;0,0
+[14:11:57 server] opponent 0,0;0,2
+[14:11:57 player] 0,2;2,0
+[14:11:57 server] opponent 2,0;1,0
+[14:11:57 player] 1,0;0,0
+[14:11:57 server] opponent 0,0;1,0
+[14:11:58 player] 1,0;1,1
+[14:11:58 server] opponent 1,1;2,2
+[14:11:58 player] 2,2;0,2
+[14:11:58 server] opponent 0,2;2,1
+[14:11:58 player] 2,1;0,2
+[14:11:58 server] opponent 0,2;0,0
+[14:11:58 player] 0,0;1,1
+[14:11:58 server] opponent 1,1;1,2
+[14:11:58 player] 1,2;2,1
+[14:11:58 server] opponent 2,1;1,0
+[14:11:58 player] 1,0;2,2
+[14:11:58 server] opponent 2,2;2,0
+[14:11:58 player] 2,0;2,2
+[14:11:58 server] opponent 2,2;1,0
+[14:11:58 player] 1,1;0,2
+[14:11:58 server] opponent 0,2;1,1
+[14:11:58 player] 1,1;0,1
+[14:11:58 server] opponent 0,1;1,0
+[14:11:58 player] 0,2;0,1
+[14:11:58 server] opponent 0,1;1,2
+[14:11:59 player] 1,2;0,1
+[14:11:59 server] opponent 0,1;2,0
+[14:11:59 player] 2,0;2,1
+[14:11:59 server] opponent 2,1;2,1
+[14:11:59 player] 2,1;2,0
+[14:11:59 server] opponent 2,0;0,1
+[14:11:59 player] 0,1;1,1
+[14:11:59 server] opponent 1,1;2,0
+[14:11:59 player] 2,0;2,0
+[14:11:59 server] opponent 0,0;2,1
+[14:11:59 player] 2,1;1,1
+[14:11:59 server] opponent 1,1;0,0
+[14:11:59 player] 0,0;0,0
+[14:11:59 server] opponent 0,0;2,2
+[14:11:59 player] 2,2;0,0
+[14:11:59 server] opponent 0,0;1,2
+[14:11:59 player] 1,2;1,1
+[14:11:59 server] opponent 1,1;2,1
+[14:12:00 player] 0,2;2,2
+[14:12:00 server] opponent 2,2;1,1
+[14:12:00 player] 2,2;1,2
+[14:12:00 server] opponent 0,1;2,1
+[14:12:00 player] 0,1;2,2
+[14:12:00 server] opponent 2,2;0,1
+[14:12:00 player] 2,2;2,1
+[14:12:00 server] opponent 2,2;2,2
+[14:12:00 player] 0,2;0,2
+[14:12:00 server] opponent 0,2;1,2
+[14:12:00 player] 0,2;1,0
+[14:12:00 server] init
+[14:12:00 server] opponent 0,0;1,0
+[14:12:00 player] 1,0;2,2
+[14:12:00 server] opponent 2,2;0,1
+[14:12:00 player] 0,1;1,1
+[14:12:00 server] opponent 1,1;1,2
+[14:12:00 player] 1,2;0,0
+[14:12:00 server] opponent 0,0;2,0
+[14:12:01 player] 2,0;2,0
+[14:12:01 server] opponent 2,0;0,1
+[14:12:01 player] 0,1;2,0
+[14:12:01 server] opponent 2,0;1,1
+[14:12:01 player] 1,1;0,2
+[14:12:01 server] opponent 0,2;0,1
+[14:12:01 player] 0,1;0,2
+[14:12:01 server] opponent 0,2;0,2
+[14:12:01 player] 0,2;0,0
+[14:12:01 server] opponent 0,0;2,2
+[14:12:01 player] 2,2;1,2
+[14:12:01 server] opponent 1,2;0,2
+[14:12:01 player] 0,2;1,2
+[14:12:01 server] opponent 1,2;1,0
+[14:12:01 player] 1,0;1,1
+[14:12:01 server] opponent 1,1;2,1
+[14:12:01 player] 2,1;0,0
+[14:12:01 server] opponent 0,0;0,2
+[14:12:02 player] 0,2;2,1
+[14:12:02 server] opponent 2,1;2,0
+[14:12:02 player] 2,0;2,1
+[14:12:02 server] opponent 2,1;2,2
+[14:12:02 player] 2,2;0,0
+[14:12:02 server] opponent 0,0;1,1
+[14:12:02 player] 1,1;2,0
+[14:12:02 server] opponent 2,0;2,2
+[14:12:02 player] 2,2;0,2
+[14:12:02 server] opponent 0,2;2,0
+[14:12:02 player] 2,0;0,0
+[14:12:02 server] opponent 1,0;2,1
+[14:12:02 player] 2,1;2,1
+[14:12:02 server] opponent 2,1;0,2
+[14:12:02 player] 0,2;1,1
+[14:12:02 server] opponent 1,1;0,1
+[14:12:02 player] 1,1;1,1
+[14:12:02 server] opponent 1,0;1,0
+[14:12:03 player] 1,0;0,0
+[14:12:03 server] opponent 2,1;0,1
+[14:12:03 player] 2,1;1,2
+[14:12:03 server] opponent 1,2;0,1
+[14:12:03 player] 2,1;1,1
+[14:12:03 server] opponent 2,2;1,0
+[14:12:03 player] 0,2;1,0
+[14:12:03 server] opponent 2,1;1,0
+[14:12:03 player] 2,0;1,0
+[14:12:03 server] init
+[14:12:03 server] move
+[14:12:03 player] 0,0;0,0
+[14:12:03 server] opponent 0,0;2,1
+[14:12:03 player] 2,1;0,2
+[14:12:03 server] opponent 0,2;1,1
+[14:12:03 player] 1,1;0,1
+[14:12:03 server] opponent 0,1;0,2
+[14:12:03 player] 0,2;1,0
+[14:12:03 server] opponent 1,0;1,0
+[14:12:04 player] 1,0;2,0
+[14:12:04 server] opponent 2,0;2,0
+[14:12:04 player] 2,0;0,0
+[14:12:04 server] opponent 0,0;2,0
+[14:12:04 player] 2,0;1,0
+[14:12:04 server] opponent 1,0;2,1
+[14:12:04 player] 2,1;2,0
+[14:12:04 server] opponent 2,0;2,1
+[14:12:04 player] 2,1;1,1
+[14:12:04 server] opponent 1,1;1,2
+[14:12:04 player] 1,2;1,2
+[14:12:04 server] opponent 1,2;0,2
+[14:12:04 player] 0,2;1,2
+[14:12:04 server] opponent 1,2;2,2
+[14:12:04 player] 2,2;2,2
+[14:12:04 server] opponent 2,2;0,0
+[14:12:04 player] 0,0;2,2
+[14:12:04 server] opponent 2,2;0,1
+[14:12:05 player] 0,1;1,1
+[14:12:05 server] opponent 1,1;1,0
+[14:12:05 player] 1,0;0,0
+[14:12:05 server] opponent 0,0;0,1
+[14:12:05 player] 0,1;2,2
+[14:12:05 server] opponent 2,2;0,2
+[14:12:05 player] 0,2;2,2
+[14:12:05 server] opponent 0,0;1,0
+[14:12:05 player] 1,0;1,2
+[14:12:05 server] opponent 1,2;0,0
+[14:12:05 player] 0,0;1,1
+[14:12:05 server] opponent 1,1;0,0
+[14:12:05 player] 1,1;1,1
+[14:12:05 server] opponent 1,1;2,2
+[14:12:05 player] 1,1;2,0
+[14:12:05 server] opponent 2,0;2,2
+[14:12:05 player] 1,1;0,2
+[14:12:05 server] opponent 0,2;0,0
+[14:12:05 player] 1,2;0,1
+[14:12:06 server] opponent 0,1;1,2
+[14:12:06 player] 1,2;1,1
+[14:12:06 server] opponent 0,2;2,0
+[14:12:06 player] 0,2;0,2
+[14:12:06 server] opponent 0,1;2,1
+[14:12:06 player] 0,1;0,0
+[14:12:06 server] init
+[14:12:06 server] opponent 0,0;1,2
+[14:12:06 player] 1,2;1,0
+[14:12:06 server] opponent 1,0;0,0
+[14:12:06 player] 0,0;1,1
+[14:12:06 server] opponent 1,1;0,2
+[14:12:06 player] 0,2;1,1
+[14:12:06 server] opponent 1,1;1,0
+[14:12:06 player] 1,0;1,1
+[14:12:06 server] opponent 1,1;2,2
+[14:12:06 player] 2,2;0,1
+[14:12:06 server] opponent 0,1;1,2
+[14:12:07 player] 1,2;1,2
+[14:12:07 server] opponent 1,2;2,1
+[14:12:07 player] 2,1;1,0
+[14:12:07 server] opponent 1,0;2,2
+[14:12:07 player] 2,2;2,0
+[14:12:07 server] opponent 2,0;2,1
+[14:12:07 player] 2,1;0,2
+[14:12:07 server] opponent 0,2;2,1
+[14:12:07 player] 2,1;0,0
+[14:12:07 server] opponent 0,0;0,2
+[14:12:07 player] 0,2;2,2
+[14:12:07 server] opponent 2,2;1,1
+[14:12:07 player] 1,1;1,2
+[14:12:07 server] opponent 1,2;1,1
+[14:12:07 player] 1,1;2,0
+[14:12:07 server] opponent 2,0;1,2
+[14:12:07 player] 1,2;0,1
+[14:12:07 server] opponent 0,1;2,1
+[14:12:07 player] 2,1;0,1
+[14:12:07 server] opponent 0,1;2,2
+[14:12:08 player] 2,2;0,2
+[14:12:08 server] opponent 0,2;2,0
+[14:12:08 player] 2,0;0,1
+[14:12:08 server] opponent 0,1;0,2
+[14:12:08 player] 0,2;0,0
+[14:12:08 server] opponent 0,0;2,1
+[14:12:08 player] 0,0;2,2
+[14:12:08 server] opponent 2,2;2,1
+[14:12:08 player] 0,0;0,0
+[14:12:08 server] opponent 2,2;1,2
+[14:12:08 player] 1,2;2,2
+[14:12:08 server] opponent 2,2;0,0
+[14:12:08 player] 2,2;1,0
+[14:12:08 server] opponent 1,0;1,0
+[14:12:08 player] 1,0;2,0
+[14:12:08 server] opponent 2,0;0,2
+[14:12:08 player] 2,0;2,2
+[14:12:08 server] opponent 2,2;2,2
+[14:12:09 player] 1,0;0,2
+[14:12:09 server] opponent 1,1;2,1
+[14:12:09 player] 1,2;0,2
+[14:12:09 server] opponent 2,0;0,0
+[14:12:09 player] 2,0;1,0
+[14:12:09 server] opponent 2,0;2,0
+[14:12:09 player] 2,0;1,1
+[14:12:09 server] opponent 1,1;1,1
+[14:12:09 player] 1,1;0,1
+[14:12:09 server] opponent 1,1;0,0
+[14:12:09 server] init
+[14:12:09 server] move
+[14:12:09 player] 0,2;0,1
+[14:12:09 server] opponent 0,1;0,0
+[14:12:09 player] 0,0;1,1
+[14:12:09 server] opponent 1,1;1,0
+[14:12:09 player] 1,0;2,1
+[14:12:09 server] opponent 2,1;1,0
+[14:12:09 player] 1,0;2,2
+[14:12:09 server] opponent 2,2;2,1
+[14:12:10 player] 2,1;2,2
+[14:12:10 server] opponent 2,2;1,0
+[14:12:10 player] 1,0;2,0
+[14:12:10 server] opponent 2,0;0,0
+[14:12:10 player] 0,0;0,1
+[14:12:10 server] opponent 0,1;0,2
+[14:12:10 player] 0,2;0,2
+[14:12:10 server] opponent 0,2;2,1
+[14:12:10 player] 2,1;2,0
+[14:12:10 server] opponent 2,0;2,0
+[14:12:10 player] 2,0;1,0
+[14:12:10 server] opponent 0,0;1,0
+[14:12:10 player] 0,1;0,1
+[14:12:10 server] opponent 0,1;2,0
+[14:12:10 player] 2,0;1,2
+[14:12:10 server] opponent 1,2;2,1
+[14:12:10 player] 2,1;2,1
+[14:12:10 server] opponent 0,0;2,1
+[14:12:11 player] 0,1;1,0
+[14:12:11 server] opponent 0,0;2,0
+[14:12:11 player] 2,0;1,1
+[14:12:11 server] opponent 1,1;2,1
+[14:12:11 player] 0,0;2,2
+[14:12:11 server] opponent 2,2;0,2
+[14:12:11 player] 0,2;0,0
+[14:12:11 server] opponent 0,0;1,2
+[14:12:11 player] 1,2;1,2
+[14:12:11 server] opponent 1,2;2,0
+[14:12:11 player] 0,0;0,0
+[14:12:11 server] init
+[14:12:11 server] opponent 0,0;0,1
+[14:12:11 player] 0,1;0,0
+[14:12:11 server] opponent 0,0;2,2
+[14:12:11 player] 2,2;1,1
+[14:12:11 server] opponent 1,1;1,1
+[14:12:11 player] 1,1;0,0
+[14:12:11 server] opponent 0,0;0,0
+[14:12:12 player] 0,0;0,2
+[14:12:12 server] opponent 0,2;1,0
+[14:12:12 player] 1,0;2,0
+[14:12:12 server] opponent 2,0;0,1
+[14:12:12 player] 0,1;1,0
+[14:12:12 server] opponent 1,0;1,1
+[14:12:12 player] 1,1;2,1
+[14:12:12 server] opponent 2,1;2,0
+[14:12:12 player] 2,0;1,0
+[14:12:12 server] opponent 1,0;2,1
+[14:12:12 player] 2,1;2,1
+[14:12:12 server] opponent 2,1;1,1
+[14:12:12 player] 1,1;0,2
+[14:12:12 server] opponent 0,2;0,1
+[14:12:12 player] 0,1;2,0
+[14:12:12 server] opponent 2,0;1,1
+[14:12:12 player] 1,1;0,1
+[14:12:12 server] opponent 0,0;1,2
+[14:12:12 player] 1,2;0,2
+[14:12:12 server] opponent 0,2;2,1
+[14:12:13 player] 2,1;0,2
+[14:12:13 server] opponent 0,2;0,2
+[14:12:13 player] 0,2;0,0
+[14:12:13 server] opponent 0,0;1,0
+[14:12:13 player] 1,0;0,1
+[14:12:13 server] opponent 0,0;1,1
+[14:12:13 player] 0,2;1,1
+[14:12:13 server] opponent 0,2;1,2
+[14:12:13 player] 1,2;1,2
+[14:12:13 server] opponent 1,2;1,0
+[14:12:13 player] 1,0;2,2
+[14:12:13 server] opponent 2,2;2,0
+[14:12:13 player] 2,0;2,1
+[14:12:13 server] opponent 2,1;1,2
+[14:12:13 player] 1,2;2,2
+[14:12:13 server] opponent 2,2;0,2
+[14:12:13 player] 0,2;2,2
+[14:12:14 server] opponent 2,2;1,2
+[14:12:14 player] 2,1;1,0
+[14:12:14 server] opponent 1,0;1,2
+[14:12:14 player] 1,0;1,0
+[14:12:14 server] opponent 1,0;0,2
+[14:12:14 player] 2,2;2,2
+[14:12:14 server] opponent 2,2;2,1
+[14:12:14 player] 2,1;2,2
+[14:12:14 server] opponent 2,2;0,0
+[14:12:14 player] 2,2;0,1
+[14:12:14 server] opponent 1,0;0,0
+[14:12:14 player] 2,2;1,0
+[14:12:14 server] opponent 2,0;2,0
+[14:12:14 player] 2,0;0,2
+[14:12:14 server] opponent 2,0;2,2
+[14:12:14 player] 2,0;0,0
+[14:12:14 server] opponent 2,1;0,0
+[14:12:15 player] 2,0;1,2
+[14:12:15 server] opponent 2,1;0,1
+[14:12:15 server] init
+[14:12:15 server] move
+[14:12:15 player] 0,1;1,2
+[14:12:15 server] opponent 1,2;2,2
+[14:12:15 player] 2,2;2,2
+[14:12:15 server] opponent 2,2;1,1
+[14:12:15 player] 1,1;0,1
+[14:12:15 server] opponent 0,1;0,2
+[14:12:15 player] 0,2;2,1
+[14:12:15 server] opponent 2,1;2,0
+[14:12:15 player] 2,0;0,2
+[14:12:15 server] opponent 0,2;1,1
+[14:12:15 player] 1,1;2,1
+[14:12:15 server] opponent 2,1;0,1
+[14:12:15 player] 0,1;0,1
+[14:12:15 server] opponent 0,1;2,2
+[14:12:15 player] 2,2;2,1
+[14:12:15 server] opponent 2,1;0,2
+[14:12:15 player] 0,2;1,2
+[14:12:15 server] opponent 1,2;0,0
+[14:12:16 player] 0,0;1,0
+[14:12:16 server] opponent 1,0;0,2
+[14:12:16 player] 0,2;0,2
+[14:12:16 server] opponent 0,2;0,1
+[14:12:16 player] 0,1;0,0
+[14:12:16 server] opponent 0,0;2,0
+[14:12:16 player] 2,0;1,2
+[14:12:16 server] opponent 1,2;0,1
+[14:12:16 player] 0,1;1,1
+[14:12:16 server] opponent 1,1;2,2
+[14:12:16 player] 2,2;2,0
+[14:12:16 server] opponent 2,0;2,0
+[14:12:16 player] 2,0;2,2
+[14:12:16 server] opponent 0,0;0,2
+[14:12:16 player] 0,2;2,2
+[14:12:16 server] opponent 0,0;2,1
+[14:12:16 player] 2,1;0,0
+[14:12:16 server] opponent 0,0;1,2
+[14:12:17 player] 1,2;0,2
+[14:12:17 server] opponent 0,0;2,2
+[14:12:17 player] 1,2;1,1
+[14:12:17 server] opponent 1,1;0,0
+[14:12:17 player] 1,1;1,1
+[14:12:17 server] init
+[14:12:17 server] opponent 0,0;0,1
+[14:12:17 player] 0,1;2,0
+[14:12:17 server] opponent 2,0;2,1
+[14:12:17 player] 2,1;2,0
+[14:12:17 server] opponent 2,0;0,0
+[14:12:17 player] 0,0;0,2
+[14:12:17 server] opponent 0,2;2,1
+[14:12:17 player] 2,1;0,0
+[14:12:17 server] opponent 0,0;0,0
+[14:12:17 player] 0,0;1,1
+[14:12:17 server] opponent 1,1;1,0
+[14:12:17 player] 1,0;0,1
+[14:12:17 server] opponent 0,1;0,0
+[14:12:18 player] 0,0;2,0
+[14:12:18 server] opponent 2,0;1,2
+[14:12:18 player] 1,2;2,2
+[14:12:18 server] opponent 2,2;1,1
+[14:12:18 player] 1,1;2,2
+[14:12:18 server] opponent 2,2;2,2
+[14:12:18 player] 2,2;0,0
+[14:12:18 server] opponent 0,1;2,2
+[14:12:18 player] 2,2;2,0
+[14:12:18 server] opponent 2,0;1,0
+[14:12:18 player] 1,0;2,2
+[14:12:18 server] opponent 2,2;1,2
+[14:12:18 player] 1,2;0,0
+[14:12:18 server] opponent 2,1;2,2
+[14:12:18 player] 2,2;1,0
+[14:12:18 server] opponent 1,0;1,0
+[14:12:18 player] 1,0;1,1
+[14:12:18 server] opponent 1,1;0,0
+[14:12:19 player] 0,1;1,1
+[14:12:19 server] opponent 1,1;0,2
+[14:12:19 player] 0,2;0,1
+[14:12:19 server] opponent 0,1;0,1
+[14:12:19 player] 0,1;0,2
+[14:12:19 server] opponent 0,2;2,0
+[14:12:19 player] 2,0;1,1
+[14:12:19 server] opponent 1,1;2,1
+[14:12:19 player] 2,1;1,0
+[14:12:19 server] opponent 1,0;0,2
+[14:12:19 player] 0,2;2,2
+[14:12:19 server] opponent 0,2;1,2
+[14:12:19 player] 1,2;1,1
+[14:12:19 server] opponent 1,1;0,1
+[14:12:19 player] 2,0;2,0
+[14:12:19 server] opponent 2,0;0,1
+[14:12:19 player] 2,0;0,2
+[14:12:19 server] init
+[14:12:19 server] move
+[14:12:20 player] 0,1;0,1
+[14:12:20 server] opponent 0,1;1,1
+[14:12:20 player] 1,1;2,1
+[14:12:20 server] opponent 2,1;2,0
+[14:12:20 player] 2,0;0,0
+[14:12:20 server] opponent 0,0;1,2
+[14:12:20 player] 1,2;2,1
+[14:12:20 server] opponent 2,1;0,0
+[14:12:20 player] 0,0;2,1
+[14:12:20 server] opponent 2,1;2,1
+[14:12:20 player] 2,1;2,2
+[14:12:20 server] opponent 2,2;1,0
+[14:12:20 player] 1,0;0,0
+[14:12:20 server] opponent 0,0;2,0
+[14:12:20 player] 2,0;1,0
+[14:12:20 server] opponent 1,0;1,1
+[14:12:20 player] 1,1;1,2
+[14:12:20 server] opponent 1,2;0,0
+[14:12:20 player] 0,0;1,0
+[14:12:20 server] opponent 1,0;1,2
+[14:12:21 player] 1,2;2,2
+[14:12:21 server] opponent 2,2;1,1
+[14:12:21 player] 1,1;2,0
+[14:12:21 server] opponent 2,0;1,1
+[14:12:21 player] 1,1;2,2
+[14:12:21 server] opponent 2,2;1,2
+[14:12:21 player] 1,2;2,0
+[14:12:21 server] opponent 2,0;2,2
+[14:12:21 player] 1,0;1,0
+[14:12:21 server] opponent 1,0;2,0
+[14:12:21 player] 2,0;2,0
+[14:12:21 server] opponent 0,0;0,2
+[14:12:21 player] 0,2;1,2
+[14:12:21 server] opponent 0,0;2,2
+[14:12:21 player] 1,0;0,2
+[14:12:21 server] opponent 0,2;2,0
+[14:12:21 player] 2,1;1,0
+[14:12:21 server] opponent 1,0;2,1
+[14:12:22 player] 2,1;1,2
+[14:12:22 server] opponent 2,1;1,1
+[14:12:22 player] 1,0;2,2
+[14:12:22 server] opponent 1,0;0,1
+[14:12:22 player] 0,1;2,0
+[14:12:22 server] opponent 0,2;2,2
+[14:12:22 player] 0,2;2,1
+[14:12:22 server] opponent 2,1;0,1
+[14:12:22 player] 0,1;2,1
+[14:12:22 server] opponent 0,1;0,2
+[14:12:22 player] 0,2;0,1
+[14:12:22 server] opponent 0,1;2,2
+[14:12:22 player] 0,1;1,2
+[14:12:22 server] opponent 0,1;1,0
+[14:12:22 player] 0,1;0,0
+[14:12:22 server] opponent 0,2;1,1
+[14:12:22 player] 0,2;0,0
+[14:12:22 server] opponent 0,2;0,2
+[14:12:22 server] init
+[14:12:22 server] opponent 0,0;0,2
+[14:12:23 player] 0,2;2,1
+[14:12:23 server] opponent 2,1;2,2
+[14:12:23 player] 2,2;1,2
+[14:12:23 server] opponent 1,2;1,0
+[14:12:23 player] 1,0;2,1
+[14:12:23 server] opponent 2,1;1,0
+[14:12:23 player] 1,0;0,2
+[14:12:23 server] opponent 0,2;1,0
+[14:12:23 player] 1,0;1,1
+[14:12:23 server] opponent 1,1;1,2
+[14:12:23 player] 1,2;1,1
+[14:12:23 server] opponent 1,1;1,0
+[14:12:23 player] 1,0;0,1
+[14:12:23 server] opponent 0,1;1,0
+[14:12:23 player] 1,1;1,1
+[14:12:23 server] opponent 1,1;0,0
+[14:12:23 player] 0,0;1,1
+[14:12:23 server] opponent 1,1;0,2
+[14:12:24 player] 0,2;2,0
+[14:12:24 server] opponent 2,0;2,0
+[14:12:24 player] 2,0;1,1
+[14:12:24 server] opponent 1,1;0,1
+[14:12:24 player] 0,1;0,0
+[14:12:24 server] opponent 0,0;1,2
+[14:12:24 player] 1,2;1,2
+[14:12:24 server] opponent 1,2;2,1
+[14:12:24 player] 2,1;1,1
+[14:12:24 server] opponent 0,0;1,0
+[14:12:24 player] 0,0;2,2
+[14:12:24 server] opponent 2,2;0,2
+[14:12:24 player] 0,2;2,2
+[14:12:24 server] opponent 2,2;0,0
+[14:12:24 player] 0,0;0,0
+[14:12:24 server] opponent 2,1;2,1
+[14:12:24 player] 2,1;2,0
+[14:12:24 server] opponent 2,0;0,2
+[14:12:25 player] 2,2;0,1
+[14:12:25 server] opponent 0,1;0,2
+[14:12:25 player] 2,1;0,2
+[14:12:25 server] opponent 2,2;1,0
+[14:12:25 player] 2,2;2,0
+[14:12:25 server] opponent 2,0;1,2
+[14:12:25 player] 1,2;2,0
+[14:12:25 server] opponent 2,0;0,0
+[14:12:25 player] 2,0;0,1
+[14:12:25 server] opponent 0,1;2,0
+[14:12:25 player] 2,0;1,0
+[14:12:25 server] opponent 0,1;2,2
+[14:12:25 player] 2,2;2,2
+[14:12:25 server] opponent 2,2;1,1
+[14:12:25 player] 0,1;2,1
+[14:12:25 server] opponent 2,2;2,1
+[14:12:25 player] 0,1;1,2
+[14:12:25 server] opponent 1,2;2,2
+[14:12:26 player] 0,1;1,1
+[14:12:26 server] opponent 0,1;0,1
+[14:12:26 player] 2,0;2,2
+[14:12:26 server] opponent 1,2;0,1
+[14:12:26 player] 1,2;0,2
+[14:12:26 server] opponent 2,0;2,1
+[14:12:26 server] init
+[14:12:26 server] move
+[14:12:26 player] 0,0;1,1
+[14:12:26 server] opponent 1,1;2,0
+[14:12:26 player] 2,0;1,1
+[14:12:26 server] opponent 1,1;0,2
+[14:12:26 player] 0,2;1,0
+[14:12:26 server] opponent 1,0;1,2
+[14:12:26 player] 1,2;1,2
+[14:12:26 server] opponent 1,2;1,1
+[14:12:26 player] 1,1;1,1
+[14:12:26 server] opponent 1,1;2,1
+[14:12:26 player] 2,1;2,1
+[14:12:26 server] opponent 2,1;0,2
+[14:12:27 player] 0,2;2,0
+[14:12:27 server] opponent 2,0;2,0
+[14:12:27 player] 2,0;0,0
+[14:12:27 server] opponent 0,0;0,2
+[14:12:27 player] 0,2;0,0
+[14:12:27 server] opponent 0,0;2,0
+[14:12:27 player] 2,0;2,2
+[14:12:27 server] opponent 2,2;1,2
+[14:12:27 player] 1,2;0,2
+[14:12:27 server] opponent 0,0;1,0
+[14:12:27 player] 1,0;0,0
+[14:12:27 server] opponent 0,0;1,2
+[14:12:27 player] 1,2;2,2
+[14:12:27 server] opponent 2,2;0,2
+[14:12:27 player] 0,0;0,0
+[14:12:27 server] opponent 0,0;2,2
+[14:12:27 player] 2,2;2,2
+[14:12:27 server] opponent 2,2;0,1
+[14:12:27 player] 0,1;0,1
+[14:12:27 server] opponent 0,1;1,1
+[14:12:28 player] 1,1;2,2
+[14:12:28 server] opponent 2,2;0,0
+[14:12:28 player] 1,1;0,0
+[14:12:28 server] init
+[14:12:28 server] opponent 0,0;0,1
+[14:12:28 player] 0,1;2,0
+[14:12:28 server] opponent 2,0;0,1
+[14:12:28 player] 0,1;1,2
+[14:12:28 server] opponent 1,2;0,1
+[14:12:28 player] 0,1;0,1
+[14:12:28 server] opponent 0,1;2,2
+[14:12:28 player] 2,2;1,0
+[14:12:28 server] opponent 1,0;1,2
+[14:12:28 player] 1,2;2,1
+[14:12:28 server] opponent 2,1;2,2
+[14:12:28 player] 2,2;0,0
+[14:12:28 server] opponent 0,0;2,1
+[14:12:28 player] 2,1;2,0
+[14:12:28 server] opponent 2,0;1,1
+[14:12:29 player] 1,1;1,2
+[14:12:29 server] opponent 1,2;1,1
+[14:12:29 player] 1,1;0,1
+[14:12:29 server] opponent 0,1;0,2
+[14:12:29 player] 0,2;2,2
+[14:12:29 server] opponent 2,2;0,2
+[14:12:29 player] 0,2;1,2
+[14:12:29 server] opponent 1,2;1,2
+[14:12:29 player] 1,2;1,0
+[14:12:29 server] opponent 1,0;1,1
+[14:12:29 player] 1,1;0,2
+[14:12:29 server] opponent 0,2;1,1
+[14:12:29 player] 1,1;0,0
+[14:12:29 server] opponent 0,0;1,1
+[14:12:29 player] 1,0;1,0
+[14:12:29 server] opponent 1,0;2,0
+[14:12:29 player] 2,0;2,1
+[14:12:29 server] opponent 2,1;1,2
+[14:12:30 player] 1,2;2,2
+[14:12:30 server] opponent 2,2;2,1
+[14:12:30 player] 2,1;0,2
+[14:12:30 server] opponent 0,2;2,1
+[14:12:30 player] 2,1;1,1
+[14:12:30 server] opponent 0,2;2,0
+[14:12:30 player] 2,0;1,0
+[14:12:30 server] opponent 1,0;0,0
+[14:12:30 player] 0,2;0,1
+[14:12:30 server] opponent 0,1;0,0
+[14:12:30 player] 0,1;1,1
+[14:12:30 server] opponent 1,2;0,0
+[14:12:30 player] 0,2;0,2
+[14:12:30 server] opponent 0,1;1,0
+[14:12:30 player] 1,0;2,2
+[14:12:30 server] opponent 2,2;1,1
+[14:12:30 player] 1,0;0,2
+[14:12:30 server] opponent 2,2;2,0
+[14:12:31 player] 2,0;0,0
+[14:12:31 server] opponent 2,0;2,2
+[14:12:31 player] 1,2;0,2
+[14:12:31 server] opponent 0,1;2,1
+[14:12:31 player] 1,2;2,0
+[14:12:31 server] opponent 2,0;1,2
+[14:12:31 player] 2,0;0,2
+[14:12:31 server] opponent 2,0;2,0
+[14:12:31 player] 1,0;2,1
+[14:12:31 server] opponent 1,0;0,1
+[14:12:31 server] init
+[14:12:31 server] move
+[14:12:31 player] 0,0;1,1
+[14:12:31 server] opponent 1,1;1,0
+[14:12:31 player] 1,0;0,2
+[14:12:31 server] opponent 0,2;0,0
+[14:12:31 player] 0,0;0,0
+[14:12:31 server] opponent 0,0;2,2
+[14:12:31 player] 2,2;0,1
+[14:12:31 server] opponent 0,1;1,2
+[14:12:32 player] 1,2;0,2
+[14:12:32 server] opponent 0,2;1,1
+[14:12:32 player] 1,1;2,1
+[14:12:32 server] opponent 2,1;2,0
+[14:12:32 player] 2,0;2,0
+[14:12:32 server] opponent 2,0;1,0
+[14:12:32 player] 1,0;0,1
+[14:12:32 server] opponent 0,1;0,0
+[14:12:32 player] 0,0;1,0
+[14:12:32 server] opponent 1,0;0,0
+[14:12:32 player] 0,0;1,2
+[14:12:32 server] opponent 1,2;1,2
+[14:12:32 player] 1,2;0,1
+[14:12:32 server] opponent 0,1;1,0
+[14:12:32 player] 1,0;1,0
+[14:12:32 server] opponent 1,0;2,2
+[14:12:32 player] 2,2;1,2
+[14:12:32 server] opponent 1,2;2,1
+[14:12:32 player] 2,1;1,2
+[14:12:32 server] opponent 1,2;2,0
+[14:12:33 player] 2,0;1,1
+[14:12:33 server] opponent 1,1;1,1
+[14:12:33 player] 1,1;1,2
+[14:12:33 server] opponent 1,2;2,2
+[14:12:33 player] 2,2;0,2
+[14:12:33 server] opponent 0,2;0,2
+[14:12:33 player] 0,2;0,1
+[14:12:33 server] opponent 0,1;1,1
+[14:12:33 player] 1,1;2,2
+[14:12:33 server] opponent 2,2;2,1
+[14:12:33 player] 2,1;2,1
+[14:12:33 server] opponent 2,1;0,0
+[14:12:33 player] 0,2;2,2
+[14:12:33 server] opponent 2,2;1,0
+[14:12:33 player] 1,0;1,1
+[14:12:33 server] opponent 1,1;0,2
+[14:12:33 player] 0,2;2,0
+[14:12:33 server] opponent 2,0;0,1
+[14:12:34 player] 1,1;2,0
+[14:12:34 server] opponent 2,0;0,2
+[14:12:34 player] 0,2;2,1
+[14:12:34 server] opponent 2,1;1,1
+[14:12:34 player] 2,0;0,0
+[14:12:34 server] opponent 1,0;2,1
+[14:12:34 player] 2,1;1,0
+[14:12:34 server] opponent 1,0;2,0
+[14:12:34 player] 2,0;2,2
+[14:12:34 server] init
+[14:12:34 server] opponent 0,0;0,2
+[14:12:34 player] 0,2;1,2
+[14:12:34 server] opponent 1,2;1,1
+[14:12:34 player] 1,1;0,2
+[14:12:34 server] opponent 0,2;1,1
+[14:12:34 player] 1,1;2,1
+[14:12:34 server] opponent 2,1;2,1
+[14:12:34 player] 2,1;0,0
+[14:12:34 server] opponent 0,0;1,2
+[14:12:35 player] 1,2;1,0
+[14:12:35 server] opponent 1,0;1,2
+[14:12:35 player] 1,2;2,0
+[14:12:35 server] opponent 2,0;0,1
+[14:12:35 player] 0,1;1,1
+[14:12:35 server] opponent 1,1;1,1
+[14:12:35 player] 1,1;1,0
+[14:12:35 server] opponent 1,0;1,1
+[14:12:35 player] 1,1;2,2
+[14:12:35 server] opponent 2,2;0,2
+[14:12:35 player] 0,2;1,0
+[14:12:35 server] opponent 1,0;0,2
+[14:12:35 player] 0,2;2,0
+[14:12:35 server] opponent 2,0;0,2
+[14:12:35 player] 0,2;0,0
+[14:12:35 server] opponent 0,0;1,0
+[14:12:35 player] 1,0;1,0
+[14:12:35 server] opponent 1,0;2,0
+[14:12:36 player] 2,0;0,0
+[14:12:36 server] opponent 0,0;2,2
+[14:12:36 player] 2,2;1,1
+[14:12:36 server] opponent 1,1;1,2
+[14:12:36 player] 1,2;0,0
+[14:12:36 server] opponent 2,0;1,0
+[14:12:36 player] 1,1;2,0
+[14:12:36 server] opponent 2,0;2,1
+[14:12:36 player] 2,1;1,0
+[14:12:36 server] opponent 2,0;2,0
+[14:12:36 player] 2,0;2,2
+[14:12:36 server] opponent 2,2;1,2
+[14:12:36 player] 2,0;1,1
+[14:12:36 server] init
+[14:12:36 server] move
+[14:12:36 player] 0,1;1,0
+[14:12:36 server] opponent 1,0;1,1
+[14:12:36 player] 1,1;0,2
+[14:12:36 server] opponent 0,2;2,2
+[14:12:37 player] 2,2;2,0
+[14:12:37 server] opponent 2,0;0,0
+[14:12:37 player] 0,0;0,2
+[14:12:37 server] opponent 0,2;1,1
+[14:12:37 player] 1,1;0,1
+[14:12:37 server] opponent 0,1;0,0
+[14:12:37 player] 0,0;2,1
+[14:12:37 server] opponent 2,1;0,0
+[14:12:37 player] 0,0;2,2
+[14:12:37 server] opponent 2,2;1,0
+[14:12:37 player] 1,0;2,1
+[14:12:37 server] opponent 2,1;2,2
+[14:12:37 player] 2,2;2,2
+[14:12:37 server] opponent 2,2;1,1
+[14:12:37 player] 1,1;0,0
+[14:12:37 server] opponent 0,0;1,0
+[14:12:37 player] 1,0;2,0
+[14:12:37 server] opponent 2,0;2,2
+[14:12:38 player] 2,2;1,2
+[14:12:38 server] opponent 1,2;0,1
+[14:12:38 player] 0,1;2,0
+[14:12:38 server] opponent 2,0;1,1
+[14:12:38 player] 0,2;0,0
+[14:12:38 server] opponent 0,0;0,1
+[14:12:38 player] 0,1;1,1
+[14:12:38 server] opponent 0,0;2,0
+[14:12:38 player] 0,0;0,0
+[14:12:38 server] opponent 0,0;1,2
+[14:12:38 player] 1,2;2,0
+[14:12:38 server] opponent 0,0;1,1
+[14:12:38 player] 2,1;1,1
+[14:12:38 server] opponent 1,0;2,2
+[14:12:38 player] 2,2;2,1
+[14:12:38 server] opponent 2,1;0,2
+[14:12:38 player] 0,2;2,0
+[14:12:38 server] opponent 2,1;2,0
+[14:12:39 player] 1,0;0,0
+[14:12:39 server] opponent 0,2;1,2
+[14:12:39 player] 1,2;0,0
+[14:12:39 server] opponent 1,2;0,2
+[14:12:39 player] 0,2;1,0
+[14:12:39 server] opponent 1,0;0,2
+[14:12:39 player] 1,0;1,2
+[14:12:39 server] opponent 1,2;1,2
+[14:12:39 player] 1,2;2,2
+[14:12:39 server] opponent 1,2;1,1
+[14:12:39 player] 1,2;1,0
+[14:12:39 server] init
+[14:12:39 server] opponent 0,0;1,1
+[14:12:39 player] 1,1;1,2
+[14:12:39 server] opponent 1,2;1,2
+[14:12:39 player] 1,2;2,0
+[14:12:39 server] opponent 2,0;1,1
+[14:12:39 player] 1,1;2,0
+[14:12:39 server] opponent 2,0;1,0
+[14:12:39 player] 1,0;0,0
+[14:12:39 server] opponent 0,0;2,0
+[14:12:40 player] 2,0;1,2
+[14:12:40 server] opponent 1,2;2,1
+[14:12:40 player] 2,1;1,1
+[14:12:40 server] opponent 1,1;0,2
+[14:12:40 player] 0,2;1,0
+[14:12:40 server] opponent 1,0;2,2
+[14:12:40 player] 2,2;2,2
+[14:12:40 server] opponent 2,2;1,0
+[14:12:40 player] 1,0;1,0
+[14:12:40 server] opponent 1,0;0,1
+[14:12:40 player] 0,1;0,1
+[14:12:40 server] opponent 0,1;0,0
+[14:12:40 player] 0,0;0,2
+[14:12:40 server] opponent 0,2;2,1
+[14:12:40 player] 2,1;2,0
+[14:12:40 server] opponent 2,0;0,1
+[14:12:40 player] 0,1;0,2
+[14:12:40 server] opponent 0,2;2,0
+[14:12:41 player] 2,0;2,1
+[14:12:41 server] opponent 2,1;0,1
+[14:12:41 player] 0,1;1,0
+[14:12:41 server] opponent 1,0;2,0
+[14:12:41 player] 2,0;2,0
+[14:12:41 server] opponent 2,0;2,2
+[14:12:41 player] 2,2;0,0
+[14:12:41 server] opponent 0,0;0,1
+[14:12:41 player] 0,1;2,1
+[14:12:41 server] opponent 2,1;1,2
+[14:12:41 player] 1,2;0,1
+[14:12:41 server] opponent 0,1;2,2
+[14:12:41 player] 2,2;1,1
+[14:12:41 server] opponent 1,1;1,0
+[14:12:41 player] 1,0;2,1
+[14:12:41 server] opponent 2,1;2,1
+[14:12:41 player] 2,1;0,2
+[14:12:41 server] opponent 0,2;0,1
+[14:12:42 player] 0,1;1,1
+[14:12:42 server] opponent 1,1;2,1
+[14:12:42 player] 0,0;2,1
+[14:12:42 server] opponent 0,0;2,2
+[14:12:42 player] 0,0;0,0
+[14:12:42 server] opponent 0,0;1,0
+[14:12:42 player] 1,0;1,2
+[14:12:42 server] opponent 1,2;0,0
+[14:12:42 player] 0,0;1,2
+[14:12:42 server] opponent 1,2;2,2
+[14:12:42 player] 0,2;2,2
+[14:12:42 server] opponent 1,1;1,1
+[14:12:42 player] 1,1;0,1
+[14:12:42 server] opponent 0,2;1,2
+[14:12:42 player] 1,2;0,2
+[14:12:42 server] opponent 0,2;0,0
+[14:12:42 player] 0,2;0,2
+[14:12:42 server] opponent 0,2;1,1
+[14:12:43 player] 1,1;0,0
+[14:12:43 server] opponent 2,0;0,0
+[14:12:43 player] 1,2;1,1
+[14:12:43 server] opponent 1,1;2,2
+[14:12:43 player] 1,0;1,1
+[14:12:43 server] init
+[14:12:43 server] move
+[14:12:43 player] 0,2;1,0
+[14:12:43 server] opponent 1,0;1,2
+[14:12:43 player] 1,2;1,2
+[14:12:43 server] opponent 1,2;2,1
+[14:12:43 player] 2,1;0,1
+[14:12:43 server] opponent 0,1;1,2
+[14:12:43 player] 1,2;1,0
+[14:12:43 server] opponent 1,0;0,2
+[14:12:43 player] 0,2;0,0
+[14:12:43 server] opponent 0,0;1,1
+[14:12:43 player] 1,1;1,1
+[14:12:43 server] opponent 1,1;2,0
+[14:12:44 player] 2,0;1,2
+[14:12:44 server] opponent 1,2;2,2
+[14:12:44 player] 2,2;1,0
+[14:12:44 server] opponent 1,0;2,2
+[14:12:44 player] 2,2;2,1
+[14:12:44 server] opponent 2,1;2,0
+[14:12:44 player] 2,0;2,2
+[14:12:44 server] opponent 2,2;0,0
+[14:12:44 player] 0,0;2,2
+[14:12:44 server] opponent 2,2;0,1
+[14:12:44 player] 0,1;2,0
+[14:12:44 server] opponent 2,0;2,1
+[14:12:44 player] 2,1;2,1
+[14:12:44 server] opponent 2,1;1,0
+[14:12:44 player] 1,2;2,0
+[14:12:44 server] opponent 2,0;1,1
+[14:12:44 player] 1,1;0,1
+[14:12:44 server] opponent 0,1;0,2
+[14:12:45 player] 0,2;2,0
+[14:12:45 server] opponent 2,0;1,0
+[14:12:45 player] 0,1;2,2
+[14:12:45 server] opponent 2,2;2,2
+[14:12:45 player] 2,2;0,2
+[14:12:45 server] opponent 0,0;0,0
+[14:12:45 player] 0,0;2,1
+[14:12:45 server] opponent 2,1;0,2
+[14:12:45 player] 2,0;0,1
+[14:12:45 server] opponent 0,1;0,1
+[14:12:45 player] 0,1;0,0
+[14:12:45 server] opponent 0,0;1,2
+[14:12:45 player] 1,2;1,1
+[14:12:45 server] opponent 1,1;1,0
+[14:12:45 player] 0,0;1,0
+[14:12:45 server] opponent 0,0;0,1
+[14:12:45 player] 0,1;2,1
+[14:12:45 server] opponent 2,1;0,0
+[14:12:46 player] 0,0;0,2
+[14:12:46 server] opponent 0,0;2,0
+[14:12:46 player] 2,0;0,2
+[14:12:46 server] opponent 2,2;1,2
+[14:12:46 player] 1,1;0,0
+[14:12:46 server] opponent 1,1;2,2
+[14:12:46 player] 2,2;1,1
+[14:12:46 server] opponent 1,1;1,2
+[14:12:46 player] 1,1;2,1
+[14:12:46 server] init
+[14:12:46 server] opponent 0,0;1,0
+[14:12:46 player] 1,0;2,2
+[14:12:46 server] opponent 2,2;1,1
+[14:12:46 player] 1,1;2,1
+[14:12:46 server] opponent 2,1;1,2
+[14:12:46 player] 1,2;0,1
+[14:12:46 server] opponent 0,1;0,1
+[14:12:46 player] 0,1;2,0
+[14:12:46 server] opponent 2,0;0,0
+[14:12:47 player] 0,0;0,0
+[14:12:47 server] opponent 0,0;1,2
+[14:12:47 player] 1,2;2,1
+[14:12:47 server] opponent 2,1;2,0
+[14:12:47 player] 2,0;1,1
+[14:12:47 server] opponent 1,1;0,0
+[14:12:47 player] 0,0;1,1
+[14:12:47 server] opponent 1,1;1,2
+[14:12:47 player] 1,2;1,1
+[14:12:47 server] opponent 1,1;0,2
+[14:12:47 player] 0,2;1,0
+[14:12:47 server] opponent 1,0;1,2
+[14:12:47 player] 1,1;0,1
+[14:12:47 server] opponent 0,1;1,1
+[14:12:47 player] 1,1;2,2
+[14:12:47 server] opponent 2,2;0,0
+[14:12:47 player] 0,0;2,2
+[14:12:47 server] opponent 2,2;2,1
+[14:12:47 player] 2,1;1,1
+[14:12:47 server] opponent 1,1;1,1
+[14:12:48 player] 1,1;1,0
+[14:12:48 server] opponent 1,0;2,0
+[14:12:48 player] 2,0;0,1
+[14:12:48 server] opponent 0,1;1,2
+[14:12:48 player] 0,1;1,0
+[14:12:48 server] opponent 1,0;0,0
+[14:12:48 player] 0,1;2,1
+[14:12:48 server] opponent 2,1;0,2
+[14:12:48 player] 0,2;0,1
+[14:12:48 server] opponent 0,1;2,2
+[14:12:48 player] 2,2;0,1
+[14:12:48 server] opponent 0,1;0,2
+[14:12:48 player] 0,2;2,0
+[14:12:48 server] opponent 2,0;2,1
+[14:12:48 player] 2,1;2,2
+[14:12:48 server] opponent 2,2;1,0
+[14:12:48 player] 1,0;1,0
+[14:12:48 server] opponent 1,0;2,1
+[14:12:49 player] 2,1;0,0
+[14:12:49 server] opponent 2,0;2,0
+[14:12:49 player] 2,0;2,2
+[14:12:49 server] opponent 2,2;2,2
+[14:12:49 player] 1,1;2,0
+[14:12:49 server] opponent 2,0;1,0
+[14:12:49 player] 1,0;0,2
+[14:12:49 server] opponent 0,2;2,1
+[14:12:49 player] 0,2;0,0
+[14:12:49 server] opponent 1,0;1,1
+[14:12:49 player] 1,0;0,1
+[14:12:49 server] init
+[14:12:49 server] move
+[14:12:49 player] 0,0;2,0
+[14:12:49 server] opponent 2,0;0,0
+[14:12:49 player] 0,0;1,2
+[14:12:49 server] opponent 1,2;0,1
+[14:12:49 player] 0,1;1,1
+[14:12:49 server] opponent 1,1;0,1
+[14:12:50 player] 0,1;0,0
+[14:12:50 server] opponent 0,0;1,1
+[14:12:50 player] 1,1;1,1
+[14:12:50 server] opponent 1,1;0,2
+[14:12:50 player] 0,2;2,1
+[14:12:50 server] opponent 2,1;0,2
+[14:12:50 player] 0,2;2,0
+[14:12:50 server] opponent 2,0;0,1
+[14:12:50 player] 0,1;2,2
+[14:12:50 server] opponent 2,2;0,1
+[14:12:50 player] 1,1;0,0
+[14:12:50 server] opponent 0,0;1,0
+[14:12:50 player] 1,0;0,0
+[14:12:50 server] opponent 0,0;0,0
+[14:12:50 player] 0,0;2,2
+[14:12:50 server] opponent 2,2;1,1
+[14:12:50 player] 1,1;2,2
+[14:12:50 server] opponent 2,2;0,0
+[14:12:51 player] 0,0;2,1
+[14:12:51 server] opponent 2,1;2,2
+[14:12:51 player] 2,2;0,2
+[14:12:51 server] opponent 0,2;0,1
+[14:12:51 player] 2,0;0,2
+[14:12:51 server] opponent 0,2;1,2
+[14:12:51 player] 1,2;1,1
+[14:12:51 server] opponent 2,0;2,2
+[14:12:51 player] 2,2;2,1
+[14:12:51 server] opponent 2,1;1,0
+[14:12:51 player] 1,0;0,1
+[14:12:51 server] opponent 0,2;1,1
+[14:12:51 player] 0,2;1,0
+[14:12:51 server] opponent 1,0;1,2
+[14:12:51 player] 1,2;0,0
+[14:12:51 server] opponent 1,0;1,0
+[14:12:51 player] 1,0;1,1
+[14:12:51 server] opponent 2,2;1,2
+[14:12:52 player] 1,2;2,2
+[14:12:52 server] opponent 2,2;2,2
+[14:12:52 player] 2,0;1,1
+[14:12:52 server] opponent 1,0;0,2
+[14:12:52 player] 0,2;2,2
+[14:12:52 server] init
+[14:12:52 server] opponent 0,0;0,0
+[14:12:52 player] 0,0;1,0
+[14:12:52 server] opponent 1,0;1,1
+[14:12:52 player] 1,1;2,0
+[14:12:52 server] opponent 2,0;0,0
+[14:12:52 player] 0,0;2,1
+[14:12:52 server] opponent 2,1;2,0
+[14:12:52 player] 2,0;2,0
+[14:12:52 server] opponent 2,0;0,1
+[14:12:52 player] 0,1;0,0
+[14:12:52 server] opponent 0,0;0,1
+[14:12:52 player] 0,1;2,0
+[14:12:52 server] opponent 2,0;0,2
+[14:12:52 player] 0,2;1,2
+[14:12:52 server] opponent 1,2;0,0
+[14:12:53 player] 0,0;0,2
+[14:12:53 server] opponent 0,2;0,2
+[14:12:53 player] 0,2;0,0
+[14:12:53 server] opponent 0,0;2,0
+[14:12:53 player] 0,1;1,0
+[14:12:53 server] opponent 1,0;0,0
+[14:12:53 player] 0,0;1,1
+[14:12:53 server] opponent 1,1;0,1
+[14:12:53 player] 1,0;2,2
+[14:12:53 server] opponent 2,2;0,0
+[14:12:53 player] 0,0;1,2
+[14:12:53 server] opponent 1,2;2,0
+[14:12:53 player] 1,2;1,0
+[14:12:53 server] opponent 1,0;2,0
+[14:12:53 player] 1,0;1,0
+[14:12:53 server] opponent 1,0;2,1
+[14:12:53 player] 2,1;0,0
+[14:12:53 server] opponent 1,0;0,1
+[14:12:54 player] 1,2;2,2
+[14:12:54 server] opponent 2,2;0,1
+[14:12:54 player] 2,2;0,2
+[14:12:54 server] opponent 0,2;2,1
+[14:12:54 player] 2,1;2,1
+[14:12:54 server] opponent 2,1;1,1
+[14:12:54 player] 1,1;0,0
+[14:12:54 server] opponent 2,1;1,2
+[14:12:54 player] 1,2;1,1
+[14:12:54 server] opponent 1,1;1,0
+[14:12:54 player] 2,1;1,0
+[14:12:54 server] opponent 1,2;2,1
+[14:12:54 player] 2,1;0,2
+[14:12:54 server] opponent 0,2;0,1
+[14:12:54 player] 0,2;1,1
+[14:12:54 server] opponent 1,1;2,1
+[14:12:54 player] 2,1;0,1
+[14:12:54 server] opponent 1,1;1,2
+[14:12:55 player] 1,2;1,2
+[14:12:55 server] opponent 0,2;2,2
+[14:12:55 player] 2,2;1,1
+[14:12:55 server] opponent 1,1;2,2
+[14:12:55 player] 2,2;2,0
+[14:12:55 server] opponent 1,1;1,1
+[14:12:55 player] 0,2;2,0
+[14:12:55 server] opponent 0,2;1,0
+[14:12:55 server] init
+[14:12:55 server] move
+[14:12:55 player] 0,1;2,1
+[14:12:55 server] opponent 2,1;0,0
+[14:12:55 player] 0,0;2,0
+[14:12:55 server] opponent 2,0;1,1
+[14:12:55 player] 1,1;1,1
+[14:12:55 server] opponent 1,1;0,0
+[14:12:55 player] 0,0;0,0
+[14:12:55 server] opponent 0,0;0,2
+[14:12:55 player] 0,2;1,2
+[14:12:55 server] opponent 1,2;1,1
+[14:12:56 player] 1,1;2,1
+[14:12:56 server] opponent 2,1;1,0
+[14:12:56 player] 1,0;1,0
+[14:12:56 server] opponent 1,0;0,1
+[14:12:56 player] 0,1;2,0
+[14:12:56 server] opponent 2,0;2,1
+[14:12:56 player] 2,1;2,0
+[14:12:56 server] opponent 2,0;1,2
+[14:12:56 player] 1,2;0,0
+[14:12:56 server] opponent 0,0;1,2
+[14:12:56 player] 1,2;1,0
+[14:12:56 server] opponent 1,0;0,2
+[14:12:56 player] 0,2;0,1
+[14:12:56 server] opponent 0,1;0,2
+[14:12:56 player] 0,2;2,0
+[14:12:56 server] opponent 2,0;1,0
+[14:12:56 player] 1,0;0,0
+[14:12:56 server] opponent 0,0;2,1
+[14:12:57 player] 2,1;1,2
+[14:12:57 server] opponent 1,2;2,0
+[14:12:57 player] 0,0;2,2
+[14:12:57 server] opponent 2,2;2,2
+[14:12:57 player] 2,2;1,0
+[14:12:57 server] opponent 1,0;1,2
+[14:12:57 player] 1,2;0,2
+[14:12:57 server] opponent 0,2;0,0
+[14:12:57 player] 0,0;1,0
+[14:12:57 server] opponent 1,0;2,2
+[14:12:57 player] 2,2;2,0
+[14:12:57 server] opponent 0,2;0,2
+[14:12:57 player] 0,2;2,1
+[14:12:57 server] opponent 2,1;2,2
+[14:12:57 player] 2,2;0,0
+[14:12:57 server] opponent 2,1;0,2
+[14:12:57 player] 0,2;2,2
+[14:12:57 server] opponent 1,1;2,2
+[14:12:58 player] 2,1;0,1
+[14:12:58 server] opponent 0,1;1,0
+[14:12:58 player] 2,1;1,1
+[14:12:58 server] opponent 1,1;1,2
+[14:12:58 player] 1,2;0,1
+[14:12:58 server] init
+[14:12:58 server] opponent 0,0;1,2
+[14:12:58 player] 1,2;2,0
+[14:12:58 server] opponent 2,0;1,2
+[14:12:58 player] 1,2;1,0
+[14:12:58 server] opponent 1,0;1,1
+[14:12:58 player] 1,1;1,2
+[14:12:58 server] opponent 1,2;2,2
+[14:12:58 player] 2,2;1,0
+[14:12:58 server] opponent 1,0;2,0
+[14:12:58 player] 2,0;0,2
+[14:12:58 server] opponent 0,2;2,2
+[14:12:58 player] 2,2;0,0
+[14:12:58 server] opponent 0,0;1,0
+[14:12:59 player] 1,0;0,2
+[14:12:59 server] opponent 0,2;0,1
+[14:12:59 player] 0,1;1,2
+[14:12:59 server] opponent 1,2;1,1
+[14:12:59 player] 1,1;2,0
+[14:12:59 server] opponent 2,0;1,0
+[14:12:59 player] 1,0;2,2
+[14:12:59 server] opponent 2,2;1,2
+[14:12:59 player] 1,2;0,0
+[14:12:59 server] opponent 0,0;1,1
+[14:12:59 player] 1,1;1,1
+[14:12:59 server] opponent 1,1;0,1
+[14:12:59 player] 0,1;0,2
+[14:12:59 server] opponent 0,2;0,0
+[14:12:59 player] 0,2;0,2
+[14:12:59 server] opponent 0,2;1,2
+[14:12:59 player] 0,2;1,1
+[14:12:59 server] opponent 1,1;1,0
+[14:12:59 player] 1,0;1,2
+[14:12:59 server] opponent 0,1;2,0
+[14:13:00 player] 2,0;1,1
+[14:13:00 server] opponent 1,1;2,1
+[14:13:00 player] 2,1;2,0
+[14:13:00 server] opponent 2,0;2,0
+[14:13:00 player] 2,0;0,0
+[14:13:00 server] opponent 2,0;2,1
+[14:13:00 player] 2,1;0,1
+[14:13:00 server] opponent 0,1;1,1
+[14:13:00 player] 1,1;0,2
+[14:13:00 server] init
+[14:13:00 server] move
+[14:13:00 player] 0,0;0,1
+[14:13:00 server] opponent 0,1;2,2
+[14:13:00 player] 2,2;1,1
+[14:13:00 server] opponent 1,1;1,2
+[14:13:00 player] 1,2;1,0
+[14:13:00 server] opponent 1,0;1,1
+[14:13:00 player] 1,1;2,1
+[14:13:00 server] opponent 2,1;2,2
+[14:13:01 player] 2,2;0,0
+[14:13:01 server] opponent 0,0;1,0
+[14:13:01 player] 1,0;1,0
+[14:13:01 server] opponent 1,0;0,1
+[14:13:01 player] 0,1;1,0
+[14:13:01 server] opponent 1,0;0,0
+[14:13:01 player] 0,0;0,2
+[14:13:01 server] opponent 0,2;0,0
+[14:13:01 player] 0,0;0,0
+[14:13:01 server] opponent 1,1;0,0
+[14:13:01 player] 1,0;0,2
+[14:13:01 server] opponent 0,2;1,1
+[14:13:01 player] 1,1;2,2
+[14:13:01 server] opponent 2,2;1,2
+[14:13:01 player] 1,2;1,2
+[14:13:01 server] opponent 1,2;2,2
+[14:13:01 player] 2,2;2,2
+[14:13:01 server] opponent 1,0;1,2
+[14:13:02 player] 1,2;1,1
+[14:13:02 server] opponent 1,1;2,0
+[14:13:02 player] 2,0;1,1
+[14:13:02 server] opponent 1,1;1,0
+[14:13:02 player] 1,0;2,1
+[14:13:02 server] opponent 2,1;2,0
+[14:13:02 player] 2,0;0,0
+[14:13:02 server] opponent 0,1;1,2
+[14:13:02 player] 0,1;0,2
+[14:13:02 server] opponent 0,2;1,2
+[14:13:02 player] 0,2;1,0
+[14:13:02 server] opponent 1,0;2,2
+[14:13:02 player] 0,2;2,2
+[14:13:02 server] opponent 0,1;2,1
+[14:13:02 player] 2,1;2,1
+[14:13:02 server] opponent 2,1;1,2
+[14:13:02 player] 0,1;2,0
+[14:13:02 server] opponent 2,0;1,2
+[14:13:03 player] 2,1;0,2
+[14:13:03 server] opponent 0,2;2,1
+[14:13:03 player] 2,1;0,1
+[14:13:03 server] opponent 0,1;0,0
+[14:13:03 player] 0,1;1,1
+[14:13:03 server] opponent 0,2;0,2
+[14:13:03 player] 0,2;0,1
+[14:13:03 server] opponent 2,0;0,1
+[14:13:03 player] 0,2;2,0
+[14:13:03 server] opponent 2,0;2,0
+[14:13:03 player] 2,0;2,2
+[14:13:03 server] opponent 2,1;1,1
+[14:13:03 player] 2,1;1,0
+[14:13:03 server] opponent 2,1;0,0
+[14:13:03 server] init
+[14:13:03 server] opponent 0,0;2,2
+[14:13:03 player] 2,2;0,2
+[14:13:03 server] opponent 0,2;2,2
+[14:13:03 player] 2,2;0,1
+[14:13:03 server] opponent 0,1;1,1
+[14:13:04 player] 1,1;1,1
+[14:13:04 server] opponent 1,1;2,1
+[14:13:04 player] 2,1;0,1
+[14:13:04 server] opponent 0,1;2,2
+[14:13:04 player] 2,2;0,0
+[14:13:04 server] opponent 0,0;0,0
+[14:13:04 player] 0,0;1,1
+[14:13:04 server] opponent 1,1;1,2
+[14:13:04 player] 1,2;2,0
+[14:13:04 server] opponent 2,0;1,2
+[14:13:04 player] 1,2;0,0
+[14:13:04 server] opponent 0,0;2,1
+[14:13:04 player] 2,1;2,0
+[14:13:04 server] opponent 2,0;0,1
+[14:13:04 player] 0,1;0,0
+[14:13:04 server] opponent 0,0;2,0
+[14:13:04 player] 2,0;2,1
+[14:13:04 server] opponent 2,1;1,1
+[14:13:05 player] 1,1;2,2
+[14:13:05 server] opponent 0,2;1,1
+[14:13:05 player] 1,1;0,0
+[14:13:05 server] opponent 0,2;1,2
+[14:13:05 player] 1,2;1,0
+[14:13:05 server] opponent 1,0;0,1
+[14:13:05 player] 0,1;0,2
+[14:13:05 server] opponent 0,2;1,0
+[14:13:05 player] 1,0;0,0
+[14:13:05 server] opponent 2,1;0,2
+[14:13:05 player] 0,1;0,1
+[14:13:05 server] opponent 1,0;2,2
+[14:13:05 player] 2,0;1,0
+[14:13:05 server] opponent 1,0;2,0
+[14:13:05 player] 2,0;0,0
+[14:13:05 server] opponent 1,0;1,0
+[14:13:05 player] 1,0;2,1
+[14:13:05 server] opponent 2,1;0,0
+[14:13:06 player] 2,1;2,2
+[14:13:06 server] opponent 2,0;2,2
+[14:13:06 player] 2,0;0,2
+[14:13:06 server] opponent 2,0;2,0
+[14:13:06 player] 2,0;1,1
+[14:13:06 server] opponent 2,1;2,1
+[14:13:06 player] 2,1;1,2
+[14:13:06 server] opponent 1,0;1,1
+[14:13:06 player] 1,0;1,2
+[14:13:06 server] opponent 1,0;0,2
+[14:13:06 player] 2,1;1,0
+[14:13:06 server] init
+[14:13:06 server] move
+[14:13:06 player] 0,0;1,2
+[14:13:06 server] opponent 1,2;0,2
+[14:13:06 player] 0,2;1,1
+[14:13:06 server] opponent 1,1;2,0
+[14:13:06 player] 2,0;2,0
+[14:13:06 server] opponent 2,0;2,2
+[14:13:07 player] 2,2;0,0
+[14:13:07 server] opponent 0,0;0,0
+[14:13:07 player] 0,0;0,1
+[14:13:07 server] opponent 0,1;1,1
+[14:13:07 player] 1,1;1,0
+[14:13:07 server] opponent 1,0;2,2
+[14:13:07 player] 2,2;0,2
+[14:13:07 server] opponent 0,2;2,1
+[14:13:07 player] 2,1;1,0
+[14:13:07 server] opponent 1,0;2,0
+[14:13:07 player] 2,0;1,0
+[14:13:07 server] opponent 1,0;0,2
+[14:13:07 player] 0,2;0,2
+[14:13:07 server] opponent 0,2;2,2
+[14:13:07 player] 2,2;0,1
+[14:13:07 server] opponent 0,1;2,1
+[14:13:07 player] 2,1;2,2
+[14:13:07 server] opponent 0,0;1,1
+[14:13:07 player] 1,1;2,2
+[14:13:07 server] opponent 0,0;2,1
+[14:13:08 player] 2,1;0,0
+[14:13:08 server] opponent 0,0;1,0
+[14:13:08 player] 1,0;2,1
+[14:13:08 server] opponent 2,1;2,1
+[14:13:08 player] 2,1;2,0
+[14:13:08 server] opponent 2,0;1,2
+[14:13:08 player] 1,2;0,0
+[14:13:08 server] opponent 0,0;0,2
+[14:13:08 player] 0,2;2,0
+[14:13:08 server] opponent 2,0;1,1
+[14:13:08 player] 1,1;1,1
+[14:13:08 server] opponent 1,1;1,2
+[14:13:08 player] 1,2;1,1
+[14:13:08 server] opponent 1,1;0,0
+[14:13:08 player] 0,0;2,0
+[14:13:08 server] opponent 2,0;0,2
+[14:13:08 player] 0,0;2,2
+[14:13:08 server] opponent 0,1;2,0
+[14:13:09 player] 0,1;2,2
+[14:13:09 server] opponent 1,1;2,1
+[14:13:09 player] 0,1;0,1
+[14:13:09 server] opponent 0,1;1,2
+[14:13:09 player] 1,2;2,2
+[14:13:09 server] init
+[14:13:09 server] opponent 0,0;0,1
+[14:13:09 player] 0,1;2,2
+[14:13:09 server] opponent 2,2;1,2
+[14:13:09 player] 1,2;0,2
+[14:13:09 server] opponent 0,2;0,2
+[14:13:09 player] 0,2;1,1
+[14:13:09 server] opponent 1,1;1,0
+[14:13:09 player] 1,0;0,0
+[14:13:09 server] opponent 0,0;1,0
+[14:13:09 player] 1,0;0,1
+[14:13:09 server] opponent 0,1;1,1
+[14:13:09 player] 1,1;2,1
+[14:13:09 server] opponent 2,1;0,1
+[14:13:10 player] 0,1;0,2
+[14:13:10 server] opponent 0,2;0,0
+[14:13:10 player] 0,0;2,0
+[14:13:10 server] opponent 2,0;0,0
+[14:13:10 player] 0,0;0,0
+[14:13:10 server] opponent 0,0;2,1
+[14:13:10 player] 2,1;1,1
+[14:13:10 server] opponent 1,1;0,2
+[14:13:10 player] 0,2;0,1
+[14:13:10 server] opponent 0,1;0,1
+[14:13:10 player] 0,1;2,1
+[14:13:10 server] opponent 2,1;2,0
+[14:13:10 player] 2,0;2,2
+[14:13:10 server] opponent 2,2;2,0
+[14:13:10 player] 2,0;1,0
+[14:13:10 server] opponent 1,0;2,1
+[14:13:10 player] 2,1;1,2
+[14:13:10 server] opponent 1,2;2,0
+[14:13:11 player] 2,0;2,0
+[14:13:11 server] opponent 2,0;1,2
+[14:13:11 player] 1,2;2,1
+[14:13:11 server] opponent 2,1;0,2
+[14:13:11 player] 0,2;2,1
+[14:13:11 server] opponent 2,1;2,2
+[14:13:11 player] 2,2;0,2
+[14:13:11 server] opponent 0,0;1,2
+[14:13:11 player] 1,2;0,0
+[14:13:11 server] opponent 0,0;1,1
+[14:13:11 player] 1,1;1,2
+[14:13:11 server] opponent 1,2;1,1
+[14:13:11 player] 1,1;0,0
+[14:13:11 server] opponent 0,1;1,2
+[14:13:11 player] 1,2;0,1
+[14:13:11 server] opponent 0,1;1,0
+[14:13:11 player] 1,0;0,2
+[14:13:11 server] opponent 2,0;1,1
+[14:13:12 player] 1,1;2,0
+[14:13:12 server] opponent 2,0;0,2
+[14:13:12 player] 2,0;0,1
+[14:13:12 server] opponent 1,1;2,2
+[14:13:12 player] 2,2;2,2
+[14:13:12 server] opponent 2,2;0,0
+[14:13:12 player] 2,1;0,0
+[14:13:12 server] opponent 2,0;2,1
+[14:13:12 player] 2,1;2,1
+[14:13:12 server] opponent 2,1;1,0
+[14:13:12 player] 2,2;1,0
+[14:13:12 server] opponent 1,1;1,1
+[14:13:12 player] 1,1;0,1
+[14:13:12 server] opponent 2,2;2,1
+[14:13:12 player] 2,2;1,1
+[14:13:12 server] opponent 2,2;0,1
+[14:13:12 server] init
+[14:13:12 server] move
+[14:13:12 player] 0,0;0,0
+[14:13:12 server] opponent 0,0;0,1
+[14:13:13 player] 0,1;1,1
+[14:13:13 server] opponent 1,1;0,2
+[14:13:13 player] 0,2;2,2
+[14:13:13 server] opponent 2,2;0,1
+[14:13:13 player] 0,1;2,0
+[14:13:13 server] opponent 2,0;2,1
+[14:13:13 player] 2,1;0,1
+[14:13:13 server] opponent 0,1;1,2
+[14:13:13 player] 1,2;2,0
+[14:13:13 server] opponent 2,0;0,1
+[14:13:13 player] 0,1;0,2
+[14:13:13 server] opponent 0,2;2,1
+[14:13:13 player] 2,1;2,1
+[14:13:13 server] opponent 2,1;1,0
+[14:13:13 player] 1,0;1,0
+[14:13:13 server] opponent 1,0;0,2
+[14:13:13 player] 0,2;0,0
+[14:13:13 server] opponent 0,0;0,2
+[14:13:14 player] 0,2;1,1
+[14:13:14 server] opponent 1,1;1,1
+[14:13:14 player] 1,1;2,0
+[14:13:14 server] opponent 2,0;1,0
+[14:13:14 player] 1,0;2,2
+[14:13:14 server] opponent 2,2;2,1
+[14:13:14 player] 2,1;1,1
+[14:13:14 server] opponent 1,1;1,2
+[14:13:14 player] 1,2;0,2
+[14:13:14 server] opponent 0,0;2,2
+[14:13:14 player] 2,2;1,1
+[14:13:14 server] opponent 1,1;1,0
+[14:13:14 player] 1,0;1,2
+[14:13:14 server] opponent 1,2;0,1
+[14:13:14 player] 0,0;1,2
+[14:13:14 server] opponent 1,2;1,0
+[14:13:14 player] 1,0;1,1
+[14:13:14 server] opponent 0,0;2,1
+[14:13:14 player] 0,0;2,0
+[14:13:14 server] opponent 2,0;0,2
+[14:13:15 player] 0,0;1,1
+[14:13:15 server] opponent 0,0;1,0
+[14:13:15 player] 2,0;0,0
+[14:13:15 server] opponent 2,0;2,2
+[14:13:15 player] 2,2;0,0
+[14:13:15 server] opponent 1,2;2,2
+[14:13:15 player] 2,2;2,2
+[14:13:15 server] opponent 2,0;1,1
+[14:13:15 player] 1,2;1,1
+[14:13:15 server] init
+[14:13:15 server] opponent 0,0;2,1
+[14:13:15 player] 2,1;2,0
+[14:13:15 server] opponent 2,0;0,1
+[14:13:15 player] 0,1;0,0
+[14:13:15 server] opponent 0,0;1,2
+[14:13:15 player] 1,2;0,0
+[14:13:15 server] opponent 0,0;2,2
+[14:13:15 player] 2,2;0,0
+[14:13:15 server] opponent 0,0;0,0
+[14:13:16 player] 0,0;2,0
+[14:13:16 server] opponent 2,0;1,2
+[14:13:16 player] 1,2;1,0
+[14:13:16 server] opponent 1,0;1,1
+[14:13:16 player] 1,1;0,1
+[14:13:16 server] opponent 0,1;2,2
+[14:13:16 player] 2,2;2,1
+[14:13:16 server] opponent 2,1;0,0
+[14:13:16 player] 0,0;0,2
+[14:13:16 server] opponent 0,2;2,2
+[14:13:16 player] 2,2;1,2
+[14:13:16 server] opponent 1,2;2,2
+[14:13:16 player] 2,2;1,1
+[14:13:16 server] opponent 1,1;1,0
+[14:13:16 player] 1,0;1,2
+[14:13:16 server] opponent 1,2;1,2
+[14:13:16 player] 1,2;0,2
+[14:13:16 server] opponent 0,2;0,0
+[14:13:17 player] 0,0;1,1
+[14:13:17 server] opponent 1,1;1,2
+[14:13:17 player] 1,2;0,1
+[14:13:17 server] opponent 0,1;2,0
+[14:13:17 player] 2,0;2,1
+[14:13:17 server] opponent 2,1;2,1
+[14:13:17 player] 2,1;1,2
+[14:13:17 server] opponent 0,2;1,1
+[14:13:17 player] 1,1;1,1
+[14:13:17 server] opponent 1,1;0,2
+[14:13:17 player] 0,1;2,1
+[14:13:17 server] opponent 2,1;1,0
+[14:13:17 player] 1,0;2,0
+[14:13:17 server] opponent 2,0;1,1
+[14:13:17 player] 1,1;2,2
+[14:13:17 server] opponent 2,2;2,0
+[14:13:17 player] 2,0;1,0
+[14:13:17 server] opponent 1,0;2,2
+[14:13:18 player] 2,2;1,0
+[14:13:18 server] opponent 1,0;0,0
+[14:13:18 player] 1,1;2,1
+[14:13:18 server] init
+[14:13:18 server] move
+[14:13:18 player] 0,1;0,0
+[14:13:18 server] opponent 0,0;2,2
+[14:13:18 player] 2,2;0,1
+[14:13:18 server] opponent 0,1;1,1
+[14:13:18 player] 1,1;0,1
+[14:13:18 server] opponent 0,1;2,2
+[14:13:18 player] 2,2;2,2
+[14:13:18 server] opponent 2,2;2,1
+[14:13:18 player] 2,1;0,0
+[14:13:18 server] opponent 0,0;2,0
+[14:13:18 player] 2,0;2,0
+[14:13:18 server] opponent 2,0;1,1
+[14:13:18 player] 1,1;2,1
+[14:13:18 server] opponent 2,1;2,1
+[14:13:19 player] 2,1;0,1
+[14:13:19 server] opponent 0,1;1,2
+[14:13:19 player] 1,2;0,0
+[14:13:19 server] opponent 0,0;0,1
+[14:13:19 player] 0,1;1,0
+[14:13:19 server] opponent 1,0;2,1
+[14:13:19 player] 2,1;0,2
+[14:13:19 server] opponent 0,2;2,2
+[14:13:19 player] 2,2;2,0
+[14:13:19 server] opponent 2,0;2,1
+[14:13:19 player] 0,0;2,1
+[14:13:19 server] opponent 0,0;1,0
+[14:13:19 player] 1,0;1,1
+[14:13:19 server] opponent 1,1;2,0
+[14:13:19 player] 2,0;0,1
+[14:13:19 server] opponent 0,1;2,1
+[14:13:19 player] 0,0;0,0
+[14:13:19 server] opponent 0,0;1,2
+[14:13:19 player] 1,2;2,0
+[14:13:19 server] opponent 2,0;0,0
+[14:13:20 player] 0,0;1,1
+[14:13:20 server] opponent 1,1;0,2
+[14:13:20 player] 0,2;0,0
+[14:13:20 server] opponent 0,0;0,2
+[14:13:20 player] 0,2;0,2
+[14:13:20 server] opponent 0,2;1,0
+[14:13:20 player] 1,0;0,0
+[14:13:20 server] opponent 2,0;2,2
+[14:13:20 player] 2,2;1,2
+[14:13:20 server] opponent 1,2;2,2
+[14:13:20 player] 2,2;0,2
+[14:13:20 server] opponent 0,2;2,0
+[14:13:20 player] 0,1;2,0
+[14:13:20 server] opponent 1,2;1,2
+[14:13:20 player] 1,2;0,2
+[14:13:20 server] opponent 0,2;1,1
+[14:13:20 player] 1,1;1,1
+[14:13:20 server] init
+[14:13:20 server] opponent 0,0;2,0
+[14:13:21 player] 2,0;0,2
+[14:13:21 server] opponent 0,2;2,1
+[14:13:21 player] 2,1;2,2
+[14:13:21 server] opponent 2,2;1,0
+[14:13:21 player] 1,0;2,0
+[14:13:21 server] opponent 2,0;1,2
+[14:13:21 player] 1,2;1,0
+[14:13:21 server] opponent 1,0;2,1
+[14:13:21 player] 2,1;1,2
+[14:13:21 server] opponent 1,2;2,2
+[14:13:21 player] 2,2;1,1
+[14:13:21 server] opponent 1,1;0,2
+[14:13:21 player] 0,2;1,2
+[14:13:21 server] opponent 1,2;2,1
+[14:13:21 player] 2,1;0,2
+[14:13:21 server] opponent 0,2;2,2
+[14:13:21 player] 2,2;1,2
+[14:13:21 server] opponent 1,2;2,0
+[14:13:22 player] 2,0;1,0
+[14:13:22 server] opponent 1,0;0,1
+[14:13:22 player] 0,1;2,1
+[14:13:22 server] opponent 0,0;0,0
+[14:13:22 player] 0,0;1,0
+[14:13:22 server] opponent 1,0;1,2
+[14:13:22 player] 0,2;2,0
+[14:13:22 server] opponent 2,0;0,1
+[14:13:22 player] 0,1;2,0
+[14:13:22 server] opponent 2,0;0,0
+[14:13:22 player] 0,0;2,1
+[14:13:22 server] opponent 0,0;0,2
+[14:13:22 player] 0,2;0,0
+[14:13:22 server] opponent 0,0;1,1
+[14:13:22 player] 1,1;0,1
+[14:13:22 server] opponent 0,1;1,1
+[14:13:22 player] 1,1;2,0
+[14:13:22 server] opponent 2,0;1,1
+[14:13:23 player] 1,1;2,2
+[14:13:23 server] opponent 2,2;0,2
+[14:13:23 player] 0,2;1,0
+[14:13:23 server] opponent 1,0;0,2
+[14:13:23 player] 1,0;0,0
+[14:13:23 server] opponent 2,2;2,0
+[14:13:23 player] 2,0;2,1
+[14:13:23 server] opponent 1,1;1,2
+[14:13:23 player] 1,0;1,1
+[14:13:23 server] opponent 1,1;1,1
+[14:13:23 player] 1,1;1,0
+[14:13:23 server] opponent 1,0;1,0
+[14:13:23 player] 1,0;2,2
+[14:13:23 server] opponent 2,2;0,0
+[14:13:23 player] 2,0;2,2
+[14:13:23 server] opponent 1,1;2,1
+[14:13:23 player] 0,1;2,2
+[14:13:23 server] opponent 2,0;2,0
+[14:13:24 player] 1,1;0,0
+[14:13:24 server] init
+[14:13:24 server] move
+[14:13:24 player] 0,0;2,0
+[14:13:24 server] opponent 2,0;0,0
+[14:13:24 player] 0,0;1,0
+[14:13:24 server] opponent 1,0;0,2
+[14:13:24 player] 0,2;0,1
+[14:13:24 server] opponent 0,1;1,2
+[14:13:24 player] 1,2;1,2
+[14:13:24 server] opponent 1,2;1,1
+[14:13:24 player] 1,1;2,2
+[14:13:24 server] opponent 2,2;0,1
+[14:13:24 player] 0,1;2,1
+[14:13:24 server] opponent 2,1;0,0
+[14:13:24 player] 0,0;0,0
+[14:13:24 server] opponent 1,0;2,2
+[14:13:24 player] 2,2;1,0
+[14:13:24 server] opponent 1,0;2,0
+[14:13:25 player] 2,0;0,2
+[14:13:25 server] opponent 0,2;2,0
+[14:13:25 player] 2,0;0,1
+[14:13:25 server] opponent 0,1;1,0
+[14:13:25 player] 1,0;2,1
+[14:13:25 server] opponent 2,1;1,2
+[14:13:25 player] 1,2;0,0
+[14:13:25 server] opponent 1,0;0,1
+[14:13:25 player] 0,1;1,1
+[14:13:25 server] opponent 1,1;0,2
+[14:13:25 player] 0,2;1,1
+[14:13:25 server] opponent 1,1;2,1
+[14:13:25 player] 2,1;1,1
+[14:13:25 server] opponent 1,1;1,0
+[14:13:25 player] 1,0;0,0
+[14:13:25 server] opponent 2,0;2,2
+[14:13:25 player] 2,2;2,1
+[14:13:25 server] opponent 2,1;1,0
+[14:13:25 player] 1,0;1,2
+[14:13:26 server] opponent 1,2;2,2
+[14:13:26 player] 2,2;1,2
+[14:13:26 server] opponent 1,2;0,2
+[14:13:26 player] 0,2;2,1
+[14:13:26 server] opponent 2,1;0,1
+[14:13:26 player] 0,1;0,1
+[14:13:26 server] init
+[14:13:26 server] opponent 0,0;0,1
+[14:13:26 player] 0,1;1,2
+[14:13:26 server] opponent 1,2;2,2
+[14:13:26 player] 2,2;2,2
+[14:13:26 server] opponent 2,2;1,1
+[14:13:26 player] 1,1;1,1
+[14:13:26 server] opponent 1,1;0,1
+[14:13:26 player] 0,1;2,1
+[14:13:26 server] opponent 2,1;0,2
+[14:13:26 player] 0,2;0,2
+[14:13:26 server] opponent 0,2;1,1
+[14:13:26 player] 1,1;0,2
+[14:13:26 server] opponent 0,2;1,2
+[14:13:27 player] 1,2;2,0
+[14:13:27 server] opponent 2,0;1,0
+[14:13:27 player] 1,0;0,2
+[14:13:27 server] opponent 0,2;2,0
+[14:13:27 player] 2,0;0,2
+[14:13:27 server] opponent 0,2;2,1
+[14:13:27 player] 2,1;1,1
+[14:13:27 server] opponent 1,1;2,0
+[14:13:27 player] 2,0;0,0
+[14:13:27 server] opponent 0,0;2,0
+[14:13:27 player] 2,0;0,1
+[14:13:27 server] opponent 0,1;2,0
+[14:13:27 player] 0,2;1,0
+[14:13:27 server] opponent 1,0;2,2
+[14:13:27 player] 2,2;0,0
+[14:13:27 server] opponent 0,0;2,2
+[14:13:27 player] 2,2;1,2
+[14:13:27 server] opponent 1,2;0,1
+[14:13:28 player] 0,1;0,2
+[14:13:28 server] opponent 0,2;0,0
+[14:13:28 player] 0,0;2,1
+[14:13:28 server] opponent 2,1;2,2
+[14:13:28 player] 2,2;0,2
+[14:13:28 server] opponent 0,2;2,2
+[14:13:28 player] 2,1;1,2
+[14:13:28 server] opponent 1,2;1,0
+[14:13:28 player] 1,0;1,2
+[14:13:28 server] opponent 1,2;0,2
+[14:13:28 player] 1,2;0,0
+[14:13:28 server] opponent 0,0;1,2
+[14:13:28 player] 1,2;1,2
+[14:13:28 server] opponent 1,2;2,1
+[14:13:28 player] 2,1;1,0
+[14:13:28 server] init
+[14:13:28 server] move
+[14:13:28 player] 0,0;2,2
+[14:13:28 server] opponent 2,2;2,2
+[14:13:29 player] 2,2;0,0
+[14:13:29 server] opponent 0,0;0,2
+[14:13:29 player] 0,2;0,0
+[14:13:29 server] opponent 0,0;1,2
+[14:13:29 player] 1,2;2,1
+[14:13:29 server] opponent 2,1;2,0
+[14:13:29 player] 2,0;0,2
+[14:13:29 server] opponent 0,2;2,0
+[14:13:29 player] 2,0;1,1
+[14:13:29 server] opponent 1,1;1,0
+[14:13:29 player] 1,0;0,0
+[14:13:29 server] opponent 0,0;1,0
+[14:13:29 player] 1,0;2,0
+[14:13:29 server] opponent 2,0;0,1
+[14:13:29 player] 0,1;1,0
+[14:13:29 server] opponent 1,0;2,1
+[14:13:29 player] 2,1;1,0
+[14:13:29 server] opponent 1,0;0,1
+[14:13:30 player] 0,1;2,1
+[14:13:30 server] opponent 2,1;1,1
+[14:13:30 player] 1,1;0,0
+[14:13:30 server] opponent 0,0;2,1
+[14:13:30 player] 2,1;0,2
+[14:13:30 server] opponent 0,2;2,2
+[14:13:30 player] 2,2;2,0
+[14:13:30 server] opponent 2,0;2,0
+[14:13:30 player] 2,0;1,2
+[14:13:30 server] opponent 1,2;1,1
+[14:13:30 player] 1,1;0,2
+[14:13:30 server] opponent 0,2;2,1
+[14:13:30 player] 2,1;0,1
+[14:13:30 server] opponent 0,1;0,1
+[14:13:30 player] 0,1;1,2
+[14:13:30 server] opponent 1,2;2,0
+[14:13:30 player] 2,0;1,0
+[14:13:30 server] opponent 1,0;1,2
+[14:13:30 player] 1,2;0,2
+[14:13:30 server] opponent 0,0;1,1
+[14:13:31 player] 1,1;0,1
+[14:13:31 server] opponent 0,1;2,2
+[14:13:31 player] 2,2;1,0
+[14:13:31 server] opponent 1,0;1,1
+[14:13:31 player] 0,1;1,1
+[14:13:31 server] opponent 2,1;1,2
+[14:13:31 player] 1,2;1,2
+[14:13:31 server] opponent 1,2;2,2
+[14:13:31 player] 1,2;0,0
+[14:13:31 server] opponent 2,1;2,1
+[14:13:31 player] 2,1;2,2
+[14:13:31 server] opponent 1,2;1,0
+[14:13:31 player] 1,2;0,1
+[14:13:31 server] opponent 2,1;0,0
+[14:13:31 server] init
+[14:13:31 server] opponent 0,0;1,2
+[14:13:31 player] 1,2;1,0
+[14:13:31 server] opponent 1,0;1,2
+[14:13:31 player] 1,2;1,1
+[14:13:31 server] opponent 1,1;2,2
+[14:13:32 player] 2,2;0,2
+[14:13:32 server] opponent 0,2;0,0
+[14:13:32 player] 0,0;0,1
+[14:13:32 server] opponent 0,1;2,1
+[14:13:32 player] 2,1;0,0
+[14:13:32 server] opponent 0,0;1,1
+[14:13:32 player] 1,1;2,0
+[14:13:32 server] opponent 2,0;1,1
+[14:13:32 player] 1,1;1,2
+[14:13:32 server] opponent 1,2;0,2
+[14:13:32 player] 0,2;2,0
+[14:13:32 server] opponent 2,0;2,0
+[14:13:32 player] 2,0;0,2
+[14:13:32 server] opponent 0,2;0,1
+[14:13:32 player] 0,1;1,1
+[14:13:32 server] opponent 1,1;0,2
+[14:13:32 player] 0,2;0,2
+[14:13:32 server] opponent 0,2;2,1
+[14:13:33 player] 2,1;2,2
+[14:13:33 server] opponent 2,2;1,2
+[14:13:33 player] 1,2;1,2
+[14:13:33 server] opponent 0,0;0,0
+[14:13:33 player] 0,0;1,0
+[14:13:33 server] opponent 1,0;0,0
+[14:13:33 player] 0,0;2,2
+[14:13:33 server] opponent 2,2;0,1
+[14:13:33 player] 0,1;1,0
+[14:13:33 server] opponent 1,0;2,0
+[14:13:33 player] 2,0;0,1
+[14:13:33 server] opponent 0,1;0,2
+[14:13:33 player] 0,2;1,1
+[14:13:33 server] opponent 1,1;2,1
+[14:13:33 player] 2,1;1,1
+[14:13:33 server] opponent 1,1;1,0
+[14:13:33 player] 1,0;1,0
+[14:13:33 server] opponent 1,0;1,1
+[14:13:34 player] 1,1;0,0
+[14:13:34 server] opponent 0,0;0,2
+[14:13:34 player] 0,0;2,0
+[14:13:34 server] opponent 2,0;1,2
+[14:13:34 player] 1,0;2,2
+[14:13:34 server] opponent 2,2;0,0
+[14:13:34 player] 0,0;2,1
+[14:13:34 server] opponent 2,2;2,1
+[14:13:34 player] 1,0;0,2
+[14:13:34 server] opponent 0,1;2,2
+[14:13:34 player] 2,2;1,1
+[14:13:34 server] opponent 1,1;0,1
+[14:13:34 player] 0,1;2,0
+[14:13:34 server] opponent 2,0;2,1
+[14:13:34 player] 0,1;1,2
+[14:13:34 server] init
+[14:13:34 server] move
+[14:13:34 player] 0,0;1,2
+[14:13:34 server] opponent 1,2;1,1
+[14:13:35 player] 1,1;2,2
+[14:13:35 server] opponent 2,2;2,1
+[14:13:35 player] 2,1;1,0
+[14:13:35 server] opponent 1,0;2,1
+[14:13:35 player] 2,1;0,1
+[14:13:35 server] opponent 0,1;1,0
+[14:13:35 player] 1,0;0,0
+[14:13:35 server] opponent 0,0;1,0
+[14:13:35 player] 1,0;0,2
+[14:13:35 server] opponent 0,2;0,0
+[14:13:35 player] 0,0;2,2
+[14:13:35 server] opponent 2,2;0,2
+[14:13:35 player] 0,2;2,0
+[14:13:35 server] opponent 2,0;0,1
+[14:13:35 player] 0,1;0,1
+[14:13:35 server] opponent 0,1;1,1
+[14:13:35 player] 1,1;0,1
+[14:13:35 server] opponent 0,1;2,2
+[14:13:36 player] 2,2;2,0
+[14:13:36 server] opponent 2,0;2,2
+[14:13:36 player] 2,2;0,0
+[14:13:36 server] opponent 0,0;0,2
+[14:13:36 player] 0,2;1,1
+[14:13:36 server] opponent 1,1;1,1
+[14:13:36 player] 1,1;0,0
+[14:13:36 server] opponent 0,0;2,0
+[14:13:36 player] 2,0;0,0
+[14:13:36 server] opponent 0,0;0,1
+[14:13:36 player] 0,1;1,2
+[14:13:36 server] opponent 1,2;0,2
+[14:13:36 player] 0,2;0,2
+[14:13:36 server] opponent 0,0;0,0
+[14:13:36 player] 0,1;0,0
+[14:13:36 server] opponent 2,1;2,0
+[14:13:36 player] 2,0;1,0
+[14:13:36 server] opponent 1,0;1,1
+[14:13:37 player] 1,1;0,2
+[14:13:37 server] opponent 1,0;2,0
+[14:13:37 player] 2,0;2,0
+[14:13:37 server] init
+[14:13:37 server] opponent 0,0;2,2
+[14:13:37 player] 2,2;2,1
+[14:13:37 server] opponent 2,1;2,1
+[14:13:37 player] 2,1;1,0
+[14:13:37 server] opponent 1,0;0,0
+[14:13:37 player] 0,0;1,2
+[14:13:37 server] opponent 1,2;2,1
+[14:13:37 player] 2,1;1,1
+[14:13:37 server] opponent 1,1;2,0
+[14:13:37 player] 2,0;1,0
+[14:13:37 server] opponent 1,0;1,1
+[14:13:37 player] 1,1;1,2
+[14:13:37 server] opponent 1,2;0,2
+[14:13:37 player] 0,2;1,0
+[14:13:37 server] opponent 1,0;0,2
+[14:13:37 player] 0,2;0,2
+[14:13:37 server] opponent 0,2;2,1
+[14:13:38 player] 2,1;1,2
+[14:13:38 server] opponent 1,2;1,0
+[14:13:38 player] 1,0;0,1
+[14:13:38 server] opponent 0,1;2,0
+[14:13:38 player] 2,0;0,1
+[14:13:38 server] opponent 0,1;0,0
+[14:13:38 player] 0,0;0,2
+[14:13:38 server] opponent 0,2;2,2
+[14:13:38 player] 2,2;2,2
+[14:13:38 server] opponent 2,2;0,0
+[14:13:38 player] 0,0;2,0
+[14:13:38 server] opponent 2,0;2,2
+[14:13:38 player] 2,2;2,0
+[14:13:38 server] opponent 2,0;0,0
+[14:13:38 player] 0,0;1,1
+[14:13:38 server] opponent 1,1;0,2
+[14:13:38 player] 0,2;2,0
+[14:13:38 server] opponent 2,0;2,1
+[14:13:39 player] 0,1;1,0
+[14:13:39 server] opponent 1,0;2,0
+[14:13:39 player] 2,0;2,0
+[14:13:39 server] opponent 2,0;0,2
+[14:13:39 player] 0,2;0,0
+[14:13:39 server] opponent 1,1;1,1
+[14:13:39 player] 2,0;1,2
+[14:13:39 server] opponent 1,2;2,2
+[14:13:39 player] 1,2;2,0
+[14:13:39 server] opponent 2,0;1,1
+[14:13:39 player] 1,2;1,2
+[14:13:39 server] opponent 1,2;1,1
+[14:13:39 player] 1,2;0,1
+[14:13:39 server] opponent 0,1;1,2
+[14:13:39 player] 1,2;0,0
+[14:13:39 server] opponent 0,1;0,1
+[14:13:39 player] 0,1;0,2
+[14:13:39 server] opponent 0,1;2,1
+[14:13:40 player] 0,1;2,2
+[14:13:40 server] opponent 0,1;1,1
+[14:13:40 server] init
+[14:13:40 server] move
+[14:13:41 player] 1,0;1,1
+[14:13:41 server] opponent 1,1;1,0
+[14:13:41 player] 1,0;0,0
+[14:13:41 server] opponent 0,0;1,1
+[14:13:41 player] 1,1;0,1
+[14:13:41 server] opponent 0,1;2,1
+[14:13:41 player] 2,1;2,1
+[14:13:41 server] opponent 2,1;2,2
+[14:13:41 player] 2,2;2,1
+[14:13:41 server] opponent 2,1;0,1
+[14:13:41 player] 0,1;1,0
+[14:13:41 server] opponent 1,0;1,2
+[14:13:41 player] 1,2;0,2
+[14:13:41 server] opponent 0,2;2,2
+[14:13:41 player] 2,2;1,2
+[14:13:41 server] opponent 1,2;1,2
+[14:13:42 player] 1,2;1,1
+[14:13:42 server] opponent 1,1;1,1
+[14:13:42 player] 1,1;1,2
+[14:13:42 server] opponent 1,2;2,2
+[14:13:42 player] 2,2;0,2
+[14:13:42 server] opponent 0,2;1,2
+[14:13:42 player] 1,2;2,0
+[14:13:42 server] opponent 2,0;1,1
+[14:13:42 player] 1,1;2,0
+[14:13:42 server] opponent 2,0;0,2
+[14:13:42 player] 0,2;0,2
+[14:13:42 server] opponent 0,2;0,0
+[14:13:42 player] 0,0;2,1
+[14:13:42 server] opponent 2,1;1,0
+[14:13:42 player] 1,0;2,2
+[14:13:42 server] opponent 2,2;0,1
+[14:13:42 player] 0,1;0,0
+[14:13:42 server] opponent 0,0;0,2
+[14:13:43 player] 0,2;1,1
+[14:13:43 server] opponent 1,1;0,2
+[14:13:43 player] 0,2;2,0
+[14:13:43 server] opponent 2,0;1,0
+[14:13:43 player] 0,0;2,0
+[14:13:43 server] opponent 2,0;0,1
+[14:13:43 player] 0,1;2,0
+[14:13:43 server] opponent 2,0;2,0
+[14:13:43 player] 0,0;2,2
+[14:13:43 server] init
+[14:13:43 server] opponent 0,0;1,1
+[14:13:43 player] 1,1;2,0
+[14:13:43 server] opponent 2,0;0,1
+[14:13:43 player] 0,1;1,0
+[14:13:43 server] opponent 1,0;0,0
+[14:13:43 player] 0,0;2,2
+[14:13:43 server] opponent 2,2;1,2
+[14:13:43 player] 1,2;0,1
+[14:13:43 server] opponent 0,1;0,1
+[14:13:44 player] 0,1;2,2
+[14:13:44 server] opponent 2,2;2,1
+[14:13:44 player] 2,1;2,1
+[14:13:44 server] opponent 2,1;1,1
+[14:13:44 player] 1,1;0,0
+[14:13:44 server] opponent 0,0;0,2
+[14:13:44 player] 0,2;0,2
+[14:13:44 server] opponent 0,2;1,0
+[14:13:44 player] 1,0;1,2
+[14:13:44 server] opponent 1,2;1,1
+[14:13:44 player] 1,1;1,0
+[14:13:44 server] opponent 1,0;0,1
+[14:13:44 player] 0,1;1,1
+[14:13:44 server] opponent 0,0;2,1
+[14:13:44 player] 2,1;1,0
+[14:13:44 server] opponent 1,0;2,0
+[14:13:44 player] 2,0;1,1
+[14:13:44 server] opponent 0,0;2,0
+[14:13:44 player] 2,0;2,1
+[14:13:45 server] opponent 2,1;0,0
+[14:13:45 player] 1,0;0,2
+[14:13:45 server] opponent 0,2;0,0
+[14:13:45 player] 0,2;2,0
+[14:13:45 server] opponent 2,0;1,0
+[14:13:45 player] 1,0;1,0
+[14:13:45 server] opponent 1,0;2,2
+[14:13:45 player] 2,2;0,2
+[14:13:45 server] opponent 0,2;0,1
+[14:13:45 player] 0,1;1,2
+[14:13:45 server] opponent 1,2;0,0
+[14:13:45 player] 1,0;2,1
+[14:13:45 server] opponent 2,1;0,2
+[14:13:45 player] 0,2;1,1
+[14:13:45 server] opponent 1,2;2,1
+[14:13:45 player] 2,1;0,1
+[14:13:45 server] opponent 2,1;1,2
+[14:13:45 player] 1,2;2,2
+[14:13:45 server] opponent 2,2;0,1
+[14:13:46 player] 1,0;1,1
+[14:13:46 server] opponent 2,2;1,0
+[14:13:46 player] 2,1;2,2
+[14:13:46 server] opponent 2,2;2,2
+[14:13:46 player] 2,2;1,1
+[14:13:46 server] opponent 2,0;2,2
+[14:13:46 player] 2,2;2,0
+[14:13:46 server] opponent 2,0;0,0
+[14:13:46 player] 2,0;0,2
+[14:13:46 server] opponent 2,1;2,0
+[14:13:46 player] 2,0;2,0
+[14:13:46 server] init
+[14:13:46 server] move
+[14:13:47 player] 0,0;2,0
+[14:13:47 server] opponent 2,0;2,2
+[14:13:47 player] 2,2;1,1
+[14:13:47 server] opponent 1,1;0,2
+[14:13:47 player] 0,2;2,0
+[14:13:47 server] opponent 2,0;1,0
+[14:13:48 player] 1,0;2,0
+[14:13:48 server] opponent 2,0;1,1
+[14:13:48 player] 1,1;2,2
+[14:13:48 server] opponent 2,2;2,1
+[14:13:48 player] 2,1;2,0
+[14:13:48 server] opponent 2,0;0,2
+[14:13:48 player] 0,2;2,1
+[14:13:48 server] opponent 2,1;0,1
+[14:13:48 player] 0,1;2,0
+[14:13:48 server] opponent 2,0;0,0
+[14:13:48 player] 0,0;1,0
+[14:13:48 server] opponent 1,0;1,1
+[14:13:48 player] 1,1;2,1
+[14:13:48 server] opponent 2,1;0,0
+[14:13:48 player] 0,0;0,0
+[14:13:48 server] opponent 0,2;1,0
+[14:13:48 player] 1,0;2,1
+[14:13:48 server] opponent 2,1;1,0
+[14:13:49 player] 1,0;2,2
+[14:13:49 server] opponent 2,2;2,0
+[14:13:49 player] 2,1;0,2
+[14:13:49 server] opponent 0,2;1,1
+[14:13:49 player] 1,1;2,0
+[14:13:49 server] opponent 2,1;2,1
+[14:13:49 player] 2,1;1,1
+[14:13:49 server] opponent 0,1;0,2
+[14:13:49 player] 0,2;1,2
+[14:13:49 server] opponent 1,2;2,2
+[14:13:49 player] 2,2;2,2
+[14:13:49 server] opponent 2,2;0,2
+[14:13:49 player] 0,2;2,2
+[14:13:49 server] opponent 2,2;1,2
+[14:13:49 player] 1,2;0,2
+[14:13:49 server] opponent 1,2;2,1
+[14:13:49 player] 1,2;2,0
+[14:13:49 server] opponent 2,2;0,1
+[14:13:50 player] 0,1;1,0
+[14:13:50 server] opponent 0,1;2,2
+[14:13:50 player] 2,2;0,0
+[14:13:50 server] init
+[14:13:50 server] opponent 0,0;2,1
+[14:13:50 player] 2,1;0,0
+[14:13:50 server] opponent 0,0;2,2
+[14:13:50 player] 2,2;0,1
+[14:13:50 server] opponent 0,1;0,0
+[14:13:50 player] 0,0;2,0
+[14:13:50 server] opponent 2,0;2,2
+[14:13:50 player] 2,2;1,2
+[14:13:50 server] opponent 1,2;0,0
+[14:13:50 player] 0,0;0,2
+[14:13:50 server] opponent 0,2;1,1
+[14:13:50 player] 1,1;0,0
+[14:13:50 server] opponent 0,0;1,1
+[14:13:50 player] 1,1;0,2
+[14:13:50 server] opponent 0,2;0,1
+[14:13:51 player] 0,1;2,0
+[14:13:51 server] opponent 2,0;0,2
+[14:13:51 player] 0,2;2,1
+[14:13:51 server] opponent 2,1;1,2
+[14:13:51 player] 1,2;1,2
+[14:13:51 server] opponent 1,2;1,0
+[14:13:51 player] 1,0;1,2
+[14:13:51 server] opponent 1,2;0,1
+[14:13:51 player] 0,1;1,2
+[14:13:51 server] opponent 1,2;2,0
+[14:13:51 player] 2,0;1,2
+[14:13:51 server] opponent 0,0;1,2
+[14:13:51 player] 0,0;1,0
+[14:13:51 server] opponent 1,0;1,1
+[14:13:51 player] 1,1;0,1
+[14:13:51 server] opponent 0,1;1,1
+[14:13:51 player] 0,0;0,1
+[14:13:51 server] opponent 0,1;2,2
+[14:13:51 player] 2,2;0,0
+[14:13:51 server] opponent 0,0;0,0
+[14:13:52 player] 2,2;0,2
+[14:13:52 server] opponent 0,2;0,0
+[14:13:52 player] 0,2;0,2
+[14:13:52 server] opponent 0,2;1,0
+[14:13:52 player] 1,0;2,1
+[14:13:52 server] opponent 2,1;2,2
+[14:13:52 player] 0,2;1,2
+[14:13:52 server] opponent 2,1;0,2
+[14:13:52 player] 0,2;2,0
+[14:13:52 server] opponent 2,0;1,0
+[14:13:52 player] 1,0;2,0
+[14:13:52 server] opponent 2,0;0,0
+[14:13:52 player] 0,2;2,2
+[14:13:52 server] opponent 2,0;2,1
+[14:13:52 player] 2,0;0,1
+[14:13:52 server] opponent 2,0;1,1
+[14:13:52 player] 1,0;2,2
+[14:13:52 server] init
+[14:13:52 server] move
+[14:13:53 player] 0,0;0,1
+[14:13:53 server] opponent 0,1;2,0
+[14:13:53 player] 2,0;2,0
+[14:13:53 server] opponent 2,0;2,2
+[14:13:53 player] 2,2;2,0
+[14:13:53 server] opponent 2,0;2,1
+[14:13:53 player] 2,1;0,0
+[14:13:53 server] opponent 0,0;1,0
+[14:13:53 player] 1,0;1,2
+[14:13:53 server] opponent 1,2;2,0
+[14:13:53 player] 2,0;1,1
+[14:13:53 server] opponent 1,1;2,0
+[14:13:53 player] 2,0;0,2
+[14:13:53 server] opponent 0,2;1,1
+[14:13:53 player] 1,1;1,2
+[14:13:53 server] opponent 1,2;0,0
+[14:13:53 player] 0,0;0,0
+[14:13:53 server] opponent 0,0;0,2
+[14:13:54 player] 0,2;0,0
+[14:13:54 server] opponent 0,0;2,2
+[14:13:54 player] 2,2;0,1
+[14:13:54 server] opponent 0,1;1,2
+[14:13:54 player] 1,2;1,0
+[14:13:54 server] opponent 1,0;0,1
+[14:13:54 player] 0,1;1,0
+[14:13:54 server] opponent 1,0;1,1
+[14:13:54 player] 1,1;1,1
+[14:13:54 server] opponent 1,1;1,0
+[14:13:54 player] 1,0;2,1
+[14:13:54 server] opponent 2,1;1,0
+[14:13:54 player] 1,0;0,0
+[14:13:54 server] opponent 0,0;2,1
+[14:13:54 player] 2,1;2,1
+[14:13:54 server] opponent 2,1;0,1
+[14:13:54 player] 0,1;0,2
+[14:13:54 server] opponent 0,2;2,0
+[14:13:55 player] 0,0;2,0
+[14:13:55 server] opponent 0,0;1,1
+[14:13:55 player] 1,1;0,0
+[14:13:55 server] opponent 0,0;1,2
+[14:13:55 player] 1,2;1,2
+[14:13:55 server] opponent 1,2;0,2
+[14:13:55 player] 0,2;0,2
+[14:13:55 server] opponent 0,2;1,0
+[14:13:55 player] 1,0;1,0
+[14:13:55 server] opponent 1,0;0,2
+[14:13:55 player] 0,2;1,2
+[14:13:55 server] opponent 1,2;2,2
+[14:13:55 player] 2,2;2,2
+[14:13:55 server] opponent 2,2;0,2
+[14:13:55 player] 0,2;0,1
+[14:13:55 server] opponent 0,1;2,1
+[14:13:55 player] 2,1;2,2
+[14:13:55 server] opponent 2,2;1,0
+[14:13:56 player] 1,0;2,0
+[14:13:56 server] opponent 0,1;1,1
+[14:13:56 player] 1,1;2,2
+[14:13:56 server] init
+[14:13:56 server] opponent 0,0;1,2
+[14:13:56 player] 1,2;0,2
+[14:13:56 server] opponent 0,2;1,0
+[14:13:56 player] 1,0;0,1
+[14:13:56 server] opponent 0,1;2,1
+[14:13:56 player] 2,1;1,1
+[14:13:56 server] opponent 1,1;1,0
+[14:13:56 player] 1,0;2,0
+[14:13:56 server] opponent 2,0;0,1
+[14:13:56 player] 0,1;1,0
+[14:13:56 server] opponent 1,0;1,0
+[14:13:56 player] 1,0;0,2
+[14:13:56 server] opponent 0,2;1,1
+[14:13:56 player] 1,1;1,2
+[14:13:56 server] opponent 1,2;1,1
+[14:13:57 player] 1,1;2,0
+[14:13:57 server] opponent 2,0;1,2
+[14:13:57 player] 1,2;1,0
+[14:13:57 server] opponent 1,0;0,0
+[14:13:57 player] 0,0;1,0
+[14:13:57 server] opponent 1,0;1,1
+[14:13:57 player] 1,1;0,2
+[14:13:57 server] opponent 0,2;2,2
+[14:13:57 player] 2,2;1,2
+[14:13:57 server] opponent 1,2;2,2
+[14:13:57 player] 2,2;0,0
+[14:13:57 server] opponent 0,0;2,2
+[14:13:57 player] 2,2;2,0
+[14:13:57 server] opponent 2,0;2,2
+[14:13:57 player] 2,2;1,0
+[14:13:57 server] opponent 1,0;1,2
+[14:13:57 player] 1,2;0,0
+[14:13:57 server] opponent 0,0;0,2
+[14:13:57 player] 0,2;1,2
+[14:13:57 server] opponent 1,2;0,1
+[14:13:58 player] 0,1;0,0
+[14:13:58 server] opponent 1,1;2,1
+[14:13:58 player] 2,1;0,1
+[14:13:58 server] opponent 0,1;1,1
+[14:13:58 player] 1,1;2,2
+[14:13:58 server] opponent 0,1;2,2
+[14:13:58 player] 0,1;2,0
+[14:13:58 server] opponent 2,0;2,1
+[14:13:58 player] 2,1;2,1
+[14:13:58 server] init
+[14:13:58 server] move
+[14:13:58 player] 0,0;1,0
+[14:13:58 server] opponent 1,0;1,2
+[14:13:58 player] 1,2;1,2
+[14:13:58 server] opponent 1,2;0,1
+[14:13:58 player] 0,1;1,0
+[14:13:58 server] opponent 1,0;1,0
+[14:13:58 player] 1,0;1,1
+[14:13:58 server] opponent 1,1;2,0
+[14:13:59 player] 2,0;1,0
+[14:13:59 server] opponent 1,0;0,2
+[14:13:59 player] 0,2;2,2
+[14:13:59 server] opponent 2,2;2,2
+[14:13:59 player] 2,2;2,1
+[14:13:59 server] opponent 2,1;0,0
+[14:13:59 player] 0,0;2,2
+[14:13:59 server] opponent 2,2;2,0
+[14:13:59 player] 2,0;1,1
+[14:13:59 server] opponent 1,1;1,2
+[14:13:59 player] 1,2;1,1
+[14:13:59 server] opponent 1,1;1,0
+[14:13:59 player] 1,0;2,2
+[14:13:59 server] opponent 2,2;0,1
+[14:13:59 player] 0,1;0,2
+[14:13:59 server] opponent 0,2;0,0
+[14:13:59 player] 0,0;0,1
+[14:13:59 server] opponent 0,1;1,2
+[14:14:00 player] 1,2;1,0
+[14:14:00 server] opponent 1,0;0,1
+[14:14:00 player] 0,1;2,2
+[14:14:00 server] opponent 2,2;1,0
+[14:14:00 player] 1,0;0,0
+[14:14:00 server] opponent 0,0;2,1
+[14:14:00 player] 2,1;1,1
+[14:14:00 server] opponent 1,1;2,2
+[14:14:00 player] 2,2;0,0
+[14:14:00 server] opponent 0,0;0,2
+[14:14:00 player] 0,2;1,0
+[14:14:00 server] opponent 0,0;0,0
+[14:14:00 player] 0,0;1,2
+[14:14:00 server] opponent 0,0;2,0
+[14:14:00 player] 2,0;1,2
+[14:14:00 server] opponent 0,0;1,1
+[14:14:00 player] 1,1;1,1
+[14:14:00 server] opponent 1,1;0,0
+[14:14:01 player] 0,1;0,0
+[14:14:01 server] opponent 0,2;0,1
+[14:14:01 player] 0,1;0,1
+[14:14:01 server] opponent 2,1;1,2
+[14:14:01 player] 0,2;0,2
+[14:14:01 server] opponent 0,2;1,2
+[14:14:01 player] 0,2;1,1
+[14:14:01 server] opponent 2,2;0,2
+[14:14:01 player] 0,2;2,0
+[14:14:01 server] opponent 2,1;2,1
+[14:14:01 player] 2,1;0,1
+[14:14:01 server] opponent 2,2;1,1
+[14:14:01 server] init
+[14:14:01 server] opponent 0,0;2,2
+[14:14:01 player] 2,2;0,1
+[14:14:01 server] opponent 0,1;1,1
+[14:14:01 player] 1,1;1,0
+[14:14:01 server] opponent 1,0;1,2
+[14:14:01 player] 1,2;2,0
+[14:14:01 server] opponent 2,0;1,1
+[14:14:02 player] 1,1;0,1
+[14:14:02 server] opponent 0,1;0,1
+[14:14:02 player] 0,1;2,1
+[14:14:02 server] opponent 2,1;2,0
+[14:14:02 player] 2,0;0,1
+[14:14:02 server] opponent 0,1;2,0
+[14:14:02 player] 2,0;1,2
+[14:14:02 server] opponent 1,2;2,2
+[14:14:02 player] 2,2;1,1
+[14:14:02 server] opponent 1,1;1,2
+[14:14:02 player] 1,2;2,1
+[14:14:02 server] opponent 2,1;1,1
+[14:14:02 player] 1,1;2,0
+[14:14:02 server] opponent 2,0;2,2
+[14:14:02 player] 2,2;2,1
+[14:14:02 server] opponent 2,1;1,2
+[14:14:02 player] 1,2;0,1
+[14:14:02 server] opponent 0,1;1,2
+[14:14:03 player] 1,2;1,1
+[14:14:03 server] opponent 1,1;2,1
+[14:14:03 player] 2,1;1,0
+[14:14:03 server] opponent 1,0;2,2
+[14:14:03 player] 0,1;1,0
+[14:14:03 server] opponent 1,0;1,0
+[14:14:03 player] 1,0;1,1
+[14:14:03 server] opponent 1,1;0,2
+[14:14:03 player] 0,2;1,2
+[14:14:03 server] opponent 0,0;1,1
+[14:14:03 player] 1,1;2,2
+[14:14:03 server] opponent 0,0;0,1
+[14:14:03 player] 0,1;0,2
+[14:14:03 server] opponent 0,2;0,0
+[14:14:03 player] 0,0;2,1
+[14:14:03 server] opponent 2,1;2,1
+[14:14:03 player] 2,1;2,2
+[14:14:03 server] opponent 0,0;2,0
+[14:14:03 player] 2,0;0,0
+[14:14:04 server] opponent 0,0;0,0
+[14:14:04 player] 1,0;0,2
+[14:14:04 server] opponent 0,2;1,0
+[14:14:04 player] 1,0;2,0
+[14:14:04 server] opponent 2,0;2,1
+[14:14:04 player] 2,1;0,1
+[14:14:04 server] opponent 0,1;2,2
+[14:14:04 player] 0,1;0,0
+[14:14:04 server] opponent 1,1;1,1
+[14:14:04 player] 1,1;0,0
+[14:14:04 server] init
+[14:14:04 server] move
+[14:14:05 player] 2,2;0,0
+[14:14:05 server] opponent 0,0;0,2
+[14:14:05 player] 0,2;2,0
+[14:14:05 server] opponent 2,0;2,0
+[14:14:05 player] 2,0;1,0
+[14:14:05 server] opponent 1,0;0,0
+[14:14:06 player] 0,0;0,0
+[14:14:06 server] opponent 0,0;0,1
+[14:14:06 player] 0,1;0,0
+[14:14:06 server] opponent 0,0;2,2
+[14:14:06 player] 2,2;0,2
+[14:14:06 server] opponent 0,2;0,2
+[14:14:06 player] 0,2;0,1
+[14:14:06 server] opponent 0,1;0,1
+[14:14:06 player] 0,1;2,0
+[14:14:06 server] opponent 2,0;1,2
+[14:14:06 player] 1,2;0,1
+[14:14:06 server] opponent 0,1;1,1
+[14:14:06 player] 1,1;1,1
+[14:14:06 server] opponent 1,1;0,2
+[14:14:06 player] 0,2;2,1
+[14:14:06 server] opponent 2,1;2,0
+[14:14:06 player] 2,0;0,2
+[14:14:06 server] opponent 0,2;2,2
+[14:14:06 player] 2,2;0,1
+[14:14:06 server] opponent 0,1;2,2
+[14:14:07 player] 0,0;1,2
+[14:14:07 server] opponent 1,2;1,0
+[14:14:07 player] 1,0;2,1
+[14:14:07 server] opponent 2,1;0,2
+[14:14:07 player] 0,2;1,2
+[14:14:07 server] opponent 1,2;0,2
+[14:14:07 player] 0,2;1,1
+[14:14:07 server] opponent 1,1;1,0
+[14:14:07 player] 1,0;1,1
+[14:14:07 server] opponent 1,1;0,0
+[14:14:07 player] 0,0;1,0
+[14:14:07 server] opponent 1,0;1,2
+[14:14:07 player] 1,2;1,1
+[14:14:07 server] opponent 1,1;2,0
+[14:14:07 player] 2,0;0,0
+[14:14:07 server] opponent 0,0;1,1
+[14:14:07 player] 0,0;2,1
+[14:14:07 server] opponent 2,1;1,2
+[14:14:08 player] 1,2;2,1
+[14:14:08 server] init
+[14:14:08 server] opponent 0,0;1,2
+[14:14:08 player] 1,2;0,1
+[14:14:08 server] opponent 0,1;0,1
+[14:14:08 player] 0,1;1,0
+[14:14:08 server] opponent 1,0;2,2
+[14:14:08 player] 2,2;0,1
+[14:14:08 server] opponent 0,1;2,0
+[14:14:08 player] 2,0;2,2
+[14:14:08 server] opponent 2,2;0,0
+[14:14:08 player] 0,0;2,1
+[14:14:08 server] opponent 2,1;1,0
+[14:14:08 player] 1,0;1,0
+[14:14:08 server] opponent 1,0;0,0
+[14:14:08 player] 0,0;1,1
+[14:14:08 server] opponent 1,1;1,1
+[14:14:08 player] 1,1;0,2
+[14:14:08 server] opponent 0,2;1,1
+[14:14:09 player] 1,1;1,0
+[14:14:09 server] opponent 1,0;0,2
+[14:14:09 player] 0,2;1,2
+[14:14:09 server] opponent 1,2;2,0
+[14:14:09 player] 2,0;0,2
+[14:14:09 server] opponent 0,2;0,1
+[14:14:09 player] 0,1;2,1
+[14:14:09 server] opponent 2,1;0,1
+[14:14:09 player] 0,1;2,2
+[14:14:09 server] opponent 2,2;2,1
+[14:14:09 player] 2,1;1,1
+[14:14:09 server] opponent 1,1;0,0
+[14:14:09 player] 0,0;0,1
+[14:14:09 server] opponent 0,1;0,2
+[14:14:09 player] 0,2;2,1
+[14:14:09 server] opponent 2,1;2,2
+[14:14:09 player] 2,2;2,2
+[14:14:09 server] opponent 2,2;2,0
+[14:14:10 player] 2,0;1,2
+[14:14:10 server] opponent 1,2;2,2
+[14:14:10 player] 2,2;1,0
+[14:14:10 server] opponent 1,0;1,1
+[14:14:10 player] 1,1;2,2
+[14:14:10 server] opponent 2,2;1,2
+[14:14:10 player] 1,2;2,1
+[14:14:10 server] opponent 2,1;2,0
+[14:14:10 player] 0,1;0,0
+[14:14:10 server] opponent 0,2;2,0
+[14:14:10 player] 0,1;1,1
+[14:14:10 server] opponent 1,1;2,1
+[14:14:10 player] 2,1;2,1
+[14:14:10 server] opponent 2,1;0,2
+[14:14:10 player] 0,2;0,2
+[14:14:10 server] opponent 0,2;0,0
+[14:14:10 player] 0,2;1,0
+[14:14:10 server] opponent 1,2;1,2
+[14:14:11 player] 1,2;0,2
+[14:14:11 server] opponent 0,2;2,2
+[14:14:11 player] 2,2;0,2
+[14:14:11 server] opponent 2,2;1,1
+[14:14:11 player] 1,1;0,1
+[14:14:11 server] opponent 2,1;0,0
+[14:14:11 player] 1,1;1,2
+[14:14:11 server] opponent 1,2;1,0
+[14:14:11 player] 1,2;1,1
+[14:14:11 server] init
+[14:14:11 server] move
+[14:14:11 player] 0,0;2,0
+[14:14:11 server] opponent 2,0;0,0
+[14:14:11 player] 0,0;1,1
+[14:14:11 server] opponent 1,1;1,2
+[14:14:11 player] 1,2;2,1
+[14:14:11 server] opponent 2,1;0,0
+[14:14:11 player] 0,0;0,2
+[14:14:11 server] opponent 0,2;2,0
+[14:14:12 player] 2,0;2,0
+[14:14:12 server] opponent 2,0;2,2
+[14:14:12 player] 2,2;2,1
+[14:14:12 server] opponent 2,1;2,1
+[14:14:12 player] 2,1;2,2
+[14:14:12 server] opponent 2,2;1,2
+[14:14:12 player] 1,2;1,0
+[14:14:12 server] opponent 1,0;0,1
+[14:14:12 player] 0,1;1,2
+[14:14:12 server] opponent 1,2;1,2
+[14:14:12 player] 1,2;0,2
+[14:14:12 server] opponent 0,2;2,2
+[14:14:12 player] 2,2;2,0
+[14:14:12 server] opponent 2,0;0,2
+[14:14:12 player] 0,2;2,1
+[14:14:12 server] opponent 2,1;0,1
+[14:14:12 player] 0,1;0,2
+[14:14:12 server] opponent 0,2;1,2
+[14:14:13 player] 1,2;2,0
+[14:14:13 server] opponent 2,0;2,1
+[14:14:13 player] 2,1;0,2
+[14:14:13 server] opponent 0,2;0,0
+[14:14:13 player] 0,2;1,0
+[14:14:13 server] opponent 1,0;1,0
+[14:14:13 player] 1,0;2,2
+[14:14:13 server] opponent 2,2;0,1
+[14:14:13 player] 0,1;2,2
+[14:14:13 server] opponent 2,2;1,1
+[14:14:13 player] 1,1;1,0
+[14:14:13 server] opponent 1,0;2,1
+[14:14:13 player] 2,1;1,1
+[14:14:13 server] opponent 1,1;2,0
+[14:14:13 player] 2,0;0,1
+[14:14:13 server] opponent 1,0;1,2
+[14:14:13 player] 1,2;2,2
+[14:14:13 server] opponent 2,2;1,0
+[14:14:13 player] 1,0;1,1
+[14:14:13 server] opponent 1,1;2,1
+[14:14:14 player] 2,1;1,2
+[14:14:14 server] opponent 1,1;0,0
+[14:14:14 player] 0,2;0,2
+[14:14:14 server] opponent 0,2;0,1
+[14:14:14 player] 0,2;1,1
+[14:14:14 server] opponent 1,1;2,2
+[14:14:14 player] 2,0;1,2
+[14:14:14 server] opponent 1,0;0,0
+[14:14:14 player] 1,0;0,2
+[14:14:14 server] opponent 2,0;1,0
+[14:14:14 player] 1,0;2,0
+[14:14:14 server] opponent 2,0;1,1
+[14:14:14 server] init
+[14:14:14 server] opponent 0,0;1,0
+[14:14:14 player] 1,0;1,0
+[14:14:14 server] opponent 1,0;2,1
+[14:14:14 player] 2,1;0,0
+[14:14:14 server] opponent 0,0;2,2
+[14:14:15 player] 2,2;2,1
+[14:14:15 server] opponent 2,1;1,0
+[14:14:15 player] 1,0;2,0
+[14:14:15 server] opponent 2,0;0,2
+[14:14:15 player] 0,2;1,0
+[14:14:15 server] opponent 1,0;1,1
+[14:14:15 player] 1,1;0,2
+[14:14:15 server] opponent 0,2;2,0
+[14:14:15 player] 2,0;2,0
+[14:14:15 server] opponent 2,0;2,2
+[14:14:15 player] 2,2;0,1
+[14:14:15 server] opponent 0,1;0,1
+[14:14:15 player] 0,1;0,0
+[14:14:15 server] opponent 0,0;0,1
+[14:14:15 player] 0,1;1,2
+[14:14:15 server] opponent 1,2;1,1
+[14:14:15 player] 1,1;1,2
+[14:14:15 server] opponent 1,2;1,0
+[14:14:15 player] 1,0;0,1
+[14:14:15 server] opponent 0,1;2,0
+[14:14:16 player] 2,0;1,2
+[14:14:16 server] opponent 1,2;2,0
+[14:14:16 player] 2,0;1,1
+[14:14:16 server] opponent 1,1;2,2
+[14:14:16 player] 2,2;1,1
+[14:14:16 server] opponent 1,1;2,1
+[14:14:16 player] 2,1;1,2
+[14:14:16 server] opponent 1,2;2,1
+[14:14:16 player] 2,1;2,1
+[14:14:16 server] opponent 2,1;0,1
+[14:14:16 player] 0,1;2,1
+[14:14:16 server] opponent 2,1;1,1
+[14:14:16 player] 1,1;2,0
+[14:14:16 server] opponent 2,0;0,1
+[14:14:16 player] 0,1;1,1
+[14:14:16 server] opponent 1,1;1,0
+[14:14:16 player] 1,0;0,0
+[14:14:16 server] opponent 0,0;0,2
+[14:14:17 player] 0,2;0,2
+[14:14:17 server] opponent 0,2;2,2
+[14:14:17 player] 0,0;0,0
+[14:14:17 server] opponent 0,0;1,2
+[14:14:17 player] 1,2;1,2
+[14:14:17 server] opponent 1,2;0,0
+[14:14:17 player] 0,2;2,1
+[14:14:17 server] opponent 2,1;2,0
+[14:14:17 player] 2,0;0,0
+[14:14:17 server] opponent 2,1;2,2
+[14:14:17 player] 2,1;0,2
+[14:14:17 server] opponent 0,2;1,1
+[14:14:17 player] 1,1;1,1
+[14:14:17 server] opponent 0,1;1,0
+[14:14:17 player] 0,2;0,0
+[14:14:17 server] opponent 0,1;0,2
+[14:14:17 player] 0,2;0,1
+[14:14:17 server] opponent 0,1;2,2
+[14:14:18 player] 2,0;1,0
+[14:14:18 server] init
+[14:14:18 server] move
+[14:14:18 player] 0,0;0,0
+[14:14:18 server] opponent 0,0;1,1
+[14:14:18 player] 1,1;1,2
+[14:14:18 server] opponent 1,2;0,1
+[14:14:18 player] 0,1;1,2
+[14:14:18 server] opponent 1,2;2,1
+[14:14:18 player] 2,1;0,2
+[14:14:18 server] opponent 0,2;0,1
+[14:14:18 player] 0,1;0,2
+[14:14:18 server] opponent 0,2;0,2
+[14:14:18 player] 0,2;0,0
+[14:14:18 server] opponent 0,0;2,1
+[14:14:18 player] 2,1;0,0
+[14:14:18 server] opponent 0,0;1,2
+[14:14:18 player] 1,2;1,1
+[14:14:18 server] opponent 1,1;1,1
+[14:14:19 player] 1,1;0,1
+[14:14:19 server] opponent 0,1;0,0
+[14:14:19 player] 0,0;1,0
+[14:14:19 server] opponent 1,0;2,1
+[14:14:19 player] 2,1;0,1
+[14:14:19 server] opponent 0,1;2,1
+[14:14:19 player] 0,0;0,1
+[14:14:19 server] opponent 0,1;1,0
+[14:14:19 player] 1,0;1,2
+[14:14:19 server] opponent 1,2;1,2
+[14:14:19 player] 1,2;0,2
+[14:14:19 server] opponent 0,2;1,1
+[14:14:19 player] 1,1;0,2
+[14:14:19 server] opponent 0,2;1,0
+[14:14:19 player] 1,0;1,1
+[14:14:19 server] opponent 1,1;0,0
+[14:14:19 player] 0,0;0,2
+[14:14:19 server] opponent 0,2;1,2
+[14:14:20 player] 1,2;2,0
+[14:14:20 server] opponent 2,0;2,0
+[14:14:20 player] 2,0;1,2
+[14:14:20 server] opponent 2,0;1,1
+[14:14:20 player] 1,1;2,2
+[14:14:20 server] opponent 2,2;0,2
+[14:14:20 player] 0,1;2,0
+[14:14:20 server] opponent 2,0;0,0
+[14:14:20 player] 2,0;1,0
+[14:14:20 server] opponent 1,0;1,0
+[14:14:20 player] 1,0;2,0
+[14:14:20 server] opponent 2,0;2,2
+[14:14:20 player] 2,2;0,0
+[14:14:20 server] opponent 2,2;1,2
+[14:14:20 player] 2,2;2,2
+[14:14:20 server] opponent 2,2;1,1
+[14:14:20 player] 2,2;1,0
+[14:14:20 server] opponent 1,0;2,2
+[14:14:21 player] 2,2;2,0
+[14:14:21 server] init
+[14:14:21 server] opponent 0,0;0,0
+[14:14:21 player] 0,0;1,2
+[14:14:21 server] opponent 1,2;2,1
+[14:14:21 player] 2,1;2,0
+[14:14:21 server] opponent 2,0;1,1
+[14:14:21 player] 1,1;1,1
+[14:14:21 server] opponent 1,1;2,0
+[14:14:21 player] 2,0;1,0
+[14:14:21 server] opponent 1,0;2,1
+[14:14:21 player] 2,1;0,1
+[14:14:21 server] opponent 0,1;1,2
+[14:14:21 player] 1,2;1,0
+[14:14:21 server] opponent 1,0;0,1
+[14:14:21 player] 0,1;2,0
+[14:14:21 server] opponent 2,0;2,2
+[14:14:21 player] 2,2;1,2
+[14:14:21 server] opponent 1,2;0,0
+[14:14:21 player] 0,0;2,1
+[14:14:21 server] opponent 2,1;0,2
+[14:14:22 player] 0,2;1,0
+[14:14:22 server] opponent 1,0;1,2
+[14:14:22 player] 1,2;2,2
+[14:14:22 server] opponent 2,2;0,2
+[14:14:22 player] 0,2;2,0
+[14:14:22 server] opponent 2,0;0,0
+[14:14:22 player] 0,0;1,0
+[14:14:22 server] opponent 1,0;0,0
+[14:14:22 player] 0,0;1,1
+[14:14:22 server] opponent 1,1;2,2
+[14:14:22 player] 2,2;0,1
+[14:14:22 server] opponent 0,1;1,0
+[14:14:22 player] 1,0;0,2
+[14:14:22 server] opponent 0,2;2,1
+[14:14:22 player] 2,1;2,2
+[14:14:22 server] opponent 2,2;1,1
+[14:14:22 player] 1,1;2,1
+[14:14:22 server] opponent 2,1;1,0
+[14:14:23 player] 1,0;1,1
+[14:14:23 server] opponent 1,1;1,0
+[14:14:23 player] 1,0;2,0
+[14:14:23 server] opponent 2,1;2,1
+[14:14:23 player] 2,1;1,2
+[14:14:23 server] opponent 1,2;0,2
+[14:14:23 player] 0,2;0,0
+[14:14:23 server] opponent 1,2;1,1
+[14:14:23 player] 1,1;0,0
+[14:14:23 server] opponent 2,2;2,0
+[14:14:23 player] 0,1;1,1
+[14:14:23 server] opponent 1,1;0,2
+[14:14:23 player] 1,1;1,2
+[14:14:23 server] opponent 1,2;0,1
+[14:14:23 player] 0,1;0,2
+[14:14:23 server] init
+[14:14:23 server] move
+[14:14:23 player] 0,0;1,0
+[14:14:23 server] opponent 1,0;2,1
+[14:14:24 player] 2,1;1,0
+[14:14:24 server] opponent 1,0;1,1
+[14:14:24 player] 1,1;0,1
+[14:14:24 server] opponent 0,1;2,1
+[14:14:24 player] 2,1;0,0
+[14:14:24 server] opponent 0,0;0,2
+[14:14:24 player] 0,2;0,2
+[14:14:24 server] opponent 0,2;0,1
+[14:14:24 player] 0,1;1,2
+[14:14:24 server] opponent 1,2;1,1
+[14:14:24 player] 1,1;1,1
+[14:14:24 server] opponent 1,1;2,0
+[14:14:24 player] 2,0;2,1
+[14:14:24 server] opponent 2,1;1,1
+[14:14:24 player] 1,1;2,1
+[14:14:24 server] opponent 2,1;0,2
+[14:14:24 player] 0,2;0,0
+[14:14:24 server] opponent 0,0;0,1
+[14:14:25 player] 0,1;0,0
+[14:14:25 server] opponent 0,0;1,1
+[14:14:25 player] 0,0;0,0
+[14:14:25 server] opponent 0,0;2,1
+[14:14:25 player] 2,1;2,0
+[14:14:25 server] opponent 2,0;1,2
+[14:14:25 player] 1,2;1,0
+[14:14:25 server] opponent 1,0;0,2
+[14:14:25 player] 0,2;1,0
+[14:14:25 server] opponent 1,0;0,0
+[14:14:25 player] 1,0;0,1
+[14:14:25 server] opponent 0,1;2,0
+[14:14:25 player] 2,0;0,0
+[14:14:25 server] opponent 0,2;1,2
+[14:14:25 player] 1,2;2,2
+[14:14:25 server] opponent 2,2;1,2
+[14:14:25 player] 1,2;2,0
+[14:14:25 server] opponent 2,0;1,1
+[14:14:26 player] 0,1;2,2
+[14:14:26 server] opponent 2,2;2,0
+[14:14:26 player] 2,0;1,0
+[14:14:26 server] opponent 1,0;1,2
+[14:14:26 player] 1,2;2,1
+[14:14:26 server] opponent 0,2;1,1
+[14:14:26 player] 0,2;2,1
+[14:14:26 server] opponent 0,1;1,1
+[14:14:26 player] 0,1;0,1
+[14:14:26 server] opponent 0,1;0,2
+[14:14:26 player] 0,2;2,0
+[14:14:26 server] opponent 2,0;0,2
+[14:14:26 player] 1,0;1,0
+[14:14:26 server] opponent 1,0;2,2
+[14:14:26 player] 2,2;2,2
+[14:14:26 server] opponent 2,2;1,0
+[14:14:26 player] 2,0;2,2
+[14:14:26 server] opponent 2,2;0,2
+[14:14:27 player] 2,0;2,0
+[14:14:27 server] init
+[14:14:27 server] opponent 0,0;0,1
+[14:14:27 player] 0,1;0,0
+[14:14:27 server] opponent 0,0;0,2
+[14:14:27 player] 0,2;0,2
+[14:14:27 server] opponent 0,2;2,1
+[14:14:27 player] 2,1;0,1
+[14:14:27 server] opponent 0,1;2,2
+[14:14:27 player] 2,2;2,0
+[14:14:27 server] opponent 2,0;0,2
+[14:14:27 player] 0,2;2,0
+[14:14:27 server] opponent 2,0;1,2
+[14:14:27 player] 1,2;2,1
+[14:14:27 server] opponent 2,1;2,0
+[14:14:27 player] 2,0;2,2
+[14:14:27 server] opponent 2,2;1,1
+[14:14:27 player] 1,1;1,0
+[14:14:27 server] opponent 1,0;0,2
+[14:14:28 player] 0,2;1,1
+[14:14:28 server] opponent 1,1;1,1
+[14:14:28 player] 1,1;1,2
+[14:14:28 server] opponent 1,2;2,0
+[14:14:28 player] 2,0;0,0
+[14:14:28 server] opponent 0,0;1,1
+[14:14:28 player] 1,1;0,0
+[14:14:28 server] opponent 0,0;2,2
+[14:14:28 player] 2,2;0,0
+[14:14:28 server] opponent 0,0;2,0
+[14:14:28 player] 2,0;1,1
+[14:14:28 server] opponent 1,1;2,0
+[14:14:28 player] 1,1;0,2
+[14:14:28 server] opponent 1,2;0,0
+[14:14:28 player] 1,2;1,0
+[14:14:28 server] opponent 1,0;0,1
+[14:14:28 player] 0,1;2,0
+[14:14:28 server] opponent 1,2;1,1
+[14:14:28 player] 1,1;0,1
+[14:14:28 server] init
+[14:14:28 server] move
+[14:14:29 player] 0,0;0,2
+[14:14:29 server] opponent 0,2;1,0
+[14:14:29 player] 1,0;0,2
+[14:14:29 server] opponent 0,2;2,2
+[14:14:29 player] 2,2;0,2
+[14:14:29 server] opponent 0,2;0,1
+[14:14:29 player] 0,1;1,0
+[14:14:29 server] opponent 1,0;2,1
+[14:14:29 player] 2,1;2,1
+[14:14:29 server] opponent 2,1;1,2
+[14:14:29 player] 1,2;0,1
+[14:14:29 server] opponent 0,1;2,0
+[14:14:29 player] 2,0;2,2
+[14:14:29 server] opponent 2,2;0,1
+[14:14:29 player] 0,1;1,1
+[14:14:29 server] opponent 1,1;1,2
+[14:14:29 player] 1,2;1,0
+[14:14:29 server] opponent 1,0;1,0
+[14:14:30 player] 1,0;2,2
+[14:14:30 server] opponent 2,2;2,1
+[14:14:30 player] 2,1;2,0
+[14:14:30 server] opponent 2,0;2,1
+[14:14:30 player] 2,1;2,2
+[14:14:30 server] opponent 2,2;2,2
+[14:14:30 player] 2,2;2,0
+[14:14:30 server] opponent 2,0;0,0
+[14:14:30 player] 0,0;1,2
+[14:14:30 server] opponent 1,2;0,2
+[14:14:30 player] 0,2;0,2
+[14:14:30 server] opponent 0,2;0,0
+[14:14:30 player] 0,0;2,2
+[14:14:30 server] opponent 2,2;1,0
+[14:14:30 player] 1,0;1,2
+[14:14:30 server] opponent 1,2;2,1
+[14:14:30 player] 0,2;2,0
+[14:14:30 server] opponent 2,0;1,2
+[14:14:31 player] 1,2;2,2
+[14:14:31 server] opponent 2,2;1,1
+[14:14:31 player] 1,1;2,0
+[14:14:31 server] opponent 2,0;1,0
+[14:14:31 player] 0,2;1,1
+[14:14:31 server] opponent 1,1;1,0
+[14:14:31 player] 1,1;1,1
+[14:14:31 server] opponent 1,1;2,1
+[14:14:31 player] 2,0;1,1
+[14:14:31 server] opponent 1,1;0,2
+[14:14:31 player] 1,1;2,2
+[14:14:31 server] opponent 2,0;2,0
+[14:14:31 player] 0,1;1,2
+[14:14:31 server] init
+[14:14:31 server] opponent 0,0;1,0
+[14:14:31 player] 1,0;2,1
+[14:14:31 server] opponent 2,1;2,0
+[14:14:31 player] 2,0;1,2
+[14:14:31 server] opponent 1,2;1,0
+[14:14:32 player] 1,0;0,1
+[14:14:32 server] opponent 0,1;0,0
+[14:14:32 player] 0,0;2,0
+[14:14:32 server] opponent 2,0;2,0
+[14:14:32 player] 2,0;2,1
+[14:14:32 server] opponent 2,1;2,1
+[14:14:32 player] 2,1;2,2
+[14:14:32 server] opponent 2,2;2,1
+[14:14:32 player] 2,1;0,1
+[14:14:32 server] opponent 0,1;2,2
+[14:14:32 player] 2,2;1,2
+[14:14:32 server] opponent 1,2;1,2
+[14:14:32 player] 1,2;1,1
+[14:14:32 server] opponent 1,1;1,0
+[14:14:32 player] 1,0;1,1
+[14:14:32 server] opponent 1,1;0,2
+[14:14:32 player] 0,2;0,1
+[14:14:32 server] opponent 0,1;2,1
+[14:14:32 player] 2,1;0,2
+[14:14:33 server] opponent 0,2;1,2
+[14:14:33 player] 1,2;2,2
+[14:14:33 server] opponent 2,2;2,2
+[14:14:33 player] 2,2;2,0
+[14:14:33 server] opponent 2,0;0,0
+[14:14:33 player] 0,0;1,1
+[14:14:33 server] opponent 1,1;2,1
+[14:14:33 player] 2,1;0,0
+[14:14:33 server] opponent 0,0;2,2
+[14:14:33 player] 2,2;0,1
+[14:14:33 server] opponent 0,1;0,2
+[14:14:33 player] 0,2;2,2
+[14:14:33 server] opponent 2,2;0,2
+[14:14:33 player] 0,2;1,0
+[14:14:33 server] opponent 0,0;0,2
+[14:14:33 player] 0,2;2,0
+[14:14:33 server] opponent 2,0;1,0
+[14:14:33 player] 0,0;1,2
+[14:14:33 server] opponent 1,2;0,0
+[14:14:34 player] 0,0;0,0
+[14:14:34 server] opponent 0,0;2,1
+[14:14:34 player] 0,1;0,1
+[14:14:34 server] opponent 0,1;2,0
+[14:14:34 player] 1,2;2,0
+[14:14:34 server] opponent 0,0;0,1
+[14:14:34 player] 0,2;2,1
+[14:14:34 server] opponent 2,2;1,0
+[14:14:34 player] 1,2;2,1
+[14:14:34 server] opponent 1,1;1,2
+[14:14:34 player] 1,1;1,1
+[14:14:34 server] opponent 1,1;0,0
+[14:14:34 player] 1,1;0,1
+[14:14:34 server] opponent 1,1;2,0
+[14:14:34 player] 2,2;1,1
+[14:14:34 server] opponent 2,2;0,0
+[14:14:34 server] init
+[14:14:34 server] move
+[14:14:34 player] 0,1;2,1
+[14:14:34 server] opponent 2,1;2,0
+[14:14:35 player] 2,0;0,0
+[14:14:35 server] opponent 0,0;0,0
+[14:14:35 player] 0,0;1,2
+[14:14:35 server] opponent 1,2;2,0
+[14:14:35 player] 2,0;1,1
+[14:14:35 server] opponent 1,1;0,2
+[14:14:35 player] 0,2;2,0
+[14:14:35 server] opponent 2,0;0,1
+[14:14:35 player] 0,1;1,0
+[14:14:35 server] opponent 1,0;0,2
+[14:14:35 player] 0,2;1,1
+[14:14:35 server] opponent 1,1;2,1
+[14:14:35 player] 2,1;2,1
+[14:14:35 server] opponent 2,1;1,1
+[14:14:35 player] 1,1;2,0
+[14:14:35 server] opponent 2,0;0,2
+[14:14:35 player] 0,2;0,2
+[14:14:35 server] opponent 0,0;0,1
+[14:14:36 player] 0,1;0,1
+[14:14:36 server] opponent 0,1;2,0
+[14:14:36 player] 2,0;2,2
+[14:14:36 server] opponent 2,2;0,2
+[14:14:36 player] 0,0;0,2
+[14:14:36 server] opponent 0,0;2,2
+[14:14:36 player] 2,2;0,1
+[14:14:36 server] opponent 0,1;2,2
+[14:14:36 player] 2,2;1,0
+[14:14:36 server] opponent 1,0;1,0
+[14:14:36 player] 1,0;0,1
+[14:14:36 server] opponent 0,1;1,2
+[14:14:36 player] 1,2;1,0
+[14:14:36 server] opponent 1,0;2,2
+[14:14:36 player] 2,2;1,2
+[14:14:36 server] opponent 1,2;0,2
+[14:14:36 player] 0,0;1,1
+[14:14:36 server] opponent 1,1;0,1
+[14:14:37 player] 0,1;0,2
+[14:14:37 server] opponent 0,0;1,0
+[14:14:37 player] 1,0;1,2
+[14:14:37 server] opponent 1,2;2,2
+[14:14:37 player] 2,2;1,1
+[14:14:37 server] opponent 1,1;0,0
+[14:14:37 player] 0,0;2,0
+[14:14:37 server] opponent 1,0;0,0
+[14:14:37 player] 1,0;2,0
+[14:14:37 server] opponent 1,2;2,1
+[14:14:37 player] 2,1;0,2
+[14:14:37 server] opponent 1,0;1,1
+[14:14:37 server] init
+[14:14:37 server] opponent 0,0;0,0
+[14:14:37 player] 0,0;1,2
+[14:14:37 server] opponent 1,2;0,1
+[14:14:37 player] 0,1;0,0
+[14:14:37 server] opponent 0,0;0,1
+[14:14:37 player] 0,1;1,1
+[14:14:37 server] opponent 1,1;0,0
+[14:14:38 player] 0,0;0,2
+[14:14:38 server] opponent 0,2;1,2
+[14:14:38 player] 1,2;1,1
+[14:14:38 server] opponent 1,1;1,2
+[14:14:38 player] 1,2;0,0
+[14:14:38 server] opponent 0,0;2,2
+[14:14:38 player] 2,2;1,0
+[14:14:38 server] opponent 1,0;2,1
+[14:14:38 player] 2,1;0,2
+[14:14:38 server] opponent 0,2;0,1
+[14:14:38 player] 0,1;2,2
+[14:14:38 server] opponent 2,2;1,1
+[14:14:38 player] 1,1;1,0
+[14:14:38 server] opponent 1,0;2,2
+[14:14:38 player] 2,2;0,2
+[14:14:38 server] opponent 0,2;0,2
+[14:14:38 player] 0,2;0,0
+[14:14:38 server] opponent 0,0;2,0
+[14:14:38 player] 2,0;2,1
+[14:14:38 server] opponent 2,1;2,2
+[14:14:39 player] 2,2;2,1
+[14:14:39 server] opponent 2,1;0,0
+[14:14:39 player] 0,0;2,1
+[14:14:39 server] opponent 2,1;1,0
+[14:14:39 player] 1,0;2,0
+[14:14:39 server] opponent 2,0;0,0
+[14:14:39 player] 0,0;1,0
+[14:14:39 server] opponent 1,0;1,0
+[14:14:39 player] 1,0;1,2
+[14:14:39 server] opponent 1,2;1,0
+[14:14:39 player] 1,0;0,0
+[14:14:39 server] opponent 0,0;1,1
+[14:14:39 player] 1,1;2,2
+[14:14:39 server] opponent 2,2;2,0
+[14:14:39 player] 2,0;0,1
+[14:14:39 server] opponent 1,0;1,1
+[14:14:39 player] 1,1;0,2
+[14:14:39 server] opponent 0,2;1,0
+[14:14:40 player] 1,0;0,1
+[14:14:40 server] opponent 1,2;2,1
+[14:14:40 player] 2,1;2,0
+[14:14:40 server] opponent 2,0;2,2
+[14:14:40 player] 2,2;0,1
+[14:14:40 server] opponent 2,1;1,1
+[14:14:40 player] 1,1;0,1
+[14:14:40 server] opponent 2,0;2,0
+[14:14:40 player] 2,0;1,0
+[14:14:40 server] opponent 1,0;0,2
+[14:14:40 player] 0,2;1,1
+[14:14:40 server] opponent 1,1;2,1
+[14:14:40 player] 0,2;2,2
+[14:14:40 server] opponent 2,2;0,0
+[14:14:40 player] 2,0;1,1
+[14:14:40 server] opponent 1,1;2,0
+[14:14:40 player] 2,2;2,2
+[14:14:40 server] opponent 2,2;1,2
+[14:14:41 player] 1,2;2,2
+[14:14:41 server] opponent 1,1;1,1
+[14:14:41 server] init
+[14:14:41 server] move
+[14:14:41 player] 0,0;1,1
+[14:14:41 server] opponent 1,1;1,0
+[14:14:41 player] 1,0;1,2
+[14:14:41 server] opponent 1,2;2,1
+[14:14:41 player] 2,1;0,1
+[14:14:41 server] opponent 0,1;1,1
+[14:14:41 player] 1,1;1,2
+[14:14:41 server] opponent 1,2;2,2
+[14:14:41 player] 2,2;0,2
+[14:14:41 server] opponent 0,2;1,1
+[14:14:41 player] 1,1;2,2
+[14:14:41 server] opponent 2,2;0,1
+[14:14:41 player] 0,1;2,1
+[14:14:41 server] opponent 2,1;1,0
+[14:14:41 player] 1,0;0,2
+[14:14:41 server] opponent 0,2;0,1
+[14:14:42 player] 0,1;0,2
+[14:14:42 server] opponent 0,2;1,0
+[14:14:42 player] 1,0;2,2
+[14:14:42 server] opponent 2,2;1,0
+[14:14:42 player] 0,2;1,2
+[14:14:42 server] opponent 1,2;0,0
+[14:14:42 player] 0,0;0,1
+[14:14:42 server] opponent 0,1;0,1
+[14:14:42 player] 0,1;1,0
+[14:14:42 server] opponent 0,0;0,2
+[14:14:42 player] 0,2;2,1
+[14:14:42 server] opponent 2,1;0,2
+[14:14:42 player] 0,2;2,0
+[14:14:42 server] opponent 2,0;2,0
+[14:14:42 player] 2,0;1,2
+[14:14:42 server] opponent 1,2;2,0
+[14:14:42 player] 2,0;0,1
+[14:14:42 server] opponent 0,1;2,0
+[14:14:43 player] 2,0;2,1
+[14:14:43 server] opponent 2,1;0,0
+[14:14:43 player] 0,0;2,1
+[14:14:43 server] opponent 2,1;2,0
+[14:14:43 player] 2,0;1,1
+[14:14:43 server] init
+[14:14:43 server] opponent 0,0;2,1
+[14:14:43 player] 2,1;2,0
+[14:14:43 server] opponent 2,0;0,0
+[14:14:43 player] 0,0;2,2
+[14:14:43 server] opponent 2,2;1,1
+[14:14:43 player] 1,1;1,2
+[14:14:43 server] opponent 1,2;0,0
+[14:14:43 player] 0,0;0,1
+[14:14:43 server] opponent 0,1;1,1
+[14:14:43 player] 1,1;0,1
+[14:14:43 server] opponent 0,1;0,2
+[14:14:43 player] 0,2;2,1
+[14:14:43 server] opponent 2,1;0,2
+[14:14:44 player] 0,2;2,0
+[14:14:44 server] opponent 2,0;0,2
+[14:14:44 player] 0,2;2,2
+[14:14:44 server] opponent 2,2;0,0
+[14:14:44 player] 0,0;0,0
+[14:14:44 server] opponent 0,0;1,1
+[14:14:44 player] 1,1;2,2
+[14:14:44 server] opponent 2,2;2,1
+[14:14:44 player] 2,1;1,1
+[14:14:44 server] opponent 1,1;2,1
+[14:14:44 player] 2,1;1,2
+[14:14:44 server] opponent 1,2;1,1
+[14:14:44 player] 1,1;0,2
+[14:14:44 server] opponent 0,0;2,0
+[14:14:44 player] 2,0;0,1
+[14:14:44 server] opponent 0,1;2,0
+[14:14:44 player] 2,0;2,0
+[14:14:44 server] opponent 2,0;1,0
+[14:14:44 player] 1,0;0,1
+[14:14:44 server] opponent 0,0;0,2
+[14:14:45 player] 1,2;2,2
+[14:14:45 server] opponent 2,2;2,0
+[14:14:45 player] 2,0;1,2
+[14:14:45 server] opponent 1,2;2,1
+[14:14:45 player] 2,1;1,0
+[14:14:45 server] opponent 1,0;2,1
+[14:14:45 player] 1,2;0,1
+[14:14:45 server] opponent 1,2;1,2
+[14:14:45 player] 1,2;1,0
+[14:14:45 server] opponent 1,0;2,2
+[14:14:45 player] 2,2;2,2
+[14:14:45 server] opponent 2,2;1,0
+[14:14:45 player] 1,0;2,0
+[14:14:45 server] opponent 2,0;2,2
+[14:14:45 player] 2,0;1,1
+[14:14:45 server] opponent 2,0;2,1
+[14:14:46 player] 1,0;1,2
+[14:14:46 server] opponent 1,2;0,2
+[14:14:46 player] 1,2;2,0
+[14:14:46 server] opponent 1,0;1,0
+[14:14:46 player] 1,0;0,0
+[14:14:46 server] opponent 1,0;0,2
+[14:14:46 player] 1,0;1,1
+[14:14:46 server] init
+[14:14:46 server] move
+[14:14:46 player] 0,0;0,0
+[14:14:46 server] opponent 0,0;1,1
+[14:14:46 player] 1,1;0,2
+[14:14:46 server] opponent 0,2;2,0
+[14:14:46 player] 2,0;1,1
+[14:14:46 server] opponent 1,1;2,2
+[14:14:46 player] 2,2;1,2
+[14:14:46 server] opponent 1,2;2,1
+[14:14:46 player] 2,1;0,0
+[14:14:46 server] opponent 0,0;0,2
+[14:14:46 player] 0,2;2,2
+[14:14:46 server] opponent 2,2;1,1
+[14:14:47 player] 1,1;0,1
+[14:14:47 server] opponent 0,1;1,2
+[14:14:47 player] 1,2;1,0
+[14:14:47 server] opponent 1,0;2,1
+[14:14:47 player] 2,1;0,1
+[14:14:47 server] opponent 0,1;0,1
+[14:14:47 player] 0,1;2,0
+[14:14:47 server] opponent 2,0;0,0
+[14:14:47 player] 0,0;2,0
+[14:14:47 server] opponent 2,0;0,1
+[14:14:47 player] 0,1;2,1
+[14:14:47 server] opponent 2,1;2,0
+[14:14:47 player] 2,0;0,2
+[14:14:47 server] opponent 0,2;0,1
+[14:14:47 player] 0,1;2,2
+[14:14:47 server] opponent 2,2;2,1
+[14:14:47 player] 2,1;0,2
+[14:14:47 server] opponent 0,2;2,1
+[14:14:48 player] 0,2;1,1
+[14:14:48 server] opponent 1,1;1,0
+[14:14:48 player] 1,0;1,0
+[14:14:48 server] opponent 1,0;1,1
+[14:14:48 player] 1,1;0,0
+[14:14:48 server] init
+[14:14:48 server] opponent 0,0;1,1
+[14:14:48 player] 1,1;1,2
+[14:14:48 server] opponent 1,2;2,0
+[14:14:48 player] 2,0;0,0
+[14:14:48 server] opponent 0,0;1,2
+[14:14:48 player] 1,2;0,2
+[14:14:48 server] opponent 0,2;2,2
+[14:14:48 player] 2,2;0,2
+[14:14:48 server] opponent 0,2;1,1
+[14:14:48 player] 1,1;2,1
+[14:14:48 server] opponent 2,1;2,0
+[14:14:48 player] 2,0;2,2
+[14:14:48 server] opponent 2,2;2,0
+[14:14:49 player] 2,0;1,1
+[14:14:49 server] opponent 1,1;0,0
+[14:14:49 player] 0,0;1,0
+[14:14:49 server] opponent 1,0;2,0
+[14:14:49 player] 0,2;0,0
+[14:14:49 server] opponent 0,0;0,2
+[14:14:49 player] 0,2;0,2
+[14:14:49 server] opponent 0,2;0,1
+[14:14:49 player] 0,1;2,0
+[14:14:49 server] opponent 0,0;2,1
+[14:14:49 player] 2,1;2,1
+[14:14:49 server] opponent 2,1;1,1
+[14:14:49 player] 1,1;1,0
+[14:14:49 server] opponent 1,0;1,1
+[14:14:49 player] 1,1;1,1
+[14:14:49 server] opponent 0,0;2,0
+[14:14:49 player] 0,2;2,1
+[14:14:49 server] opponent 2,1;1,0
+[14:14:49 player] 1,0;0,2
+[14:14:49 server] opponent 0,2;2,0
+[14:14:50 player] 2,1;1,2
+[14:14:50 server] opponent 1,2;2,1
+[14:14:50 player] 2,1;0,0
+[14:14:50 server] opponent 2,2;1,1
+[14:14:50 player] 1,2;2,2
+[14:14:50 server] opponent 2,2;1,0
+[14:14:50 player] 1,0;2,1
+[14:14:50 server] opponent 2,1;0,1
+[14:14:50 player] 0,1;2,1
+[14:14:50 server] opponent 2,1;0,2
+[14:14:50 player] 0,2;1,0
+[14:14:50 server] opponent 1,0;0,1
+[14:14:50 player] 0,1;2,2
+[14:14:50 server] opponent 2,2;1,2
+[14:14:50 player] 1,2;1,2
+[14:14:50 server] opponent 1,0;0,0
+[14:14:51 player] 1,0;1,0
+[14:14:51 server] opponent 1,0;2,2
+[14:14:51 player] 0,2;1,2
+[14:14:51 server] init
+[14:14:51 server] move
+[14:14:51 player] 0,0;1,0
+[14:14:51 server] opponent 1,0;2,2
+[14:14:51 player] 2,2;0,1
+[14:14:51 server] opponent 0,1;2,2
+[14:14:51 player] 2,2;1,2
+[14:14:51 server] opponent 1,2;2,1
+[14:14:51 player] 2,1;1,1
+[14:14:51 server] opponent 1,1;0,1
+[14:14:51 player] 0,1;2,0
+[14:14:51 server] opponent 2,0;1,2
+[14:14:51 player] 1,2;1,1
+[14:14:51 server] opponent 1,1;0,2
+[14:14:51 player] 0,2;1,0
+[14:14:51 server] opponent 1,0;1,2
+[14:14:51 player] 1,2;2,0
+[14:14:51 server] opponent 2,0;2,1
+[14:14:52 player] 2,1;0,1
+[14:14:52 server] opponent 0,1;0,0
+[14:14:52 player] 0,0;2,1
+[14:14:52 server] opponent 2,1;1,0
+[14:14:52 player] 1,0;0,2
+[14:14:52 server] opponent 0,2;0,2
+[14:14:52 player] 0,2;0,1
+[14:14:52 server] opponent 0,1;0,1
+[14:14:52 player] 0,1;0,2
+[14:14:52 server] opponent 0,2;2,1
+[14:14:52 player] 2,1;2,1
+[14:14:52 server] opponent 0,0;1,2
+[14:14:52 player] 1,2;0,2
+[14:14:52 server] opponent 0,2;0,0
+[14:14:52 player] 0,0;2,2
+[14:14:52 server] opponent 2,2;2,2
+[14:14:52 player] 2,2;2,0
+[14:14:52 server] opponent 2,0;0,1
+[14:14:53 player] 0,1;1,1
+[14:14:53 server] opponent 1,1;1,2
+[14:14:53 player] 1,1;0,0
+[14:14:53 server] opponent 0,0;0,0
+[14:14:53 player] 0,0;2,0
+[14:14:53 server] opponent 2,0;1,1
+[14:14:53 player] 1,1;2,2
+[14:14:53 server] opponent 2,2;0,0
+[14:14:53 player] 2,2;1,1
+[14:14:53 server] opponent 1,1;2,0
+[14:14:53 player] 1,1;1,1
+[14:14:53 server] init
+[14:14:53 server] opponent 0,0;1,1
+[14:14:53 player] 1,1;1,1
+[14:14:53 server] opponent 1,1;2,2
+[14:14:53 player] 2,2;0,0
+[14:14:53 server] opponent 0,0;0,1
+[14:14:53 player] 0,1;0,2
+[14:14:53 server] opponent 0,2;0,2
+[14:14:54 player] 0,2;1,2
+[14:14:54 server] opponent 1,2;1,1
+[14:14:54 player] 1,1;1,0
+[14:14:54 server] opponent 1,0;2,2
+[14:14:54 player] 2,2;1,2
+[14:14:54 server] opponent 1,2;1,2
+[14:14:54 player] 1,2;1,0
+[14:14:54 server] opponent 1,0;1,2
+[14:14:54 player] 1,2;0,1
+[14:14:54 server] opponent 0,1;2,2
+[14:14:54 player] 2,2;0,2
+[14:14:54 server] opponent 0,2;1,0
+[14:14:54 player] 1,0;0,2
+[14:14:54 server] opponent 0,2;1,1
+[14:14:54 player] 1,1;1,2
+[14:14:54 server] opponent 1,2;0,2
+[14:14:54 player] 0,2;2,0
+[14:14:54 server] opponent 2,0;2,1
+[14:14:55 player] 2,1;2,2
+[14:14:55 server] opponent 2,2;2,1
+[14:14:55 player] 2,1;0,1
+[14:14:55 server] opponent 0,1;2,0
+[14:14:55 player] 2,0;0,1
+[14:14:55 server] opponent 0,1;2,1
+[14:14:55 player] 2,1;1,2
+[14:14:55 server] opponent 1,2;0,0
+[14:14:55 player] 0,0;2,1
+[14:14:55 server] opponent 2,1;0,0
+[14:14:55 player] 0,0;1,2
+[14:14:55 server] opponent 1,2;2,2
+[14:14:55 player] 2,2;0,1
+[14:14:55 server] opponent 0,0;2,0
+[14:14:55 player] 2,0;1,2
+[14:14:55 server] opponent 0,0;0,0
+[14:14:55 player] 0,0;0,2
+[14:14:55 server] opponent 0,2;0,0
+[14:14:56 player] 0,0;1,0
+[14:14:56 server] opponent 1,0;2,0
+[14:14:56 player] 2,0;0,0
+[14:14:56 server] opponent 0,0;2,2
+[14:14:56 player] 0,2;0,1
+[14:14:56 server] opponent 2,0;0,2
+[14:14:56 player] 0,2;2,2
+[14:14:56 server] opponent 2,0;1,0
+[14:14:56 player] 1,0;2,1
+[14:14:56 server] opponent 2,1;1,0
+[14:14:56 player] 1,0;1,1
+[14:14:56 server] opponent 2,1;0,2
+[14:14:56 player] 0,2;2,1
+[14:14:56 server] opponent 2,1;1,1
+[14:14:56 player] 2,1;2,0
+[14:14:56 server] opponent 2,0;2,2
+[14:14:56 player] 2,0;2,0
+[14:14:56 server] opponent 2,0;1,1
+[14:14:57 player] 1,0;0,1
+[14:14:57 server] opponent 2,1;2,1
+[14:14:57 server] init
+[14:14:57 server] move
+[14:14:57 player] 0,0;2,1
+[14:14:57 server] opponent 2,1;2,2
+[14:14:57 player] 2,2;1,0
+[14:14:57 server] opponent 1,0;0,2
+[14:14:57 player] 0,2;0,2
+[14:14:57 server] opponent 0,2;0,1
+[14:14:57 player] 0,1;0,2
+[14:14:57 server] opponent 0,2;2,2
+[14:14:57 player] 2,2;0,0
+[14:14:57 server] opponent 0,0;0,2
+[14:14:57 player] 0,2;1,0
+[14:14:57 server] opponent 1,0;2,2
+[14:14:57 player] 2,2;2,0
+[14:14:57 server] opponent 2,0;2,2
+[14:14:57 player] 1,0;1,2
+[14:14:57 server] opponent 1,2;0,2
+[14:14:57 player] 0,2;2,0
+[14:14:57 server] opponent 2,0;1,0
+[14:14:58 player] 1,0;1,0
+[14:14:58 server] opponent 1,0;2,0
+[14:14:58 player] 2,0;0,1
+[14:14:58 server] opponent 0,1;1,0
+[14:14:58 player] 1,0;2,1
+[14:14:58 server] opponent 2,1;0,2
+[14:14:58 player] 0,2;0,0
+[14:14:58 server] opponent 0,0;1,2
+[14:14:58 player] 1,2;2,0
+[14:14:58 server] opponent 2,0;0,2
+[14:14:58 player] 0,0;2,2
+[14:14:58 server] opponent 0,0;1,1
+[14:14:58 player] 1,1;2,0
+[14:14:58 server] opponent 2,0;2,0
+[14:14:58 player] 2,0;2,1
+[14:14:58 server] opponent 2,1;1,2
+[14:14:58 player] 1,2;1,0
+[14:14:58 server] opponent 1,0;0,0
+[14:14:59 player] 0,0;1,0
+[14:14:59 server] opponent 1,0;1,1
+[14:14:59 player] 1,1;1,1
+[14:14:59 server] opponent 1,1;0,0
+[14:14:59 player] 0,0;2,0
+[14:14:59 server] opponent 2,0;1,1
+[14:14:59 player] 1,1;0,2
+[14:14:59 server] init
+[14:14:59 server] opponent 0,0;0,1
+[14:14:59 player] 0,1;2,1
+[14:14:59 server] opponent 2,1;1,1
+[14:14:59 player] 1,1;2,0
+[14:14:59 server] opponent 2,0;2,1
+[14:14:59 player] 2,1;1,2
+[14:14:59 server] opponent 1,2;1,0
+[14:14:59 player] 1,0;2,1
+[14:14:59 server] opponent 2,1;0,0
+[14:14:59 player] 0,0;0,2
+[14:14:59 server] opponent 0,2;2,0
+[14:15:00 player] 2,0;0,2
+[14:15:00 server] opponent 0,2;1,0
+[14:15:00 player] 1,0;0,1
+[14:15:00 server] opponent 0,1;0,1
+[14:15:00 player] 0,1;1,0
+[14:15:00 server] opponent 1,0;1,2
+[14:15:00 player] 1,2;0,2
+[14:15:00 server] opponent 0,2;0,0
+[14:15:00 player] 0,0;1,0
+[14:15:00 server] opponent 1,0;2,0
+[14:15:00 player] 2,0;0,0
+[14:15:00 server] opponent 0,0;0,0
+[14:15:00 player] 0,0;1,1
+[14:15:00 server] opponent 1,1;0,1
+[14:15:00 player] 0,1;2,2
+[14:15:00 server] opponent 2,2;2,2
+[14:15:00 player] 2,2;2,1
+[14:15:00 server] opponent 2,1;1,0
+[14:15:01 player] 1,0;1,1
+[14:15:01 server] opponent 1,1;1,1
+[14:15:01 player] 1,1;2,1
+[14:15:01 server] opponent 2,1;2,1
+[14:15:01 player] 2,1;2,0
+[14:15:01 server] opponent 2,0;2,0
+[14:15:01 player] 2,0;2,2
+[14:15:01 server] opponent 2,2;0,0
+[14:15:01 player] 0,0;1,2
+[14:15:01 server] opponent 1,2;0,0
+[14:15:01 player] 1,2;2,0
+[14:15:01 server] opponent 2,0;1,1
+[14:15:01 player] 1,1;2,2
+[14:15:01 server] opponent 2,2;2,0
+[14:15:01 player] 2,0;0,1
+[14:15:01 server] init
+[14:15:01 server] move
+[14:15:01 player] 0,0;0,0
+[14:15:01 server] opponent 0,0;2,2
+[14:15:02 player] 2,2;0,0
+[14:15:02 server] opponent 0,0;2,1
+[14:15:02 player] 2,1;2,1
+[14:15:02 server] opponent 2,1;0,0
+[14:15:02 player] 0,0;2,0
+[14:15:02 server] opponent 2,0;1,0
+[14:15:02 player] 1,0;2,0
+[14:15:02 server] opponent 2,0;2,2
+[14:15:02 player] 2,2;0,2
+[14:15:02 server] opponent 0,2;0,2
+[14:15:02 player] 0,2;1,1
+[14:15:02 server] opponent 1,1;0,2
+[14:15:02 player] 0,2;2,2
+[14:15:02 server] opponent 2,2;1,2
+[14:15:02 player] 1,2;1,1
+[14:15:02 server] opponent 1,1;2,0
+[14:15:02 player] 2,0;0,0
+[14:15:02 server] opponent 0,0;1,0
+[14:15:02 player] 1,0;0,1
+[14:15:02 server] opponent 0,1;0,0
+[14:15:03 player] 0,0;0,2
+[14:15:03 server] opponent 0,2;1,0
+[14:15:03 player] 1,0;2,2
+[14:15:03 server] opponent 2,2;1,0
+[14:15:03 player] 1,0;2,1
+[14:15:03 server] opponent 2,1;1,1
+[14:15:03 player] 1,1;1,1
+[14:15:03 server] opponent 1,1;1,2
+[14:15:03 player] 1,2;2,2
+[14:15:03 server] opponent 2,2;1,1
+[14:15:03 player] 1,1;2,2
+[14:15:03 server] opponent 0,0;0,1
+[14:15:03 player] 0,1;2,0
+[14:15:03 server] opponent 2,0;2,0
+[14:15:03 player] 2,0;2,1
+[14:15:03 server] opponent 2,1;0,2
+[14:15:03 player] 0,2;0,0
+[14:15:03 server] opponent 0,0;1,1
+[14:15:04 player] 1,1;0,0
+[14:15:04 server] opponent 2,0;1,2
+[14:15:04 player] 1,2;0,0
+[14:15:04 server] init
+[14:15:04 server] opponent 0,0;0,2
+[14:15:04 player] 0,2;0,0
+[14:15:04 server] opponent 0,0;1,0
+[14:15:04 player] 1,0;2,1
+[14:15:04 server] opponent 2,1;0,0
+[14:15:04 player] 0,0;0,0
+[14:15:04 server] opponent 0,0;2,1
+[14:15:04 player] 2,1;0,2
+[14:15:04 server] opponent 0,2;1,2
+[14:15:04 player] 1,2;2,1
+[14:15:04 server] opponent 2,1;1,0
+[14:15:04 player] 1,0;2,0
+[14:15:04 server] opponent 2,0;0,2
+[14:15:04 player] 0,2;0,1
+[14:15:04 server] opponent 0,1;0,0
+[14:15:05 player] 0,0;1,2
+[14:15:05 server] opponent 1,2;1,2
+[14:15:05 player] 1,2;0,2
+[14:15:05 server] opponent 0,2;1,0
+[14:15:05 player] 1,0;2,2
+[14:15:05 server] opponent 2,2;1,2
+[14:15:05 player] 1,2;1,1
+[14:15:05 server] opponent 1,1;0,1
+[14:15:05 player] 0,1;2,0
+[14:15:05 server] opponent 2,0;0,0
+[14:15:05 player] 0,0;2,0
+[14:15:05 server] opponent 2,0;2,2
+[14:15:05 player] 2,2;1,1
+[14:15:05 server] opponent 1,1;2,1
+[14:15:05 player] 2,1;2,0
+[14:15:05 server] opponent 2,0;1,0
+[14:15:05 player] 0,2;1,1
+[14:15:05 server] opponent 1,1;2,0
+[14:15:06 player] 2,0;0,1
+[14:15:06 server] opponent 0,1;2,2
+[14:15:06 player] 2,2;1,0
+[14:15:06 server] opponent 0,0;1,1
+[14:15:06 player] 1,1;2,2
+[14:15:06 server] opponent 2,2;2,2
+[14:15:06 player] 2,2;0,2
+[14:15:06 server] opponent 0,2;2,2
+[14:15:06 player] 2,2;2,0
+[14:15:06 server] opponent 2,0;1,2
+[14:15:06 player] 1,2;0,1
+[14:15:06 server] opponent 0,1;1,2
+[14:15:06 player] 0,0;0,1
+[14:15:06 server] opponent 0,1;1,1
+[14:15:06 player] 1,1;1,1
+[14:15:06 server] opponent 1,1;0,0
+[14:15:06 player] 0,0;2,2
+[14:15:06 server] opponent 1,1;1,0
+[14:15:07 player] 0,2;0,2
+[14:15:07 server] init
+[14:15:07 server] move
+[14:15:07 player] 0,1;0,0
+[14:15:07 server] opponent 0,0;2,1
+[14:15:07 player] 2,1;0,0
+[14:15:07 server] opponent 0,0;2,0
+[14:15:07 player] 2,0;1,0
+[14:15:07 server] opponent 1,0;2,2
+[14:15:07 player] 2,2;1,2
+[14:15:07 server] opponent 1,2;1,1
+[14:15:07 player] 1,1;0,2
+[14:15:07 server] opponent 0,2;2,2
+[14:15:07 player] 2,2;0,2
+[14:15:07 server] opponent 0,2;1,1
+[14:15:07 player] 1,1;1,0
+[14:15:07 server] opponent 1,0;1,2
+[14:15:08 player] 1,2;0,0
+[14:15:08 server] opponent 0,0;0,2
+[14:15:08 player] 0,2;0,0
+[14:15:08 server] opponent 0,0;2,2
+[14:15:08 player] 2,2;2,2
+[14:15:08 server] opponent 1,1;1,2
+[14:15:08 player] 1,2;1,2
+[14:15:08 server] opponent 1,2;2,1
+[14:15:08 player] 2,1;1,1
+[14:15:08 server] opponent 1,1;0,1
+[14:15:08 player] 0,1;2,1
+[14:15:08 server] opponent 2,1;2,2
+[14:15:08 player] 1,0;0,2
+[14:15:08 server] opponent 0,2;2,0
+[14:15:08 player] 2,0;1,1
+[14:15:08 server] opponent 1,1;1,1
+[14:15:08 player] 1,1;2,1
+[14:15:08 server] opponent 2,1;2,1
+[14:15:09 player] 2,1;2,0
+[14:15:09 server] opponent 2,0;2,0
+[14:15:09 player] 2,0;1,2
+[14:15:09 server] opponent 1,2;0,1
+[14:15:09 player] 0,1;1,0
+[14:15:09 server] opponent 1,0;0,1
+[14:15:09 player] 0,1;2,0
+[14:15:09 server] opponent 0,2;1,2
+[14:15:09 player] 0,2;1,0
+[14:15:09 server] opponent 1,0;1,0
+[14:15:09 player] 1,0;1,1
+[14:15:09 server] opponent 1,1;2,0
+[14:15:09 player] 0,2;2,1
+[14:15:09 server] opponent 2,1;0,1
+[14:15:09 player] 0,2;0,2
+[14:15:09 server] opponent 0,2;0,1
+[14:15:09 player] 1,0;2,0
+[14:15:09 server] opponent 2,1;1,2
+[14:15:10 player] 2,1;0,2
+[14:15:10 server] init
+[14:15:10 server] opponent 0,0;0,0
+[14:15:10 player] 0,0;0,1
+[14:15:10 server] opponent 0,1;1,2
+[14:15:10 player] 1,2;2,0
+[14:15:10 server] opponent 2,0;2,1
+[14:15:10 player] 2,1;0,0
+[14:15:10 server] opponent 0,0;0,2
+[14:15:10 player] 0,2;0,0
+[14:15:10 server] opponent 0,0;1,1
+[14:15:10 player] 1,1;0,0
+[14:15:10 server] opponent 0,0;1,0
+[14:15:10 player] 1,0;2,0
+[14:15:10 server] opponent 2,0;2,0
+[14:15:10 player] 2,0;2,2
+[14:15:10 server] opponent 2,2;0,0
+[14:15:10 player] 0,0;1,2
+[14:15:10 server] opponent 1,2;0,0
+[14:15:11 player] 0,0;2,0
+[14:15:11 server] opponent 2,0;1,1
+[14:15:11 player] 1,1;1,2
+[14:15:11 server] opponent 1,2;1,2
+[14:15:11 player] 1,2;1,0
+[14:15:11 server] opponent 1,0;1,1
+[14:15:11 player] 1,1;2,2
+[14:15:11 server] opponent 2,2;1,0
+[14:15:11 player] 1,0;0,2
+[14:15:11 server] opponent 0,2;1,0
+[14:15:11 player] 1,0;2,1
+[14:15:11 server] opponent 2,1;0,1
+[14:15:11 player] 0,1;2,2
+[14:15:11 server] opponent 2,2;0,1
+[14:15:11 player] 0,1;1,0
+[14:15:11 server] opponent 1,0;1,2
+[14:15:11 player] 1,2;0,2
+[14:15:11 server] opponent 0,2;2,2
+[14:15:11 player] 2,2;0,2
+[14:15:11 server] opponent 0,2;1,1
+[14:15:12 player] 1,1;0,2
+[14:15:12 server] opponent 0,2;1,2
+[14:15:12 player] 1,2;1,1
+[14:15:12 server] opponent 0,0;2,1
+[14:15:12 player] 2,1;1,0
+[14:15:12 server] opponent 1,0;0,0
+[14:15:12 player] 0,0;2,2
+[14:15:12 server] opponent 2,2;2,1
+[14:15:12 player] 2,1;2,0
+[14:15:12 server] opponent 2,0;0,0
+[14:15:12 player] 1,0;1,0
+[14:15:12 server] opponent 1,0;2,2
+[14:15:12 player] 2,2;2,0
+[14:15:12 server] opponent 2,0;0,1
+[14:15:12 player] 0,1;0,1
+[14:15:12 server] opponent 0,1;0,2
+[14:15:12 player] 2,2;1,1
+[14:15:12 server] opponent 0,1;1,1
+[14:15:13 player] 0,1;2,0
+[14:15:13 server] opponent 0,1;2,1
+[14:15:13 player] 0,1;0,0
+[14:15:13 server] init
+[14:15:13 server] move
+[14:15:13 player] 0,2;0,0
+[14:15:13 server] opponent 0,0;2,0
+[14:15:13 player] 2,0;2,1
+[14:15:13 server] opponent 2,1;0,1
+[14:15:13 player] 0,1;2,1
+[14:15:13 server] opponent 2,1;2,1
+[14:15:13 player] 2,1;1,1
+[14:15:13 server] opponent 1,1;1,2
+[14:15:13 player] 1,2;2,2
+[14:15:13 server] opponent 2,2;2,1
+[14:15:13 player] 2,1;1,2
+[14:15:13 server] opponent 1,2;1,2
+[14:15:13 player] 1,2;0,0
+[14:15:14 server] opponent 0,0;0,0
+[14:15:14 player] 0,0;1,0
+[14:15:14 server] opponent 1,0;2,2
+[14:15:14 player] 2,2;2,2
+[14:15:14 server] opponent 2,2;0,1
+[14:15:14 player] 0,1;2,2
+[14:15:14 server] opponent 2,2;0,0
+[14:15:14 player] 0,0;1,2
+[14:15:14 server] opponent 1,2;0,2
+[14:15:14 player] 0,2;2,2
+[14:15:14 server] opponent 2,2;1,2
+[14:15:14 player] 1,2;1,1
+[14:15:14 server] opponent 1,1;2,2
+[14:15:14 player] 2,2;0,2
+[14:15:14 server] opponent 0,2;0,1
+[14:15:14 player] 0,1;2,0
+[14:15:14 server] opponent 2,0;2,2
+[14:15:14 player] 2,2;1,1
+[14:15:14 server] opponent 1,1;0,1
+[14:15:15 player] 1,1;0,2
+[14:15:15 server] opponent 0,2;1,2
+[14:15:15 player] 0,0;1,1
+[14:15:15 server] opponent 1,1;1,0
+[14:15:15 player] 1,0;2,0
+[14:15:15 server] opponent 2,0;1,1
+[14:15:15 player] 1,1;1,1
+[14:15:15 server] opponent 1,1;2,0
+[14:15:15 player] 2,0;0,0
+[14:15:15 server] opponent 1,0;0,1
+[14:15:15 player] 1,1;2,1
+[14:15:15 server] opponent 2,1;0,0
+[14:15:15 player] 1,1;0,0
+[14:15:15 server] opponent 2,2;2,0
+[14:15:15 player] 2,0;0,1
+[14:15:15 server] opponent 0,2;0,2
+[14:15:15 player] 0,2;1,1
+[14:15:15 server] init
+[14:15:15 server] opponent 0,0;0,0
+[14:15:16 player] 0,0;2,0
+[14:15:16 server] opponent 2,0;2,1
+[14:15:16 player] 2,1;0,1
+[14:15:16 server] opponent 0,1;0,2
+[14:15:16 player] 0,2;2,0
+[14:15:16 server] opponent 2,0;0,0
+[14:15:16 player] 0,0;1,1
+[14:15:16 server] opponent 1,1;0,1
+[14:15:16 player] 0,1;1,2
+[14:15:16 server] opponent 1,2;0,2
+[14:15:16 player] 0,2;2,1
+[14:15:16 server] opponent 2,1;1,0
+[14:15:16 player] 1,0;0,1
+[14:15:16 server] opponent 0,1;0,0
+[14:15:16 player] 0,0;0,2
+[14:15:16 server] opponent 0,2;1,1
+[14:15:16 player] 1,1;1,0
+[14:15:16 server] opponent 1,0;1,1
+[14:15:17 player] 1,1;0,0
+[14:15:17 server] opponent 2,0;2,2
+[14:15:17 player] 2,2;0,1
+[14:15:17 server] opponent 0,1;2,1
+[14:15:17 player] 2,1;2,0
+[14:15:17 server] opponent 2,0;0,1
+[14:15:17 player] 0,1;0,1
+[14:15:17 server] opponent 0,1;1,1
+[14:15:17 player] 1,1;2,0
+[14:15:17 server] opponent 2,0;1,2
+[14:15:17 player] 1,2;1,2
+[14:15:17 server] opponent 1,2;2,2
+[14:15:17 player] 2,2;2,0
+[14:15:17 server] opponent 2,0;2,0
+[14:15:17 player] 0,1;2,2
+[14:15:17 server] opponent 2,2;1,2
+[14:15:17 player] 1,2;2,0
+[14:15:17 server] opponent 0,1;1,0
+[14:15:18 player] 1,0;2,0
+[14:15:18 server] opponent 0,1;2,0
+[14:15:18 player] 0,2;2,2
+[14:15:18 server] opponent 2,2;0,2
+[14:15:18 player] 2,2;2,2
+[14:15:18 server] opponent 2,2;1,1
+[14:15:18 player] 2,2;1,0
+[14:15:18 server] opponent 1,0;0,2
+[14:15:18 player] 2,2;2,1
+[14:15:18 server] init
+[14:15:18 server] move
+[14:15:18 player] 0,2;0,0
+[14:15:18 server] opponent 0,0;2,1
+[14:15:18 player] 2,1;1,1
+[14:15:18 server] opponent 1,1;0,0
+[14:15:18 player] 0,0;0,2
+[14:15:18 server] opponent 0,2;1,2
+[14:15:18 player] 1,2;2,1
+[14:15:18 server] opponent 2,1;2,1
+[14:15:19 player] 2,1;0,2
+[14:15:19 server] opponent 0,2;1,0
+[14:15:19 player] 1,0;1,0
+[14:15:19 server] opponent 1,0;0,1
+[14:15:19 player] 0,1;0,2
+[14:15:19 server] opponent 0,2;2,2
+[14:15:19 player] 2,2;0,2
+[14:15:19 server] opponent 0,2;0,1
+[14:15:19 player] 0,1;0,0
+[14:15:19 server] opponent 0,0;2,0
+[14:15:19 player] 2,0;0,2
+[14:15:19 server] opponent 0,2;1,1
+[14:15:19 player] 1,1;2,2
+[14:15:19 server] opponent 2,2;2,2
+[14:15:19 player] 2,2;2,0
+[14:15:19 server] opponent 2,0;1,1
+[14:15:19 player] 1,1;1,2
+[14:15:19 server] opponent 1,2;1,1
+[14:15:19 player] 1,1;0,2
+[14:15:19 server] opponent 0,0;1,2
+[14:15:20 player] 1,2;2,2
+[14:15:20 server] opponent 2,2;1,0
+[14:15:20 player] 1,0;2,0
+[14:15:20 server] opponent 2,0;0,1
+[14:15:20 player] 0,1;0,1
+[14:15:20 server] opponent 0,0;1,1
+[14:15:20 player] 0,0;1,0
+[14:15:20 server] opponent 1,0;1,2
+[14:15:20 player] 1,2;2,0
+[14:15:20 server] opponent 2,0;2,1
+[14:15:20 player] 2,1;2,0
+[14:15:20 server] init
+[14:15:20 server] opponent 0,0;1,1
+[14:15:20 player] 1,1;1,2
+[14:15:20 server] opponent 1,2;2,2
+[14:15:20 player] 2,2;1,1
+[14:15:20 server] opponent 1,1;2,0
+[14:15:20 player] 2,0;0,0
+[14:15:20 server] opponent 0,0;1,0
+[14:15:21 player] 1,0;0,0
+[14:15:21 server] opponent 0,0;2,1
+[14:15:21 player] 2,1;2,1
+[14:15:21 server] opponent 2,1;0,0
+[14:15:21 player] 0,0;1,2
+[14:15:21 server] opponent 1,2;0,1
+[14:15:21 player] 0,1;1,0
+[14:15:21 server] opponent 1,0;0,2
+[14:15:21 player] 0,2;1,1
+[14:15:21 server] opponent 1,1;0,2
+[14:15:21 player] 0,2;1,0
+[14:15:21 server] opponent 1,0;1,2
+[14:15:21 player] 1,2;2,0
+[14:15:21 server] opponent 2,0;0,1
+[14:15:21 player] 0,1;0,0
+[14:15:21 server] opponent 0,0;0,2
+[14:15:21 player] 0,2;1,2
+[14:15:21 server] opponent 1,2;0,0
+[14:15:22 player] 0,0;0,1
+[14:15:22 server] opponent 0,1;2,0
+[14:15:22 player] 2,0;2,0
+[14:15:22 server] opponent 2,0;1,0
+[14:15:22 player] 1,0;2,2
+[14:15:22 server] opponent 2,2;2,0
+[14:15:22 player] 2,0;0,2
+[14:15:22 server] opponent 0,0;2,0
+[14:15:22 player] 2,0;1,1
+[14:15:22 server] opponent 1,1;2,1
+[14:15:22 player] 2,1;0,2
+[14:15:22 server] opponent 2,1;2,0
+[14:15:22 player] 1,1;2,2
+[14:15:22 server] opponent 2,2;1,0
+[14:15:22 player] 1,0;1,1
+[14:15:22 server] opponent 1,1;0,1
+[14:15:22 player] 0,1;1,1
+[14:15:22 server] opponent 1,1;1,1
+[14:15:23 player] 1,2;0,2
+[14:15:23 server] opponent 1,2;1,1
+[14:15:23 player] 2,1;1,0
+[14:15:23 server] opponent 0,1;1,2
+[14:15:23 player] 2,2;0,0
+[14:15:23 server] opponent 2,2;1,2
+[14:15:23 player] 0,1;2,2
+[14:15:23 server] opponent 2,2;2,1
+[14:15:23 player] 2,1;0,1
+[14:15:23 server] opponent 2,1;1,1
+[14:15:23 player] 2,1;2,2
+[14:15:23 server] opponent 2,2;2,2
+[14:15:23 server] init
+[14:15:23 server] move
+[14:15:23 player] 0,0;2,0
+[14:15:23 server] opponent 2,0;2,1
+[14:15:23 player] 2,1;1,0
+[14:15:23 server] opponent 1,0;1,2
+[14:15:23 player] 1,2;2,0
+[14:15:23 server] opponent 2,0;1,0
+[14:15:24 player] 1,0;1,1
+[14:15:24 server] opponent 1,1;0,0
+[14:15:24 player] 0,0;1,1
+[14:15:24 server] opponent 1,1;0,1
+[14:15:24 player] 0,1;1,1
+[14:15:24 server] opponent 1,1;1,2
+[14:15:24 player] 1,2;1,1
+[14:15:24 server] opponent 1,1;2,2
+[14:15:24 player] 2,2;1,2
+[14:15:24 server] opponent 1,2;1,2
+[14:15:24 player] 1,2;0,2
+[14:15:24 server] opponent 0,2;2,0
+[14:15:24 player] 2,0;0,1
+[14:15:24 server] opponent 0,1;2,2
+[14:15:24 player] 2,2;2,1
+[14:15:24 server] opponent 2,1;2,2
+[14:15:24 player] 2,2;2,2
+[14:15:24 server] opponent 2,2;1,1
+[14:15:24 player] 1,1;0,2
+[14:15:24 server] opponent 0,2;1,1
+[14:15:25 player] 1,1;1,1
+[14:15:25 server] opponent 1,1;2,1
+[14:15:25 player] 2,1;1,2
+[14:15:25 server] opponent 0,0;1,0
+[14:15:25 player] 1,0;0,1
+[14:15:25 server] opponent 0,1;1,0
+[14:15:25 player] 1,0;2,1
+[14:15:25 server] opponent 2,1;2,0
+[14:15:25 player] 2,0;0,2
+[14:15:25 server] opponent 0,2;2,2
+[14:15:25 player] 2,2;2,0
+[14:15:25 server] opponent 2,0;1,2
+[14:15:25 player] 0,2;2,1
+[14:15:25 server] opponent 2,1;0,0
+[14:15:25 player] 0,0;0,2
+[14:15:25 server] opponent 0,2;1,0
+[14:15:25 player] 0,2;1,2
+[14:15:25 server] opponent 2,1;0,2
+[14:15:26 player] 0,2;0,0
+[14:15:26 server] opponent 2,1;1,1
+[14:15:26 player] 1,1;2,0
+[14:15:26 server] init
+[14:15:26 server] opponent 0,0;0,1
+[14:15:26 player] 0,1;1,0
+[14:15:26 server] opponent 1,0;0,0
+[14:15:26 player] 0,0;0,2
+[14:15:26 server] opponent 0,2;0,0
+[14:15:26 player] 0,0;1,0
+[14:15:26 server] opponent 1,0;0,1
+[14:15:26 player] 0,1;2,1
+[14:15:26 server] opponent 2,1;2,2
+[14:15:26 player] 2,2;0,0
+[14:15:26 server] opponent 0,0;2,2
+[14:15:26 player] 2,2;2,0
+[14:15:26 server] opponent 2,0;2,2
+[14:15:26 player] 2,2;1,0
+[14:15:26 server] opponent 1,0;1,1
+[14:15:27 player] 1,1;0,1
+[14:15:27 server] opponent 0,1;1,2
+[14:15:27 player] 1,2;0,2
+[14:15:27 server] opponent 0,2;2,0
+[14:15:27 player] 2,0;0,0
+[14:15:27 server] opponent 0,0;2,1
+[14:15:27 player] 2,1;1,1
+[14:15:27 server] opponent 1,1;1,1
+[14:15:27 player] 1,1;0,2
+[14:15:27 server] opponent 0,2;0,1
+[14:15:27 player] 0,1;1,1
+[14:15:27 server] opponent 1,1;1,2
+[14:15:27 player] 1,2;1,2
+[14:15:27 server] opponent 1,2;1,1
+[14:15:27 player] 1,1;1,0
+[14:15:27 server] opponent 1,0;2,0
+[14:15:27 player] 2,0;2,1
+[14:15:27 server] opponent 2,1;1,2
+[14:15:28 player] 1,2;2,2
+[14:15:28 server] opponent 0,0;1,1
+[14:15:28 player] 1,1;0,0
+[14:15:28 server] opponent 0,2;2,2
+[14:15:28 player] 0,2;0,2
+[14:15:28 server] opponent 0,2;1,1
+[14:15:28 player] 1,0;0,2
+[14:15:28 server] opponent 1,0;1,0
+[14:15:28 player] 2,1;0,2
+[14:15:28 server] opponent 0,1;0,0
+[14:15:28 player] 0,1;0,1
+[14:15:28 server] opponent 2,1;0,1
+[14:15:28 player] 2,1;2,0
+[14:15:28 server] init
+[14:15:28 server] move
+[14:15:29 player] 2,2;0,2
+[14:15:29 server] opponent 0,2;0,2
+[14:15:29 player] 0,2;1,0
+[14:15:29 server] opponent 1,0;1,1
+[14:15:30 player] 1,1;2,2
+[14:15:30 server] opponent 2,2;0,1
+[14:15:30 player] 0,1;2,1
+[14:15:30 server] opponent 2,1;0,2
+[14:15:30 player] 0,2;0,1
+[14:15:30 server] opponent 0,1;1,2
+[14:15:30 player] 1,2;1,1
+[14:15:30 server] opponent 1,1;2,0
+[14:15:30 player] 2,0;0,2
+[14:15:30 server] opponent 0,2;1,1
+[14:15:30 player] 1,1;0,0
+[14:15:30 server] opponent 0,0;0,1
+[14:15:30 player] 0,1;0,1
+[14:15:30 server] opponent 0,1;0,2
+[14:15:30 player] 0,2;2,0
+[14:15:30 server] opponent 2,0;1,1
+[14:15:30 player] 1,1;1,1
+[14:15:30 server] opponent 0,0;0,2
+[14:15:31 player] 0,2;0,0
+[14:15:31 server] opponent 0,0;2,1
+[14:15:31 player] 2,1;1,1
+[14:15:31 server] opponent 0,0;2,0
+[14:15:31 player] 2,0;0,1
+[14:15:31 server] opponent 0,1;2,2
+[14:15:31 player] 2,2;2,2
+[14:15:31 server] opponent 2,2;1,1
+[14:15:31 player] 0,0;0,0
+[14:15:31 server] opponent 0,0;1,0
+[14:15:31 player] 1,0;2,2
+[14:15:31 server] opponent 2,2;2,0
+[14:15:31 player] 2,0;0,0
+[14:15:31 server] init
+[14:15:31 server] opponent 0,0;2,1
+[14:15:31 player] 2,1;2,2
+[14:15:31 server] opponent 2,2;0,0
+[14:15:31 player] 0,0;1,1
+[14:15:31 server] opponent 1,1;1,2
+[14:15:32 player] 1,2;0,1
+[14:15:32 server] opponent 0,1;1,1
+[14:15:32 player] 1,1;1,1
+[14:15:32 server] opponent 1,1;2,0
+[14:15:32 player] 2,0;2,2
+[14:15:32 server] opponent 2,2;0,1
+[14:15:32 player] 0,1;1,0
+[14:15:32 server] opponent 1,0;0,2
+[14:15:32 player] 0,2;0,1
+[14:15:32 server] opponent 0,1;2,0
+[14:15:32 player] 2,0;1,0
+[14:15:32 server] opponent 1,0;1,0
+[14:15:32 player] 1,0;1,2
+[14:15:32 server] opponent 1,2;1,2
+[14:15:32 player] 1,2;1,0
+[14:15:32 server] opponent 1,0;2,2
+[14:15:32 player] 2,2;0,2
+[14:15:32 server] opponent 0,2;1,1
+[14:15:32 player] 1,1;1,0
+[14:15:32 server] opponent 1,0;2,0
+[14:15:33 player] 2,0;2,0
+[14:15:33 server] opponent 2,0;0,0
+[14:15:33 player] 0,0;0,0
+[14:15:33 server] opponent 0,0;1,2
+[14:15:33 player] 1,2;2,2
+[14:15:33 server] opponent 2,2;1,0
+[14:15:33 player] 1,0;2,1
+[14:15:33 server] opponent 2,1;1,1
+[14:15:33 player] 1,1;0,1
+[14:15:33 server] opponent 0,1;0,2
+[14:15:33 player] 0,2;1,0
+[14:15:33 server] opponent 1,0;0,0
+[14:15:33 player] 0,0;2,2
+[14:15:33 server] opponent 2,2;2,2
+[14:15:33 player] 2,2;2,0
+[14:15:33 server] opponent 2,0;0,2
+[14:15:33 player] 0,2;2,0
+[14:15:33 server] opponent 2,0;2,1
+[14:15:34 player] 2,1;2,0
+[14:15:34 server] opponent 2,0;1,2
+[14:15:34 player] 1,2;0,2
+[14:15:34 server] opponent 0,2;0,0
+[14:15:34 player] 0,2;2,2
+[14:15:34 server] opponent 2,2;2,1
+[14:15:34 player] 2,1;2,1
+[14:15:34 server] opponent 1,2;2,0
+[14:15:34 player] 2,0;0,1
+[14:15:34 server] opponent 2,0;1,1
+[14:15:34 player] 1,1;2,1
+[14:15:34 server] opponent 1,2;0,0
+[14:15:34 player] 2,2;1,1
+[14:15:34 server] init
+[14:15:34 server] move
+[14:15:34 player] 0,0;0,0
+[14:15:34 server] opponent 0,0;1,1
+[14:15:34 player] 1,1;1,0
+[14:15:34 server] opponent 1,0;2,0
+[14:15:35 player] 2,0;1,1
+[14:15:35 server] opponent 1,1;2,0
+[14:15:35 player] 2,0;0,0
+[14:15:35 server] opponent 0,0;2,2
+[14:15:35 player] 2,2;0,1
+[14:15:35 server] opponent 0,1;2,0
+[14:15:35 player] 2,0;2,2
+[14:15:35 server] opponent 2,2;1,0
+[14:15:35 player] 1,0;0,0
+[14:15:35 server] opponent 0,0;0,2
+[14:15:35 player] 0,2;0,1
+[14:15:35 server] opponent 0,1;0,0
+[14:15:35 player] 0,0;1,2
+[14:15:35 server] opponent 1,2;1,1
+[14:15:35 player] 1,1;0,1
+[14:15:35 server] opponent 0,1;2,1
+[14:15:35 player] 2,1;2,1
+[14:15:35 server] opponent 2,1;2,0
+[14:15:36 player] 0,0;2,0
+[14:15:36 server] opponent 0,0;0,1
+[14:15:36 player] 0,1;2,2
+[14:15:36 server] opponent 2,2;1,2
+[14:15:36 player] 1,2;0,2
+[14:15:36 server] opponent 0,2;1,1
+[14:15:36 player] 1,1;1,1
+[14:15:36 server] opponent 1,1;0,2
+[14:15:36 player] 0,2;0,2
+[14:15:36 server] opponent 0,2;1,0
+[14:15:36 player] 1,0;0,1
+[14:15:36 server] opponent 0,1;0,2
+[14:15:36 player] 0,2;1,2
+[14:15:36 server] opponent 1,2;2,1
+[14:15:36 player] 2,1;1,0
+[14:15:36 server] opponent 1,0;2,1
+[14:15:36 player] 2,1;1,2
+[14:15:36 server] opponent 1,2;2,2
+[14:15:37 player] 2,2;1,1
+[14:15:37 server] opponent 1,1;2,2
+[14:15:37 player] 2,2;2,1
+[14:15:37 server] opponent 2,1;2,2
+[14:15:37 player] 0,0;2,1
+[14:15:37 server] opponent 2,1;0,2
+[14:15:37 player] 0,2;0,0
+[14:15:37 server] opponent 0,0;1,0
+[14:15:37 player] 1,0;2,2
+[14:15:37 server] opponent 1,2;0,0
+[14:15:37 player] 0,1;0,1
+[14:15:37 server] opponent 0,1;1,1
+[14:15:37 player] 1,1;2,1
+[14:15:37 server] init
+[14:15:37 server] opponent 0,0;1,1
+[14:15:37 player] 1,1;1,1
+[14:15:37 server] opponent 1,1;1,2
+[14:15:37 player] 1,2;1,0
+[14:15:37 server] opponent 1,0;2,0
+[14:15:38 player] 2,0;2,1
+[14:15:38 server] opponent 2,1;0,0
+[14:15:38 player] 0,0;2,0
+[14:15:38 server] opponent 2,0;1,1
+[14:15:38 player] 1,1;2,2
+[14:15:38 server] opponent 2,2;2,0
+[14:15:38 player] 2,0;1,2
+[14:15:38 server] opponent 1,2;2,0
+[14:15:38 player] 2,0;0,2
+[14:15:38 server] opponent 0,2;2,0
+[14:15:38 player] 2,0;2,2
+[14:15:38 server] opponent 2,2;0,2
+[14:15:38 player] 0,2;0,1
+[14:15:38 server] opponent 0,1;0,0
+[14:15:38 player] 0,0;2,2
+[14:15:38 server] opponent 2,2;0,0
+[14:15:38 player] 0,0;2,1
+[14:15:38 server] opponent 2,1;2,2
+[14:15:38 player] 2,2;0,1
+[14:15:38 server] opponent 0,1;2,1
+[14:15:39 player] 2,1;1,1
+[14:15:39 server] opponent 1,1;2,0
+[14:15:39 player] 2,2;1,0
+[14:15:39 server] opponent 1,0;2,2
+[14:15:39 player] 2,2;1,1
+[14:15:39 server] opponent 1,1;1,0
+[14:15:39 player] 1,0;2,1
+[14:15:39 server] opponent 2,1;0,1
+[14:15:39 player] 0,1;0,2
+[14:15:39 server] opponent 0,2;0,0
+[14:15:39 player] 0,2;1,0
+[14:15:39 server] opponent 1,0;1,0
+[14:15:39 player] 1,0;0,0
+[14:15:39 server] opponent 2,2;2,2
+[14:15:39 player] 2,2;2,1
+[14:15:39 server] opponent 2,1;0,2
+[14:15:39 player] 0,2;2,2
+[14:15:39 server] opponent 0,1;2,2
+[14:15:40 player] 0,1;2,0
+[14:15:40 server] opponent 0,1;1,2
+[14:15:40 player] 1,2;0,2
+[14:15:40 server] opponent 0,2;1,2
+[14:15:40 player] 1,2;1,1
+[14:15:40 server] opponent 1,1;0,0
+[14:15:40 player] 0,1;1,1
+[14:15:40 server] opponent 1,2;2,2
+[14:15:40 player] 1,2;2,1
+[14:15:40 server] opponent 0,2;2,1
+[14:15:40 player] 1,2;1,2
+[14:15:40 server] opponent 0,2;1,1
+[14:15:40 player] 0,2;0,2
+[14:15:40 server] opponent 1,0;1,1
+[14:15:40 player] 1,0;1,2
+[14:15:40 server] opponent 1,0;0,1
+[14:15:41 player] 1,0;0,2
+[14:15:41 server] init
+[14:15:41 server] move
+[14:15:41 player] 0,0;0,0
+[14:15:41 server] opponent 0,0;0,2
+[14:15:41 player] 0,2;0,0
+[14:15:41 server] opponent 0,0;2,1
+[14:15:41 player] 2,1;0,1
+[14:15:41 server] opponent 0,1;0,0
+[14:15:41 player] 0,0;0,1
+[14:15:41 server] opponent 0,1;0,1
+[14:15:41 player] 0,1;0,2
+[14:15:41 server] opponent 0,2;2,2
+[14:15:41 player] 2,2;0,1
+[14:15:41 server] opponent 0,1;1,0
+[14:15:41 player] 1,0;2,2
+[14:15:41 server] opponent 2,2;1,0
+[14:15:41 player] 1,0;0,0
+[14:15:41 server] opponent 0,0;1,1
+[14:15:41 player] 1,1;0,1
+[14:15:41 server] opponent 0,1;1,2
+[14:15:42 player] 1,2;2,1
+[14:15:42 server] opponent 2,1;1,2
+[14:15:42 player] 1,2;2,2
+[14:15:42 server] opponent 2,2;1,2
+[14:15:42 player] 1,2;2,0
+[14:15:42 server] opponent 2,0;2,1
+[14:15:42 player] 2,1;0,0
+[14:15:42 server] opponent 0,0;2,0
+[14:15:42 player] 2,0;1,0
+[14:15:42 server] opponent 1,0;1,2
+[14:15:42 player] 0,1;1,1
+[14:15:42 server] opponent 1,1;1,0
+[14:15:42 player] 1,0;1,1
+[14:15:42 server] opponent 1,1;0,0
+[14:15:42 player] 0,1;2,0
+[14:15:42 server] opponent 2,0;0,1
+[14:15:42 player] 1,1;2,0
+[14:15:42 server] opponent 2,0;1,2
+[14:15:43 player] 2,0;1,1
+[14:15:43 server] opponent 1,1;2,2
+[14:15:43 player] 2,2;1,1
+[14:15:43 server] opponent 1,1;1,2
+[14:15:43 player] 1,1;1,1
+[14:15:43 server] opponent 1,1;0,2
+[14:15:43 player] 0,2;1,1
+[14:15:43 server] opponent 2,2;0,0
+[14:15:43 player] 2,2;2,0
+[14:15:43 server] opponent 2,0;0,2
+[14:15:43 player] 0,2;2,0
+[14:15:43 server] opponent 2,0;0,0
+[14:15:43 player] 0,2;1,0
+[14:15:43 server] opponent 2,2;2,1
+[14:15:43 player] 2,1;0,2
+[14:15:43 server] opponent 2,2;0,2
+[14:15:43 player] 2,2;2,2
+[14:15:43 server] init
+[14:15:43 server] opponent 0,0;0,1
+[14:15:44 player] 0,1;2,0
+[14:15:44 server] opponent 2,0;0,2
+[14:15:44 player] 0,2;1,2
+[14:15:44 server] opponent 1,2;1,2
+[14:15:44 player] 1,2;1,0
+[14:15:44 server] opponent 1,0;0,2
+[14:15:44 player] 0,2;0,1
+[14:15:44 server] opponent 0,1;1,2
+[14:15:44 player] 1,2;2,1
+[14:15:44 server] opponent 2,1;1,1
+[14:15:44 player] 1,1;2,2
+[14:15:44 server] opponent 2,2;0,1
+[14:15:44 player] 0,1;1,1
+[14:15:44 server] opponent 1,1;2,0
+[14:15:44 player] 2,0;1,0
+[14:15:44 server] opponent 1,0;2,2
+[14:15:44 player] 2,2;0,2
+[14:15:44 server] opponent 0,2;1,0
+[14:15:45 player] 1,0;1,2
+[14:15:45 server] opponent 1,2;2,0
+[14:15:45 player] 2,0;2,0
+[14:15:45 server] opponent 2,0;0,1
+[14:15:45 player] 0,1;0,2
+[14:15:45 server] opponent 0,2;2,0
+[14:15:45 player] 2,0;0,0
+[14:15:45 server] opponent 0,0;1,1
+[14:15:45 player] 1,1;1,2
+[14:15:45 server] opponent 1,2;2,2
+[14:15:45 player] 2,2;1,1
+[14:15:45 server] opponent 1,1;2,1
+[14:15:45 player] 2,1;0,1
+[14:15:45 server] opponent 0,0;0,0
+[14:15:45 player] 0,0;0,2
+[14:15:45 server] opponent 0,2;1,1
+[14:15:45 player] 1,1;0,2
+[14:15:45 server] opponent 0,2;0,0
+[14:15:45 player] 0,0;2,1
+[14:15:45 server] opponent 2,1;2,0
+[14:15:46 player] 0,0;2,2
+[14:15:46 server] opponent 2,2;0,0
+[14:15:46 player] 0,0;2,0
+[14:15:46 server] opponent 1,0;2,0
+[14:15:46 player] 1,0;2,1
+[14:15:46 server] opponent 2,1;0,0
+[14:15:46 player] 1,0;1,1
+[14:15:46 server] opponent 1,0;0,1
+[14:15:46 player] 1,0;0,0
+[14:15:46 server] opponent 2,2;1,2
+[14:15:46 player] 1,2;0,2
+[14:15:46 server] opponent 1,0;1,0
+[14:15:46 player] 2,1;1,0
+[14:15:46 server] opponent 1,2;0,1
+[14:15:46 player] 2,1;2,2
+[14:15:46 server] opponent 2,2;2,0
+[14:15:46 player] 2,1;0,2
+[14:15:46 server] opponent 2,2;2,2
+[14:15:47 player] 2,2;2,1
+[14:15:47 server] opponent 2,1;1,2
+[14:15:47 player] 1,2;0,0
+[14:15:47 server] opponent 1,2;1,1
+[14:15:47 player] 2,2;1,0
+[14:15:47 server] opponent 2,1;2,1
+[14:15:47 server] init
+[14:15:47 server] move
+[14:15:47 player] 0,1;0,2
+[14:15:47 server] opponent 0,2;0,2
+[14:15:47 player] 0,2;1,1
+[14:15:47 server] opponent 1,1;2,2
+[14:15:47 player] 2,2;0,1
+[14:15:47 server] opponent 0,1;2,2
+[14:15:47 player] 2,2;2,2
+[14:15:47 server] opponent 2,2;1,2
+[14:15:47 player] 1,2;2,1
+[14:15:47 server] opponent 2,1;2,1
+[14:15:48 player] 2,1;1,2
+[14:15:48 server] opponent 1,2;0,2
+[14:15:48 player] 0,2;2,0
+[14:15:48 server] opponent 2,0;2,1
+[14:15:48 player] 2,1;1,0
+[14:15:48 server] opponent 1,0;2,1
+[14:15:48 player] 2,1;1,1
+[14:15:48 server] opponent 1,1;0,1
+[14:15:48 player] 0,1;1,2
+[14:15:48 server] opponent 1,2;1,2
+[14:15:48 player] 1,2;2,2
+[14:15:48 server] opponent 2,2;1,1
+[14:15:48 player] 1,1;1,1
+[14:15:48 server] opponent 1,1;0,2
+[14:15:48 player] 0,2;0,0
+[14:15:48 server] opponent 0,0;0,2
+[14:15:48 player] 0,2;1,0
+[14:15:48 server] opponent 1,0;2,0
+[14:15:48 player] 2,0;0,0
+[14:15:48 server] opponent 0,0;1,2
+[14:15:49 player] 1,2;2,0
+[14:15:49 server] opponent 2,0;1,0
+[14:15:49 player] 1,0;2,2
+[14:15:49 server] opponent 2,2;0,2
+[14:15:49 player] 0,0;2,2
+[14:15:49 server] opponent 2,2;1,0
+[14:15:49 player] 1,0;0,2
+[14:15:49 server] opponent 0,0;0,0
+[14:15:49 player] 0,0;0,1
+[14:15:49 server] opponent 0,1;0,1
+[14:15:49 player] 0,1;1,0
+[14:15:49 server] opponent 1,0;0,1
+[14:15:49 player] 0,1;1,1
+[14:15:49 server] opponent 1,1;1,2
+[14:15:49 player] 1,0;1,1
+[14:15:49 server] opponent 0,0;2,1
+[14:15:49 player] 1,0;1,2
+[14:15:49 server] opponent 0,0;1,0
+[14:15:50 player] 0,0;1,1
+[14:15:50 server] opponent 0,0;2,0
+[14:15:50 server] init
+[14:15:50 server] opponent 0,0;2,1
+[14:15:50 player] 2,1;1,2
+[14:15:50 server] opponent 1,2;1,0
+[14:15:50 player] 1,0;0,1
+[14:15:50 server] opponent 0,1;0,1
+[14:15:50 player] 0,1;1,1
+[14:15:50 server] opponent 1,1;1,2
+[14:15:50 player] 1,2;2,1
+[14:15:50 server] opponent 2,1;1,0
+[14:15:50 player] 1,0;2,2
+[14:15:50 server] opponent 2,2;1,2
+[14:15:50 player] 1,2;1,1
+[14:15:50 server] opponent 1,1;1,1
+[14:15:50 player] 1,1;1,0
+[14:15:50 server] opponent 1,0;1,0
+[14:15:50 player] 1,0;1,1
+[14:15:50 server] opponent 1,1;0,0
+[14:15:51 player] 0,0;0,0
+[14:15:51 server] opponent 0,0;0,2
+[14:15:51 player] 0,2;1,0
+[14:15:51 server] opponent 1,0;2,0
+[14:15:51 player] 2,0;0,2
+[14:15:51 server] opponent 0,2;0,2
+[14:15:51 player] 0,2;0,1
+[14:15:51 server] opponent 0,1;2,1
+[14:15:51 player] 2,1;1,1
+[14:15:51 server] opponent 1,1;0,2
+[14:15:51 player] 0,2;2,1
+[14:15:51 server] opponent 2,1;2,0
+[14:15:51 player] 2,0;2,1
+[14:15:51 server] opponent 2,1;2,2
+[14:15:51 player] 2,2;2,2
+[14:15:51 server] opponent 2,2;2,0
+[14:15:51 player] 2,0;0,0
+[14:15:51 server] opponent 0,0;1,1
+[14:15:52 player] 1,1;0,1
+[14:15:52 server] opponent 0,1;1,0
+[14:15:52 player] 1,0;0,0
+[14:15:52 server] opponent 0,0;2,0
+[14:15:52 player] 2,0;0,1
+[14:15:52 server] opponent 0,1;1,2
+[14:15:52 player] 1,2;0,1
+[14:15:52 server] opponent 0,1;2,2
+[14:15:52 player] 2,2;1,0
+[14:15:52 server] opponent 2,1;2,1
+[14:15:52 player] 0,1;2,0
+[14:15:52 server] opponent 2,2;0,0
+[14:15:52 player] 0,1;0,2
+[14:15:52 server] opponent 0,2;1,2
+[14:15:52 player] 0,2;2,2
+[14:15:52 server] opponent 2,2;0,2
+[14:15:52 player] 0,2;2,0
+[14:15:52 server] opponent 2,2;2,1
+[14:15:53 player] 1,1;2,2
+[14:15:53 server] opponent 2,2;0,1
+[14:15:53 player] 1,1;2,0
+[14:15:53 server] opponent 1,1;2,1
+[14:15:53 server] init
+[14:15:53 server] move
+[14:15:53 player] 0,0;0,0
+[14:15:53 server] opponent 0,0;1,2
+[14:15:53 player] 1,2;1,0
+[14:15:53 server] opponent 1,0;2,0
+[14:15:53 player] 2,0;1,0
+[14:15:53 server] opponent 1,0;1,2
+[14:15:53 player] 1,2;2,0
+[14:15:53 server] opponent 2,0;2,1
+[14:15:53 player] 2,1;0,1
+[14:15:53 server] opponent 0,1;2,2
+[14:15:53 player] 2,2;0,0
+[14:15:53 server] opponent 0,0;1,0
+[14:15:53 player] 1,0;0,2
+[14:15:53 server] opponent 0,2;0,1
+[14:15:54 player] 0,1;2,1
+[14:15:54 server] opponent 2,1;2,0
+[14:15:54 player] 2,0;2,2
+[14:15:54 server] opponent 2,2;2,2
+[14:15:54 player] 2,2;1,2
+[14:15:54 server] opponent 1,2;0,0
+[14:15:54 player] 0,0;1,1
+[14:15:54 server] opponent 1,1;2,0
+[14:15:54 player] 2,0;1,1
+[14:15:54 server] opponent 1,1;0,0
+[14:15:54 player] 0,0;2,2
+[14:15:54 server] opponent 2,2;2,0
+[14:15:54 player] 2,0;1,2
+[14:15:54 server] opponent 1,2;2,1
+[14:15:54 player] 2,1;2,2
+[14:15:54 server] opponent 2,2;1,1
+[14:15:54 player] 1,1;1,0
+[14:15:54 server] opponent 1,0;0,0
+[14:15:54 player] 1,0;1,0
+[14:15:54 server] opponent 1,0;2,1
+[14:15:55 player] 2,1;1,0
+[14:15:55 server] opponent 1,0;2,2
+[14:15:55 player] 2,2;2,1
+[14:15:55 server] opponent 2,1;0,0
+[14:15:55 player] 2,2;0,2
+[14:15:55 server] opponent 0,2;0,0
+[14:15:55 player] 0,2;0,2
+[14:15:55 server] opponent 0,2;2,2
+[14:15:55 player] 2,2;0,1
+[14:15:55 server] opponent 0,1;1,0
+[14:15:55 player] 0,2;1,1
+[14:15:55 server] opponent 1,1;1,2
+[14:15:55 player] 1,2;0,1
+[14:15:55 server] opponent 0,1;1,1
+[14:15:55 player] 1,1;1,1
+[14:15:55 server] opponent 1,1;2,2
+[14:15:55 player] 0,1;1,2
+[14:15:55 server] opponent 1,2;1,1
+[14:15:56 player] 1,1;2,1
+[14:15:56 server] opponent 2,1;1,2
+[14:15:56 player] 1,2;2,2
+[14:15:56 server] opponent 1,2;0,2
+[14:15:56 player] 0,2;2,0
+[14:15:56 server] opponent 2,1;2,1
+[14:15:56 player] 2,1;0,2
+[14:15:56 server] opponent 0,1;0,2
+[14:15:56 player] 0,1;0,0
+[14:15:56 server] opponent 2,1;1,1
+[14:15:56 player] 1,1;0,2
+[14:15:56 server] opponent 0,1;2,0
+[14:15:56 player] 1,1;0,1
+[14:15:56 server] init
+[14:15:56 server] opponent 0,0;1,2
+[14:15:56 player] 1,2;0,0
+[14:15:56 server] opponent 0,0;1,0
+[14:15:56 player] 1,0;1,2
+[14:15:56 server] opponent 1,2;1,0
+[14:15:57 player] 1,0;2,0
+[14:15:57 server] opponent 2,0;1,2
+[14:15:57 player] 1,2;0,1
+[14:15:57 server] opponent 0,1;1,2
+[14:15:57 player] 1,2;0,2
+[14:15:57 server] opponent 0,2;1,2
+[14:15:57 player] 0,0;1,1
+[14:15:57 server] opponent 1,1;0,1
+[14:15:57 player] 0,1;1,1
+[14:15:57 server] opponent 1,1;2,1
+[14:15:57 player] 2,1;1,0
+[14:15:57 server] opponent 1,0;1,0
+[14:15:57 player] 1,0;0,1
+[14:15:57 server] opponent 0,1;0,1
+[14:15:57 player] 0,1;1,0
+[14:15:57 server] opponent 1,0;0,0
+[14:15:57 player] 0,0;2,1
+[14:15:57 server] opponent 2,1;2,0
+[14:15:58 player] 2,0;0,2
+[14:15:58 server] opponent 0,2;2,0
+[14:15:58 player] 2,0;1,0
+[14:15:58 server] opponent 1,0;2,1
+[14:15:58 player] 2,1;1,1
+[14:15:58 server] opponent 1,1;2,0
+[14:15:58 player] 2,0;1,1
+[14:15:58 server] opponent 1,1;1,2
+[14:15:58 player] 1,1;2,2
+[14:15:58 server] opponent 2,2;1,1
+[14:15:58 player] 1,1;1,1
+[14:15:58 server] opponent 1,1;0,2
+[14:15:58 player] 0,2;1,0
+[14:15:58 server] opponent 1,0;2,2
+[14:15:58 player] 2,2;1,2
+[14:15:58 server] opponent 0,0;2,2
+[14:15:58 player] 2,2;2,1
+[14:15:58 server] opponent 2,1;0,1
+[14:15:58 player] 0,1;0,2
+[14:15:59 server] opponent 0,2;0,1
+[14:15:59 player] 0,1;2,0
+[14:15:59 server] opponent 2,0;2,0
+[14:15:59 player] 2,0;2,1
+[14:15:59 server] opponent 2,1;0,2
+[14:15:59 player] 0,2;2,1
+[14:15:59 server] opponent 2,1;2,1
+[14:15:59 player] 2,1;0,0
+[14:15:59 server] opponent 0,0;2,0
+[14:15:59 player] 2,0;0,1
+[14:15:59 server] opponent 0,0;0,2
+[14:15:59 player] 0,2;0,0
+[14:15:59 server] opponent 1,0;1,1
+[14:15:59 player] 1,1;0,0
+[14:15:59 server] opponent 2,1;2,2
+[14:15:59 player] 2,2;0,2
+[14:15:59 server] opponent 0,2;0,2
+[14:15:59 player] 0,2;2,2
+[14:15:59 server] opponent 2,2;1,0
+[14:16:00 player] 0,2;1,1
+[14:16:00 server] init
+[14:16:00 server] move
+[14:16:00 player] 0,0;0,1
+[14:16:00 server] opponent 0,1;1,2
+[14:16:00 player] 1,2;2,0
+[14:16:00 server] opponent 2,0;1,2
+[14:16:00 player] 1,2;0,0
+[14:16:00 server] opponent 0,0;0,0
+[14:16:00 player] 0,0;2,1
+[14:16:00 server] opponent 2,1;0,0
+[14:16:00 player] 0,0;1,1
+[14:16:00 server] opponent 1,1;1,0
+[14:16:00 player] 1,0;0,0
+[14:16:00 server] opponent 1,2;1,2
+[14:16:00 player] 1,2;1,0
+[14:16:00 server] opponent 1,0;2,1
+[14:16:00 player] 2,1;0,1
+[14:16:00 server] opponent 0,1;0,0
+[14:16:01 player] 0,1;1,1
+[14:16:01 server] opponent 1,1;0,2
+[14:16:01 player] 0,2;1,1
+[14:16:01 server] opponent 1,1;0,1
+[14:16:01 player] 0,1;2,1
+[14:16:01 server] opponent 2,1;1,1
+[14:16:01 player] 1,1;0,0
+[14:16:01 server] opponent 2,1;2,2
+[14:16:01 player] 2,2;2,0
+[14:16:01 server] opponent 2,0;2,1
+[14:16:01 player] 0,1;0,1
+[14:16:01 server] opponent 0,2;1,2
+[14:16:01 player] 1,0;0,2
+[14:16:01 server] opponent 0,2;0,2
+[14:16:01 player] 0,2;2,2
+[14:16:01 server] opponent 2,2;2,1
+[14:16:02 player] 0,2;0,0
+[14:16:02 server] init
+[14:16:02 server] opponent 0,0;2,2
+[14:16:02 player] 2,2;2,0
+[14:16:02 server] opponent 2,0;0,2
+[14:16:02 player] 0,2;2,0
+[14:16:02 server] opponent 2,0;1,0
+[14:16:02 player] 1,0;0,2
+[14:16:02 server] opponent 0,2;0,0
+[14:16:02 player] 0,0;1,1
+[14:16:02 server] opponent 1,1;1,2
+[14:16:02 player] 1,2;1,2
+[14:16:02 server] opponent 1,2;0,0
+[14:16:02 player] 0,0;0,2
+[14:16:02 server] opponent 0,2;2,1
+[14:16:02 player] 2,1;0,2
+[14:16:02 server] opponent 0,2;1,1
+[14:16:02 player] 1,1;1,1
+[14:16:02 server] opponent 1,1;2,0
+[14:16:02 player] 2,0;2,0
+[14:16:02 server] opponent 2,0;1,1
+[14:16:03 player] 1,1;1,0
+[14:16:03 server] opponent 1,0;2,1
+[14:16:03 player] 2,1;1,2
+[14:16:03 server] opponent 1,2;2,2
+[14:16:03 player] 2,2;1,2
+[14:16:03 server] opponent 1,2;1,1
+[14:16:03 player] 1,1;2,1
+[14:16:03 server] opponent 2,1;0,0
+[14:16:03 player] 0,0;2,0
+[14:16:03 server] opponent 2,0;0,1
+[14:16:03 player] 0,1;0,0
+[14:16:03 server] opponent 2,1;1,0
+[14:16:03 player] 1,0;2,2
+[14:16:03 server] opponent 2,2;1,0
+[14:16:03 player] 1,0;1,2
+[14:16:03 server] opponent 2,1;2,2
+[14:16:03 player] 2,2;2,1
+[14:16:03 server] opponent 2,1;2,0
+[14:16:04 player] 2,0;0,0
+[14:16:04 server] opponent 2,0;1,2
+[14:16:04 player] 0,2;0,1
+[14:16:04 server] opponent 0,1;1,0
+[14:16:04 player] 0,2;2,2
+[14:16:04 server] opponent 2,2;2,2
+[14:16:04 player] 2,2;0,0
+[14:16:04 server] opponent 0,2;0,2
+[14:16:04 player] 0,2;1,0
+[14:16:04 server] opponent 1,1;0,0
+[14:16:04 player] 1,1;0,1
+[14:16:04 server] opponent 0,1;1,2
+[14:16:04 player] 0,1;1,1
+[14:16:04 server] opponent 2,2;1,1
+[14:16:04 player] 0,1;2,2
+[14:16:04 server] opponent 2,2;0,2
+[14:16:04 player] 0,2;1,2
+[14:16:04 server] opponent 2,2;0,1
+[14:16:04 server] init
+[14:16:04 server] move
+[14:16:05 player] 0,0;1,1
+[14:16:05 server] opponent 1,1;2,2
+[14:16:05 player] 2,2;1,2
+[14:16:05 server] opponent 1,2;1,2
+[14:16:05 player] 1,2;0,0
+[14:16:05 server] opponent 0,0;0,1
+[14:16:05 player] 0,1;1,1
+[14:16:05 server] opponent 1,1;1,2
+[14:16:05 player] 1,2;1,1
+[14:16:05 server] opponent 1,1;0,0
+[14:16:05 player] 0,0;0,2
+[14:16:05 server] opponent 0,2;2,2
+[14:16:05 player] 2,2;1,1
+[14:16:05 server] opponent 1,1;2,1
+[14:16:05 player] 2,1;1,1
+[14:16:05 server] opponent 1,1;0,2
+[14:16:05 player] 0,2;0,0
+[14:16:05 server] opponent 0,0;2,0
+[14:16:06 player] 2,0;2,2
+[14:16:06 server] opponent 2,2;2,2
+[14:16:06 player] 2,2;1,0
+[14:16:06 server] opponent 1,0;0,1
+[14:16:06 player] 0,1;0,1
+[14:16:06 server] opponent 0,1;2,1
+[14:16:06 player] 2,1;0,2
+[14:16:06 server] opponent 0,2;1,1
+[14:16:06 player] 1,2;2,2
+[14:16:06 server] opponent 0,0;1,2
+[14:16:06 player] 2,1;2,0
+[14:16:06 server] opponent 2,0;0,0
+[14:16:06 player] 0,0;2,1
+[14:16:06 server] opponent 0,0;0,0
+[14:16:06 player] 0,0;1,0
+[14:16:06 server] opponent 1,0;2,0
+[14:16:06 player] 2,0;0,1
+[14:16:06 server] opponent 0,1;2,2
+[14:16:07 player] 0,1;2,0
+[14:16:07 server] opponent 2,0;2,1
+[14:16:07 player] 0,1;0,2
+[14:16:07 server] opponent 0,2;1,0
+[14:16:07 player] 1,0;1,0
+[14:16:07 server] opponent 1,0;0,0
+[14:16:07 player] 0,0;2,2
+[14:16:07 server] opponent 0,2;2,1
+[14:16:07 player] 0,2;1,2
+[14:16:07 server] opponent 0,2;0,1
+[14:16:07 player] 1,0;0,2
+[14:16:07 server] opponent 2,0;2,0
+[14:16:07 player] 2,0;1,0
+[14:16:07 server] opponent 1,0;2,2
+[14:16:07 player] 1,0;2,1
+[14:16:07 server] opponent 1,0;1,1
+[14:16:07 player] 2,0;1,2
+[14:16:07 server] opponent 2,0;1,1
+[14:16:08 player] 2,0;0,2
+[14:16:08 server] init
+[14:16:08 server] opponent 0,0;1,2
+[14:16:08 player] 1,2;1,2
+[14:16:08 server] opponent 1,2;1,0
+[14:16:08 player] 1,0;0,1
+[14:16:08 server] opponent 0,1;1,2
+[14:16:08 player] 1,2;0,2
+[14:16:08 server] opponent 0,2;2,1
+[14:16:08 player] 2,1;1,1
+[14:16:08 server] opponent 1,1;0,2
+[14:16:08 player] 0,2;2,0
+[14:16:08 server] opponent 2,0;2,0
+[14:16:08 player] 2,0;1,2
+[14:16:08 server] opponent 1,2;2,2
+[14:16:08 player] 2,2;1,2
+[14:16:08 server] opponent 1,2;0,1
+[14:16:08 player] 0,1;0,1
+[14:16:08 server] opponent 0,1;1,0
+[14:16:09 player] 1,0;1,1
+[14:16:09 server] opponent 1,1;1,0
+[14:16:09 player] 1,0;2,1
+[14:16:09 server] opponent 2,1;1,2
+[14:16:09 player] 1,2;1,1
+[14:16:09 server] opponent 1,1;2,1
+[14:16:09 player] 2,1;0,2
+[14:16:09 server] opponent 0,2;0,0
+[14:16:09 player] 0,0;2,1
+[14:16:09 server] opponent 2,1;1,0
+[14:16:09 player] 0,1;1,1
+[14:16:09 server] opponent 1,1;0,0
+[14:16:09 player] 0,0;2,2
+[14:16:09 server] opponent 2,2;2,0
+[14:16:09 player] 2,0;2,1
+[14:16:09 server] opponent 2,1;0,0
+[14:16:09 player] 0,0;2,0
+[14:16:09 server] opponent 2,0;0,1
+[14:16:09 player] 0,1;2,1
+[14:16:09 server] opponent 2,1;2,2
+[14:16:10 player] 2,2;1,1
+[14:16:10 server] opponent 1,1;2,0
+[14:16:10 player] 2,0;0,0
+[14:16:10 server] opponent 2,1;2,1
+[14:16:10 player] 2,1;2,0
+[14:16:10 server] opponent 2,0;0,2
+[14:16:10 player] 0,2;0,1
+[14:16:10 server] opponent 2,2;0,2
+[14:16:10 player] 0,2;2,2
+[14:16:10 server] opponent 2,2;1,0
+[14:16:10 player] 2,0;1,1
+[14:16:10 server] opponent 2,2;2,2
+[14:16:10 player] 2,2;2,1
+[14:16:10 server] opponent 1,2;2,1
+[14:16:10 player] 1,2;2,0
+[14:16:10 server] opponent 2,0;1,0
+[14:16:11 player] 2,2;0,0
+[14:16:11 server] opponent 2,0;2,2
+[14:16:11 player] 2,2;0,1
+[14:16:11 server] opponent 0,2;1,0
+[14:16:11 player] 0,2;1,2
+[14:16:11 server] opponent 0,2;1,1
+[14:16:11 player] 0,2;0,2
